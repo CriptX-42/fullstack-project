@@ -2,4 +2,5 @@
 2. [[Null]]
 3. [[Undefined]]
 4. [[Proxy]]
-5. 
+5. [[Callback]]
+6. [[setTimeout]]

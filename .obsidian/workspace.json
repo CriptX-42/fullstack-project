@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8962539b1f8c245a",
+        "id": "c411b94fdcb5f7c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a92f08f7eb05db",
+            "id": "c3350056c851964c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -136,13 +136,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "09fff7a9e22ce560",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5a92f08f7eb05db",
+  "active": "c3350056c851964c",
   "lastOpenFiles": [
+    "Javascript/Conceitos/setTimeout.md",
+    "Estudos ainda desconhecidos/EventEmitter.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Estudos ainda desconhecidos",
+    "Javascript/Conceitos/Callback.md",
+    "Estudos ainda desconhecidos/SOLID.md",
+    "2025-01-21.md",
+    "Javascript/Variaveis/Const.md",
+    "Javascript/Conceitos/Renderização de paginas/SSR.md",
+    "Javascript/Conceitos/Renderização de paginas/SPA.md",
+    "Javascript/Conceitos/Renderização de paginas",
     "Devops/Devops.md",
     "Devops/Nginx/Nginx.md",
     "Devops/Nginx",
@@ -167,7 +188,6 @@
     "POO/Polimorfismo/Sobreposição/Pasted image 20250117231152.png",
     "POO/Polimorfismo/Sobreposição/Pasted image 20250117232430.png",
     "POO/Polimorfismo/Sobrecarga.md",
-    "Javascript/Variaveis/Const.md",
     "POO/Polimorfismo/Sobreposição/Sobreposição.md",
     "POO/Polimorfismo/Sobreposição/Diagrama animais.svg",
     "Untitled Diagram.svg",
@@ -186,16 +206,6 @@
     "Javascript/Arrays/Iterables.md",
     "Javascript/Arrays/Iterators.md",
     "Javascript/Arrays/Generators.md",
-    "Javascript/Variaveis/Var.md",
-    "Javascript/Conceitos/Hoisting.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
-    "Javascript/Assíncronos/Callback.md",
-    "POO/Polimorfismo",
-    "Javascript/Objetos/Proxy.md",
-    "POO",
-    "Javascript/Assíncronos/EventEmitter.md",
-    "Javascript/Assíncronos/Async - await",
-    "Javascript/Assíncronos/Promise/Untitled.md",
-    "Javascript/Assíncronos/Assíncronos.md"
+    "POO/Polimorfismo"
   ]
 }
