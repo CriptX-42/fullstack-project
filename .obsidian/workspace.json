@@ -11,10 +11,14 @@
             "id": "c3350056c851964c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Banco de dados/BD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BD"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Banco de dados/BD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for BD"
             }
           },
           {
@@ -132,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Banco de dados/BD.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of BD"
             }
           },
           {
@@ -166,6 +173,13 @@
   },
   "active": "c3350056c851964c",
   "lastOpenFiles": [
+    "Banco de dados/BD.md",
+    "Banco de dados/NoSQL/NoSQL.md",
+    "Banco de dados/SQL/SQL.md",
+    "Banco de dados/NoSQL/No",
+    "Banco de dados/SQL",
+    "Banco de dados/NoSQL",
+    "Banco de dados",
     "Javascript/Conceitos/setTimeout.md",
     "Estudos ainda desconhecidos/EventEmitter.md",
     "Javascript/Conceitos/Dicionário de conceitos.md",
@@ -197,15 +211,8 @@
     "Javascript/Variaveis/Varáveis.md",
     "POO/POO.md",
     "POO/Encapsulamento/Encapsulamento.md",
-    "POO/Polimorfismo",
     "POO/Herança/Herança.md",
-    "POO/Herança",
-    "POO/Encapsulamento",
     "POO/Diagramação/Diagramação.md",
-    "Javascript/Arrays/Array.md",
-    "Javascript/Arrays/Iterables.md",
-    "Javascript/Arrays/Iterators.md",
-    "Javascript/Arrays/Generators.md",
-    "POO/Polimorfismo"
+    "Javascript/Arrays/Array.md"
   ]
 }
