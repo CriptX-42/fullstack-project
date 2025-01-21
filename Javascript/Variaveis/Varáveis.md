@@ -1,0 +1,1 @@
+Conceito de variáveis para o [[Javascript]]

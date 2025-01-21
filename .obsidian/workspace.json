@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "d76df6455a141901",
+    "type": "split",
+    "children": [
+      {
+        "id": "8962539b1f8c245a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a92f08f7eb05db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc20a6eb7e9da37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "505c775c9e0fc58f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6247633dea350fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fb2db7873c78d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4e98831700b2ba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d09947e502a6e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73b393ba4005451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95dd4cf1275f4e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6207a24c08b71ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "12c0d535aaa6efde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "182bb591d918eb9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5a92f08f7eb05db",
+  "lastOpenFiles": [
+    "Devops/Devops.md",
+    "Devops/Nginx/Nginx.md",
+    "Devops/Nginx",
+    "Devops/Proxy/Proxy Reverso.md",
+    "Devops/Proxy",
+    "Devops",
+    "WIP - Migrar MIRO.canvas",
+    "POO/Polimorfismo/Polimorfismo.md",
+    "POO/Polimorfismo/Sobreposição/Pasted image 20250117231152.png",
+    "POO/Polimorfismo/Sobreposição/Pasted image 20250117232430.png",
+    "POO/Polimorfismo/Sobrecarga.md",
+    "Javascript/Variaveis/Const.md",
+    "POO/Polimorfismo/Sobreposição/Sobreposição.md",
+    "POO/Polimorfismo/Sobreposição/Diagrama animais.svg",
+    "Untitled Diagram.svg",
+    "POO/Polimorfismo/Sobreposição",
+    "Javascript/Variaveis/Let.md",
+    "Javascript/Javascript.md",
+    "Javascript/Variaveis/Varáveis.md",
+    "POO/POO.md",
+    "POO/Encapsulamento/Encapsulamento.md",
+    "POO/Polimorfismo",
+    "POO/Herança/Herança.md",
+    "POO/Herança",
+    "POO/Encapsulamento",
+    "POO/Diagramação/Diagramação.md",
+    "Javascript/Arrays/Array.md",
+    "Javascript/Arrays/Iterables.md",
+    "Javascript/Arrays/Iterators.md",
+    "Javascript/Arrays/Generators.md",
+    "Javascript/Variaveis/Var.md",
+    "Javascript/Conceitos/Hoisting.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Assíncronos/Callback.md",
+    "POO/Polimorfismo",
+    "Javascript/Objetos/Proxy.md",
+    "POO",
+    "Javascript/Assíncronos/EventEmitter.md",
+    "Javascript/Assíncronos/Async - await",
+    "Javascript/Assíncronos/Promise/Untitled.md",
+    "Javascript/Assíncronos/Assíncronos.md"
+  ]
+}
