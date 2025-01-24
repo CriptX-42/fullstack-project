@@ -1,6 +1,13 @@
-1. [[Hoisting]]
+### Variáveis
 2. [[Null]]
 3. [[Undefined]]
+### Chamadas
 4. [[Proxy]]
 5. [[Callback]]
 6. [[setTimeout]]
+### Renderização
+8. [[SPA]]
+9. [[SSR]]
+10. [[Hibrido]]
+### Outros
+1.  [[Hoisting]]

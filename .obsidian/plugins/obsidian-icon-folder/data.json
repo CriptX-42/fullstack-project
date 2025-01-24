@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasY",
+      "FabCreativeCommonsZero",
+      "FasPhone",
+      "LiVariable",
+      "LiBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Javascript/Javascript.md": {
+    "iconName": "FabJs",
+    "iconColor": "#fbff00"
+  },
+  "Javascript": "FabJs",
+  "Javascript/Assíncronos": {
+    "iconName": "FabYandexInternational",
+    "iconColor": "#d90808"
+  },
+  "Javascript/Conceitos/Renderização": "📃",
+  "Javascript/Conceitos/Renderização/SPA.md": "FasNewspaper",
+  "Javascript/Conceitos/Renderização/SSR.md": "LiServer",
+  "Javascript/Conceitos/Renderização/Hibrido.md": "LiMerge",
+  "Javascript/Conceitos/Motores": "LiCar",
+  "Javascript/Conceitos/Motores/SEO.md": "LiSearch",
+  "Javascript/Arrays": "LiTable",
+  "Javascript/Arrays/Array.md": "LiTable",
+  "Javascript/Objetos": "FarObjectGroup",
+  "Javascript/Objetos/Proxy.md": {
+    "iconName": "LiSprout",
+    "iconColor": "#04ff00"
+  },
+  "Javascript/Objetos/Objeto.md": {
+    "iconName": "FarObjectGroup",
+    "iconColor": "#1e00ff"
+  },
+  "Javascript/Conceitos/Dicionário de conceitos.md": {
+    "iconName": "LiBook",
+    "iconColor": "#00ff11"
+  },
+  "Javascript/Conceitos/Chamadas/setTimeout.md": "LiTimer",
+  "Javascript/Conceitos/Chamadas/Callback.md": "LiPhoneCall",
+  "Javascript/Conceitos/Chamadas": "FasPhone",
+  "Javascript/Conceitos/Nulos e vazios": "FabCreativeCommonsZero",
+  "Javascript/Conceitos/Nulos e vazios/Null.md": "LiCircle",
+  "Javascript/Conceitos/Nulos e vazios/Undefined.md": "LiUnderline",
+  "Javascript/Conceitos/Hoisting.md": "LiLoader",
+  "Javascript/Variaveis/Varáveis.md": "LiVariable",
+  "Javascript/Variaveis": "LiVariable",
+  "Javascript/Assíncronos/Assíncronos.md": "FasY"
+}

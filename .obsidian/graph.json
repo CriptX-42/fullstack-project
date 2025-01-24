@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,7 +18,7 @@
       "query": "file:Javascript",
       "color": {
         "a": 1,
-        "rgb": 16058890
+        "rgb": 15004928
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.515625,
   "linkDistance": 30,
-  "scale": 0.7023319615912343,
+  "scale": 0.7023319615912376,
   "close": true
 }
