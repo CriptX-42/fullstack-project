@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarObjectUngroup",
       "FasY",
       "FabCreativeCommonsZero",
       "FasPhone",
-      "LiVariable",
-      "LiBook"
+      "LiVariable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "Javascript/Conceitos/Hoisting.md": "LiLoader",
   "Javascript/Variaveis/Varáveis.md": "LiVariable",
   "Javascript/Variaveis": "LiVariable",
-  "Javascript/Assíncronos/Assíncronos.md": "FasY"
+  "Javascript/Assíncronos/Assíncronos.md": "FasY",
+  "POO": "FarObjectUngroup"
 }
