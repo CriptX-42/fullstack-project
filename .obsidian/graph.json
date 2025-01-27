@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#Duvidas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.515625,
   "linkDistance": 30,
-  "scale": 0.751434232227773,
-  "close": false
+  "scale": 0.5009561548185153,
+  "close": true
 }
