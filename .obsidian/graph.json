@@ -27,6 +27,41 @@
         "a": 1,
         "rgb": 3557901
       }
+    },
+    {
+      "query": "File: Docker",
+      "color": {
+        "a": 1,
+        "rgb": 18672
+      }
+    },
+    {
+      "query": "File:Devops",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Dicionário  ",
+      "color": {
+        "a": 1,
+        "rgb": 16057677
+      }
+    },
+    {
+      "query": "tag:#Comandos",
+      "color": {
+        "a": 1,
+        "rgb": 587751
+      }
+    },
+    {
+      "query": "tag:#Construir  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +74,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.515625,
   "linkDistance": 30,
-  "scale": 0.5009561548185172,
-  "close": true
+  "scale": 0.751434232227773,
+  "close": false
 }

@@ -1,3 +1,9 @@
+---
+Created: 2025-01-01
+tags:
+  - Dicionário
+---
+
 ### Variáveis
 2. [[Null]]
 3. [[Undefined]]

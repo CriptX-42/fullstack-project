@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarObjectUngroup",
-      "FasY",
-      "FabCreativeCommonsZero",
-      "FasPhone",
-      "LiVariable"
+      "🛳",
+      "LiBook",
+      "FabDocker",
+      "🐋",
+      "FarObjectUngroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -74,5 +74,24 @@
   "Javascript/Variaveis/Varáveis.md": "LiVariable",
   "Javascript/Variaveis": "LiVariable",
   "Javascript/Assíncronos/Assíncronos.md": "FasY",
-  "POO": "FarObjectUngroup"
+  "POO": "FarObjectUngroup",
+  "Devops/Docker": "FabDocker",
+  "Devops/Docker/Docker.md": "FabDocker",
+  "Devops/Docker/Dicionario de definições": {
+    "iconName": "LiBook",
+    "iconColor": "#0011ff"
+  },
+  "Devops/Devops.md": "🛳",
+  "Devops/Docker/Dicionario de comandos usados": {
+    "iconName": "LiBook",
+    "iconColor": "#de0d0d"
+  },
+  "Devops/Docker/Dicionario de definições/Dicionário de definições.md": {
+    "iconName": "LiBook",
+    "iconColor": "#1131d0"
+  },
+  "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md": {
+    "iconName": "LiBook",
+    "iconColor": "#d41616"
+  }
 }

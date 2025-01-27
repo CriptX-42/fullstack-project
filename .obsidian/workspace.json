@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88b944b9f4bfb44c",
+        "id": "807be948483bd13b",
         "type": "tabs",
         "children": [
           {
-            "id": "f18323a51b16a1ca",
+            "id": "2a55ec02a65fa2aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/Diagramação/Diagrama de Classes/Exercicios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exercicios"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -150,8 +146,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -173,11 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "POO/Diagramação/Diagrama de Classes/Exercicios.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Exercicios"
+              "title": "File properties"
             }
           }
         ],
@@ -197,50 +191,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f18323a51b16a1ca",
+  "active": "2a55ec02a65fa2aa",
   "lastOpenFiles": [
-    "POO/Diagramação/Diagrama de Classes/Exercicios.drawio",
-    "Pasted image 20250125190427.png",
     "POO/Diagramação/Diagrama de Classes/Exercicios.md",
-    "Devops/Proxy/Proxy Reverso.md",
-    "Devops/Devops.md",
+    "POO/POO.md",
+    "Banco de dados/NoSQL/NoSQL.md",
+    "Estudos ainda desconhecidos/EventEmitter.md",
     "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Devops/Docker/Dicionario de definições/Dicionário de definições.md",
+    "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
+    "Devops/Docker/Dicionario de comandos usados/Exec.md",
+    "Devops/Docker/Dicionario de comandos usados/Start.md",
+    "Devops/Docker/Dicionario de comandos usados/Stop.md",
+    "Devops/Docker/Dicionario de comandos usados/Run.md",
+    "Devops/Docker/Dicionario de comandos usados/Ps.md",
+    "Devops/Docker/Docker.md",
     "Javascript/Conceitos/Nulos e vazios/Null.md",
+    "Devops/Protocolo SSH.md",
+    "Devops/Devops.md",
+    "Devops/Untitled",
+    "Parei.md",
+    "Pasted image 20250125190427.png",
+    "Devops/Docker/images/Pasted image 20250127115806.png",
+    "Devops/Docker/images/Pasted image 20250127115137.png",
+    "Devops/Docker/images/Pasted image 20250127115119.png",
+    "Devops/Docker/images/Pasted image 20250127114857.png",
+    "Devops/Docker/images/Pasted image 20250127114803.png",
+    "Devops/Docker/images/Pasted image 20250127114642.png",
+    "Devops/Docker/images/Pasted image 20250127114538.png",
+    "Devops/Docker/images/Pasted image 20250127114242.png",
+    "Devops/Docker/images/Pasted image 20250127114131.png",
+    "Devops/Docker/images",
+    "Devops/Docker/Dicionario de definições/namespaces.md",
+    "Devops/Docker/Dicionario de comandos usados",
+    "Devops/Docker/Dicionario de definições/Cgroups.md",
+    "Devops/Docker/Dicionario de definições",
+    "Devops/Docker",
+    "Estudos ainda desconhecidos/SOLID.md",
+    "POO/Diagramação/Diagrama de Classes/Exercicios.drawio",
+    "Devops/Proxy/Proxy Reverso.md",
     "Javascript/Conceitos/Nulos e vazios/Undefined.md",
     "Javascript/Variaveis/Varáveis.md",
     "Javascript/Variaveis/Let.md",
     "Javascript/Variaveis/Var.md",
     "Javascript/Variaveis/Const.md",
-    "Javascript/Javascript.md",
-    "Javascript/Conceitos/Hoisting.md",
-    "Javascript/Assíncronos/Assíncronos.md",
-    "Javascript/Assíncronos/Async - await/Async - await.md",
     "Javascript/Conceitos/Chamadas",
-    "Javascript/Conceitos/Chamadas/setTimeout.md",
     "Javascript/Conceitos/Nulos e vazios",
-    "Javascript/Conceitos/Chamadas/Callback.md",
-    "Javascript/Objetos/Objeto.md",
-    "Javascript/Objetos/Proxy.md",
     "Untitled.canvas",
-    "Javascript/Arrays/Array.md",
-    "Javascript/Conceitos/Renderização/Hibrido.md",
-    "Javascript/Conceitos/Motores/SEO.md",
-    "Javascript/Conceitos/Renderização/SSR.md",
-    "Javascript/Conceitos/Renderização/SPA.md",
-    "Javascript/Conceitos/Renderização de paginas/SSR.md",
-    "Javascript/Conceitos/Renderização de paginas/SPA.md",
     "Javascript/Conceitos/Motores",
     "Javascript/Conceitos/Renderização",
-    "Banco de dados/NoSQL/No",
-    "Banco de dados/SQL",
-    "Banco de dados/NoSQL",
-    "Banco de dados",
-    "Estudos ainda desconhecidos",
-    "Javascript/Conceitos/Renderização de paginas",
-    "WIP - Migrar MIRO.canvas",
-    "POO/Polimorfismo/Sobreposição/Pasted image 20250117231152.png",
-    "POO/Polimorfismo/Sobreposição/Pasted image 20250117232430.png",
-    "POO/Polimorfismo/Sobreposição/Diagrama animais.svg",
-    "Untitled Diagram.svg"
+    "WIP - Migrar MIRO.canvas"
   ]
 }
