@@ -23,7 +23,5 @@ tags:
 ### Comandos
 [[Dicionário de comandos usados]]
 
-### A Fazer
-Parei nos 17 minutos:
-
-https://www.youtube.com/watch?v=DdoncfOdru8
+### Dockerfile
+[[Dockerfile]]

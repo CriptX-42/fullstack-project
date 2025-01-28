@@ -25,3 +25,16 @@ Estou dentro da maquina ubuntu rodando dentro do container docker:
 
 Ubuntu executando
 ![[Pasted image 20250127114642.png]]
+
+
+```
+docker run [Container] -P (faz o mapeamento da porta do docker para porta hospedeira)
+```
+
+```
+docker run [Container] -P (faz o mapeamento da porta do docker para porta hospedeira)
+```
+
+```
+docker run [Container] -p [porta hospedeira:porta que queremos executar]
+```

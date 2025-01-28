@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFile",
       "🛳",
       "LiBook",
       "FabDocker",
-      "🐋",
-      "FarObjectUngroup"
+      "🐋"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -93,5 +93,6 @@
   "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md": {
     "iconName": "LiBook",
     "iconColor": "#d41616"
-  }
+  },
+  "Devops/Docker/Dockerfile.md": "FasFile"
 }

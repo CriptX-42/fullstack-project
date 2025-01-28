@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "807be948483bd13b",
+        "id": "daaa075763e249c1",
         "type": "tabs",
         "children": [
           {
-            "id": "2a55ec02a65fa2aa",
+            "id": "ffd8f779d3503a3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,8 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a55ec02a65fa2aa",
+  "active": "ffd8f779d3503a3a",
   "lastOpenFiles": [
+    "Devops/Devops.md",
+    "Devops/VPS.md",
+    "Devops/Docker/Dockerfile.md",
+    "Devops/Docker/Dicionario de comandos usados/Build.md",
+    "Devops/Docker/Docker.md",
+    "Devops/Docker/Dicionario de comandos usados/Run.md",
+    "Devops/Docker/Dicionario de comandos usados/Start.md",
+    "Devops/Docker/Dicionario de comandos usados/Stop.md",
+    "Devops/Docker/Dicionario de comandos usados/Exec.md",
+    "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
+    "Devops/Protocolo SSH.md",
+    "WIP - Migrar MIRO.canvas",
     "Javascript/Conceitos/Renderização/SPA.md",
     "Devops/Docker/Dicionario de definições/namespaces.md",
     "POO/Diagramação/Diagrama de Classes/Exercicios.md",
@@ -201,16 +213,8 @@
     "Estudos ainda desconhecidos/EventEmitter.md",
     "Javascript/Conceitos/Dicionário de conceitos.md",
     "Devops/Docker/Dicionario de definições/Dicionário de definições.md",
-    "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
-    "Devops/Docker/Dicionario de comandos usados/Exec.md",
-    "Devops/Docker/Dicionario de comandos usados/Start.md",
-    "Devops/Docker/Dicionario de comandos usados/Stop.md",
-    "Devops/Docker/Dicionario de comandos usados/Run.md",
     "Devops/Docker/Dicionario de comandos usados/Ps.md",
-    "Devops/Docker/Docker.md",
     "Javascript/Conceitos/Nulos e vazios/Null.md",
-    "Devops/Protocolo SSH.md",
-    "Devops/Devops.md",
     "Devops/Untitled",
     "Parei.md",
     "Pasted image 20250125190427.png",
@@ -232,14 +236,10 @@
     "POO/Diagramação/Diagrama de Classes/Exercicios.drawio",
     "Devops/Proxy/Proxy Reverso.md",
     "Javascript/Conceitos/Nulos e vazios/Undefined.md",
-    "Javascript/Variaveis/Varáveis.md",
-    "Javascript/Variaveis/Let.md",
-    "Javascript/Variaveis/Var.md",
     "Javascript/Conceitos/Chamadas",
     "Javascript/Conceitos/Nulos e vazios",
     "Untitled.canvas",
     "Javascript/Conceitos/Motores",
-    "Javascript/Conceitos/Renderização",
-    "WIP - Migrar MIRO.canvas"
+    "Javascript/Conceitos/Renderização"
   ]
 }
