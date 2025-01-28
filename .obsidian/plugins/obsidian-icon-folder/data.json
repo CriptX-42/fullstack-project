@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasFile",
-      "🛳",
-      "LiBook",
-      "FabDocker",
-      "🐋"
+      "LiTable",
+      "LiSquare",
+      "FasFolderTree",
+      "LiMap",
+      "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -94,5 +94,17 @@
     "iconName": "LiBook",
     "iconColor": "#d41616"
   },
-  "Devops/Docker/Dockerfile.md": "FasFile"
+  "Devops/Docker/Dockerfile.md": "FasFile",
+  "Java": {
+    "iconName": "FabJava",
+    "iconColor": "#e01f1f"
+  },
+  "Java/Java.md": {
+    "iconName": "FabJava",
+    "iconColor": "#e71818"
+  },
+  "Java/Java Roadmap.canvas": "LiMap",
+  "Java/Sentaxe Base/Sintaxe Base.md": "FasFolderTree",
+  "Java/Sentaxe Base": "FasFolderTree",
+  "Java/Sentaxe Base/Sintaxes/Arrays.md": "LiTable"
 }
