@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTable",
-      "LiSquare",
-      "FasFolderTree",
-      "LiMap",
-      "FabJava"
+      "LiBatteryMedium",
+      "🧲",
+      "LiDot",
+      "FasClipboardQuestion",
+      "FabThinkPeaks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -106,5 +106,14 @@
   "Java/Java Roadmap.canvas": "LiMap",
   "Java/Sentaxe Base/Sintaxe Base.md": "FasFolderTree",
   "Java/Sentaxe Base": "FasFolderTree",
-  "Java/Sentaxe Base/Sintaxes/Arrays.md": "LiTable"
+  "Java/Sentaxe Base/Sintaxes/Arrays.md": "LiTable",
+  "Java/Sentaxe Base/Sintaxes/Foreach.md": "➰",
+  "Java/Sentaxe Base/Sintaxes/Array Multi.md": "LiTable2",
+  "Java/Orientação a Objetos": "🏛",
+  "Java/Orientação a Objetos/Orientação a objetos.md": "FasDownLeftAndUpRightToCenter",
+  "Java/Orientação a Objetos/OO/Classes.md": "FasClipboardQuestion",
+  "Java/Orientação a Objetos/OO/Getter and Setter.md": "🧲",
+  "Java/Orientação a Objetos/OO/Referencia This.md": "FabThinkPeaks",
+  "Java/Orientação a Objetos/OO/Sobrecarga.md": "LiBatteryMedium",
+  "Java/Orientação a Objetos/OO/Varargs.md": "LiDot"
 }

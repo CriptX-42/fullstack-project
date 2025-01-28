@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"36be6a0411b19df6","type":"text","text":"Sintaxe Base\n- [ ] DataTypes (Primitivos e não primitivos)\n- [x] Variaveis\n- [ ] Listas\n- [ ] Arrays\n- [x] Condicionais\n- [x] Loops\n- [ ] Declarações de funções\n- [ ] Exceções","x":-567,"y":100,"width":342,"height":312,"color":"3"},
-		{"id":"ed52c0bda6bd09ef","type":"text","text":"- [ ] Criar classes\n- [ ] Instanciar objetos\n- [ ] Herança\n- [ ] Sobrecarga\n- [ ] Packages\n- [ ] Visibilidades","x":-556,"y":536,"width":320,"height":287,"color":"3"},
-		{"id":"767a1bc919f171af","type":"text","text":"POO (Em construção)\n- [ ] Classes\n- [ ] objetos\n- [ ] interfaces\n- [ ] heranças\n- [ ] Polimorfismo","x":-1220,"y":126,"width":280,"height":260,"color":"3"},
+		{"id":"36be6a0411b19df6","type":"text","text":"Sintaxe Base\n- [x] DataTypes (Primitivos e não primitivos)\n- [x] Variaveis\n- [ ] Listas\n- [x] Arrays\n- [x] Condicionais\n- [x] Loops\n- [x] Declarações de funções\n- [ ] Exceções","x":-567,"y":53,"width":331,"height":359,"color":"5"},
+		{"id":"ed52c0bda6bd09ef","type":"text","text":"- [x] Criar classes\n- [x] Instanciar objetos\n- [ ] Herança\n- [ ] Sobrecarga\n- [ ] Packages\n- [x] Visibilidades","x":-556,"y":536,"width":320,"height":287,"color":"3"},
+		{"id":"767a1bc919f171af","type":"text","text":"OO (Em construção)\n- [x] Classes\n- [x] objetos\n- [ ] interfaces\n- [ ] heranças\n- [ ] Polimorfismo","x":-1220,"y":126,"width":280,"height":260,"color":"3"},
 		{"id":"6f78743e1e761a2c","type":"text","text":"Sintaxe Avançada\n- Casting\n- Generics\n- Streams\n- Collections\n- Map \n- HashMaps\n- Threads\n- Completable Future","x":260,"y":0,"width":248,"height":367,"color":"1"},
 		{"id":"48ed8e9aa7c876cf","type":"text","text":"Networking\n- HttpURLConnection\n- HttpClient\n- JDBC","x":620,"y":0,"width":266,"height":151,"color":"1"},
 		{"id":"741dd40ae0c1e620","type":"text","text":"Build Tools\n- Greadle\n- Maven","x":903,"y":231,"width":306,"height":164,"color":"1"},
