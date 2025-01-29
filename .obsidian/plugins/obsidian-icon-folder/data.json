@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHammer",
       "LiBatteryMedium",
       "🧲",
       "LiDot",
-      "FasClipboardQuestion",
-      "FabThinkPeaks"
+      "FasClipboardQuestion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -115,5 +115,6 @@
   "Java/Orientação a Objetos/OO/Getter and Setter.md": "🧲",
   "Java/Orientação a Objetos/OO/Referencia This.md": "FabThinkPeaks",
   "Java/Orientação a Objetos/OO/Sobrecarga.md": "LiBatteryMedium",
-  "Java/Orientação a Objetos/OO/Varargs.md": "LiDot"
+  "Java/Orientação a Objetos/OO/Varargs.md": "LiDot",
+  "Java/Orientação a Objetos/OO/Construtores.md": "FasHammer"
 }
