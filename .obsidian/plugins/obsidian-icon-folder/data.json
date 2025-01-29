@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasGripLines",
-      "FasSheetPlastic",
+      "LiActivity",
       "🧱",
       "FasHammer",
-      "LiBatteryMedium"
+      "👮",
+      "🦸‍♂️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -119,5 +119,12 @@
   "Java/Orientação a Objetos/OO/Construtores.md": "FasHammer",
   "Java/Orientação a Objetos/OO/Bloco de inicialização.md": "🧱",
   "Java/Orientação a Objetos/OO/Modificador Static.md": "FasSheetPlastic",
-  "Java/Orientação a Objetos/OO/Associação.md": "FasGripLines"
+  "Java/Orientação a Objetos/OO/Associação.md": "FasGripLines",
+  "Java/Orientação a Objetos/OO/Herança/Herança.md": "👨‍👩‍👧‍👦",
+  "Java/Orientação a Objetos/OO/Herança": "👪",
+  "Java/Orientação a Objetos/OO/Herança/Super.md": "🦸‍♂️",
+  "Java/Orientação a Objetos/OO/Herança/Protected.md": "👮",
+  "Java/Orientação a Objetos/OO/Herança/Construtores herança.md": "FasHammer",
+  "Java/Orientação a Objetos/OO/Herança/Bloco de inicialização herança.md": "🧱",
+  "Java/Sentaxe Base/Sintaxes/Constante.md": "LiActivity"
 }
