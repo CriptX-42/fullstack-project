@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "daaa075763e249c1",
+        "id": "c996e689bcc7cb69",
         "type": "tabs",
         "children": [
           {
-            "id": "1682bbceca1a52b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "c163dff0d38191a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Orientação a Objetos/OO/Getter and Setter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getter and Setter"
-            }
-          },
-          {
-            "id": "baaf513202d28db2",
+            "id": "23c8534abccc67dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +22,77 @@
             }
           },
           {
-            "id": "20fef0640a273495",
+            "id": "d29e756a2071d4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Orientação a Objetos/OO/Construtores.md",
+                "file": "Java/Orientação a Objetos/OO/Modificador Static.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construtores"
+              "title": "Modificador Static"
+            }
+          },
+          {
+            "id": "19a9744e2dadcb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Orientação a Objetos/Orientação a objetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orientação a objetos"
+            }
+          },
+          {
+            "id": "b157e7eb742f61fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Orientação a Objetos/OO/Bloco de inicialização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloco de inicialização"
+            }
+          },
+          {
+            "id": "12830da4d2c35b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Orientação a Objetos/Orientação a objetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orientação a objetos"
+            }
+          },
+          {
+            "id": "e9f86ad23cf52ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Orientação a Objetos/OO/Associação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Associação"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,10 +245,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Orientação a Objetos/OO/Construtores.md"
+                "file": "Java/Orientação a Objetos/OO/Associação.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Construtores"
+              "title": "File properties for Associação"
             }
           }
         ],
@@ -240,20 +268,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20fef0640a273495",
+  "active": "e9f86ad23cf52ebf",
   "lastOpenFiles": [
+    "Java/Sentaxe Base/Sintaxe Base.md",
+    "Java/Orientação a Objetos/OO/Associação.md",
     "Java/Orientação a Objetos/Orientação a objetos.md",
+    "Java/Orientação a Objetos/OO/Bloco de inicialização.md",
+    "Java/Orientação a Objetos/OO/Modificador Static.md",
+    "POO/POO.md",
     "Java/Orientação a Objetos/OO/Construtores.md",
-    "Java/Orientação a Objetos/OO/Sobrecarga.md",
-    "Java/Orientação a Objetos/OO/Getter and Setter.md",
+    "Java/Java Roadmap.canvas",
     "Java/Orientação a Objetos/OO/Referencia This.md",
     "Java/Orientação a Objetos/OO/Classes.md",
+    "Java/Orientação a Objetos/OO/Getter and Setter.md",
+    "Java/Orientação a Objetos/OO/Sobrecarga.md",
+    "Java/Orientação a Objetos/OO/Varargs.md",
     "Java/Java.md",
     "Java/Orientação a Objetos/OO",
-    "Java/Java Roadmap.canvas",
-    "Java/Orientação a Objetos/OO/Varargs.md",
     "Java/Orientação a Objetos",
-    "Java/Sentaxe Base/Sintaxe Base.md",
     "Java/Sentaxe Base/Sintaxes/Array Multi.md",
     "Java/Sentaxe Base/Sintaxes/Foreach.md",
     "Java/Sentaxe Base/Sintaxes/Arrays.md",
@@ -274,10 +306,6 @@
     "Devops/VPS.md",
     "Devops/Docker/Dicionario de comandos usados/Run.md",
     "Devops/Docker/Dicionario de comandos usados/Start.md",
-    "Devops/Docker/Dicionario de comandos usados/Stop.md",
-    "Devops/Docker/Dicionario de comandos usados/Exec.md",
-    "Devops/Protocolo SSH.md",
-    "Javascript/Conceitos/Renderização/SPA.md",
     "Devops/Untitled",
     "Devops/Docker/images/Pasted image 20250127115806.png",
     "Devops/Docker/images/Pasted image 20250127115137.png",
