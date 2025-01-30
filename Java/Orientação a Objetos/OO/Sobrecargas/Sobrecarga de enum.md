@@ -11,8 +11,6 @@ public enum TipoPagamento {
 		public double calcularDesconto(double valor) {
 			return valor * 1.0;
 		}
-		
-
 	},
 	CREDITO {
 		@Override

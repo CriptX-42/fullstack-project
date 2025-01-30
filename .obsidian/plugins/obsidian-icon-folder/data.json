@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFaceMeh",
+      "LiFramer",
+      "🖼",
       "LiSearch",
-      "LiBatteryCharging",
-      "🔢",
-      "LiActivity",
-      "🧱"
+      "LiBatteryCharging"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -131,5 +131,9 @@
   "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga de enum.md": "🔢",
   "Java/Sentaxe Base/Sintaxes/Enums/Enum.md": "🔢",
   "Java/Sentaxe Base/Sintaxes/Enums": "🔢",
-  "Java/Sentaxe Base/Sintaxes/Enums/Busca por atributos.md": "LiSearch"
+  "Java/Sentaxe Base/Sintaxes/Enums/Busca por atributos.md": "LiSearch",
+  "Java/Orientação a Objetos/OO/Abstratos/Classe abstrata.md": "🖼",
+  "Java/Orientação a Objetos/OO/Abstratos/Métodos abstratos.md": "LiFramer",
+  "Java/Orientação a Objetos/OO/Abstratos": "🖼",
+  "Java/Orientação a Objetos/OO/Interfaces": "FarFaceMeh"
 }

@@ -21,3 +21,7 @@ tags:
 
 #### Sobrescrita
 1. [[Sobrescrita]]
+
+#### Abstratos
+1. [[Classe abstrata]]
+2. [[Métodos abstratos]]
