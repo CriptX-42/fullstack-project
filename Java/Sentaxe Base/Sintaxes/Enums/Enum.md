@@ -76,4 +76,4 @@ public enum TipoCliente {
 
 
 > [!NOTE] E temos mais...
-> [[[Busca por atributos]]]
+> [[Busca por atributos]]

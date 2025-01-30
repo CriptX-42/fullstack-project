@@ -1,3 +1,8 @@
+---
+Created: 2025-01-30
+---
+
+
 ```
 public enum TipoCliente {
 	PESSOA_FISICA(1, "Pessoa física"),
