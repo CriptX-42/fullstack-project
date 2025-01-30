@@ -1,5 +1,6 @@
 ---
 Created: 2025-01-29
+tags:
 ---
 
 > [!NOTE] Pra que serve

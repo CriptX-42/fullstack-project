@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarFaceMeh",
-      "LiFramer",
-      "🖼",
-      "LiSearch",
-      "LiBatteryCharging"
+      "LiCalculator",
+      "💪",
+      "LiComponent",
+      "LiAirVent",
+      "👮"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -125,7 +125,6 @@
   "Java/Orientação a Objetos/OO/Herança/Protected.md": "👮",
   "Java/Orientação a Objetos/OO/Herança/Construtores herança.md": "FasHammer",
   "Java/Orientação a Objetos/OO/Herança/Bloco de inicialização herança.md": "🧱",
-  "Java/Sentaxe Base/Sintaxes/Constante.md": "LiActivity",
   "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga.md": "LiBatteryMedium",
   "Java/Orientação a Objetos/OO/Sobrecargas": "LiBatteryCharging",
   "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga de enum.md": "🔢",
@@ -135,5 +134,15 @@
   "Java/Orientação a Objetos/OO/Abstratos/Classe abstrata.md": "🖼",
   "Java/Orientação a Objetos/OO/Abstratos/Métodos abstratos.md": "LiFramer",
   "Java/Orientação a Objetos/OO/Abstratos": "🖼",
-  "Java/Orientação a Objetos/OO/Interfaces": "FarFaceMeh"
+  "Java/Orientação a Objetos/OO/Interfaces": "FarFaceMeh",
+  "Java/Orientação a Objetos/OO/Sobrescrita.md": "LiWashingMachine",
+  "Java/Sentaxe Base/Sintaxes/Constante (final-static).md": "LiActivity",
+  "Java/Orientação a Objetos/OO/Interfaces/Interface.md": "FarFaceMeh",
+  "Java/Regras de acesso de atributos.md": "👮",
+  "Java/Orientação a Objetos/OO/Interfaces/Atributos e métodos estáticos.md": "LiAirVent",
+  "Java/Orientação a Objetos/OO/Polimorfismo": "LiComponent",
+  "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md": "LiComponent",
+  "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo sem polimorfismo.md": "💪",
+  "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo com Whitening cast.md": "💪",
+  "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Simplificando Exemplo.md": "LiCalculator"
 }

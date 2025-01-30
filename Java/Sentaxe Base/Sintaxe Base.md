@@ -6,5 +6,5 @@ Created: 2025-01-28
 1. [[Arrays]]
 2. [[Foreach]]
 3. [[Array Multi]]
-4. [[Constante]]
+4. [[Constante (final-static)]]
 5. [[Enum]]

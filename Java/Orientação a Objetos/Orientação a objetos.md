@@ -25,3 +25,9 @@ tags:
 #### Abstratos
 1. [[Classe abstrata]]
 2. [[Métodos abstratos]]
+
+#### Interface
+1. [[Interface]]
+
+#### Polimorfismo
+1. [[Polimorfismo - Java]]
