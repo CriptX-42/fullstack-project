@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSearch",
+      "LiBatteryCharging",
+      "🔢",
       "LiActivity",
-      "🧱",
-      "FasHammer",
-      "👮",
-      "🦸‍♂️"
+      "🧱"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -114,7 +114,6 @@
   "Java/Orientação a Objetos/OO/Classes.md": "FasClipboardQuestion",
   "Java/Orientação a Objetos/OO/Getter and Setter.md": "🧲",
   "Java/Orientação a Objetos/OO/Referencia This.md": "FabThinkPeaks",
-  "Java/Orientação a Objetos/OO/Sobrecarga.md": "LiBatteryMedium",
   "Java/Orientação a Objetos/OO/Varargs.md": "LiDot",
   "Java/Orientação a Objetos/OO/Construtores.md": "FasHammer",
   "Java/Orientação a Objetos/OO/Bloco de inicialização.md": "🧱",
@@ -126,5 +125,11 @@
   "Java/Orientação a Objetos/OO/Herança/Protected.md": "👮",
   "Java/Orientação a Objetos/OO/Herança/Construtores herança.md": "FasHammer",
   "Java/Orientação a Objetos/OO/Herança/Bloco de inicialização herança.md": "🧱",
-  "Java/Sentaxe Base/Sintaxes/Constante.md": "LiActivity"
+  "Java/Sentaxe Base/Sintaxes/Constante.md": "LiActivity",
+  "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga.md": "LiBatteryMedium",
+  "Java/Orientação a Objetos/OO/Sobrecargas": "LiBatteryCharging",
+  "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga de enum.md": "🔢",
+  "Java/Sentaxe Base/Sintaxes/Enums/Enum.md": "🔢",
+  "Java/Sentaxe Base/Sintaxes/Enums": "🔢",
+  "Java/Sentaxe Base/Sintaxes/Enums/Busca por atributos.md": "LiSearch"
 }
