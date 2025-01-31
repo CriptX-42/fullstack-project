@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPumpMedical",
       "FarFileExcel",
       "FasPersonRunning",
       "LiXSquare",
-      "FarFaceMeh",
-      "LiCast"
+      "FarFaceMeh"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -150,5 +150,6 @@
   "Java/Exceções": "LiXSquare",
   "Java/Exceções/RuntimeException (Exceções).md": "FasPersonRunning",
   "Java/Exceções/Exception.md": "FarFileExcel",
-  "Java/Exceções/Exceções e Definições.md": "LiXSquare"
+  "Java/Exceções/Exceções e Definições.md": "LiXSquare",
+  "Java/Exceções/Tipos de tratamentos.md": "FasPumpMedical"
 }

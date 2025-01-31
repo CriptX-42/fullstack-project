@@ -45,3 +45,7 @@ at OException.StackOverflow.recursividade(StackOverflow.java:9)
 
 #### Exception
 [[Exception]]
+
+### Tipos de tratamentos
+
+[[Tipos de tratamentos]]

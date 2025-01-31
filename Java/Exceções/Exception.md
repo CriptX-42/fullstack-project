@@ -30,20 +30,3 @@ at java.base/java.io.File.createNewFile(File.java:1045)
 at OException.Exception.Exception01.criarNovoArquivo(Exception01.java:14)
 at OException.Exception.Exception01.main(Exception01.java:8)
 
-### Uma forma mais simples de tratamento 
-
-```
-public class Exception01 {  
-    public static void main(String[] args) throws IOException {  
-        criarNovoArquivo();  
-    }  
-  
-    public static void criarNovoArquivo() throws IOException {  
-    File file = new File("/home\\teste.txt");  
-         boolean criado = file.createNewFile();  
-         System.out.println("Arquivo criado " + criado);  
-    }  
-}
-```
-
-> Eu obrigo o método **main** a abstrair e tratar a exceção
