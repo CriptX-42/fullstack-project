@@ -22,21 +22,21 @@
             }
           },
           {
-            "id": "63c2df903ad1bca1",
+            "id": "7a9f186cb7ae9d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md",
+                "file": "Java/Exceções/Exceções e Definições.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polimorfismo - Java"
+              "title": "Exceções e Definições"
             }
           },
           {
-            "id": "160bf26ee7b17d3e",
+            "id": "a49b220365c4e2f4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -46,38 +46,12 @@
             }
           },
           {
-            "id": "84281045f333925b",
+            "id": "5817ac5c2a53e92b",
             "type": "leaf",
             "state": {
               "type": "diagram-edit",
               "state": {
-                "file": "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg"
-              },
-              "icon": "lucide-file",
-              "title": "Untitled Diagram.svg"
-            }
-          },
-          {
-            "id": "8abdf57873e04ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo com Whitening cast.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exemplo com Whitening cast"
-            }
-          },
-          {
-            "id": "a7a17dc105e48c4a",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram.svg"
+                "file": "Java/img/Untitled Diagram.svg"
               },
               "icon": "lucide-file",
               "title": "Untitled Diagram.svg"
@@ -269,11 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "160bf26ee7b17d3e",
+  "active": "a49b220365c4e2f4",
   "lastOpenFiles": [
-    "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md",
+    "Java/Exceções/Exception.md",
+    "Java/Exceções/RuntimeException (Exceções).md",
+    "Java/Exceções/Exceções e Definições.md",
     "Java/Java Roadmap.canvas",
+    "Java/img/Untitled Diagram.svg",
+    "Untitled.canvas",
     "Java/Java.md",
+    "Java/Exceções",
+    "Java/Orientação a Objetos/Orientação a objetos.md",
+    "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md",
     "Java/Sentaxe Base/Sintaxe Base.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Simplificando Exemplo.md",
@@ -287,7 +268,6 @@
     "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram 1.svg",
     "POO/Polimorfismo/Polimorfismo.md",
-    "Java/Orientação a Objetos/Orientação a objetos.md",
     "Java/Orientação a Objetos/OO/Interfaces/Atributos e métodos estáticos.md",
     "Java/Orientação a Objetos/OO/Polimorfismo",
     "Java/Regras de acesso de atributos.md",
@@ -301,11 +281,8 @@
     "Java/Orientação a Objetos/OO/Sobrescrita.md",
     "Java/Orientação a Objetos/OO/Varargs.md",
     "Java/Orientação a Objetos/OO/Interfaces",
-    "Java/Orientação a Objetos/OO/Abstratos/Métodos abstratos.md",
-    "Java/Orientação a Objetos/OO/Abstratos/Classe abstrata.md",
     "Java/img/Pasted image 20250130174343.png",
     "Java/Orientação a Objetos/OO/Abstratos",
-    "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga de enum.md",
     "Java/Sentaxe Base/Sintaxes/Enums",
     "Java/Orientação a Objetos/OO/Sobrecargas",
     "Java/img/Pasted image 20250129150007.png",
@@ -314,11 +291,8 @@
     "Java/img",
     "Java/img/Pasted image 20250129171853.png",
     "Java/Orientação a Objetos/OO/Herança",
-    "Pessoa 1.java",
     "POO/Pasted image 20250125190427.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Devops/Docker/images/Pasted image 20250127115806.png",
-    "Devops/Docker/images/Pasted image 20250127115137.png"
+    "Devops/Docker/images/Pasted image 20250127115806.png"
   ]
 }

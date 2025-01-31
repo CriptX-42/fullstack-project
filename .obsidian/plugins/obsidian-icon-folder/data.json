@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFileExcel",
+      "FasPersonRunning",
+      "LiXSquare",
       "FarFaceMeh",
-      "LiCast",
-      "LiCalculator",
-      "💪",
-      "LiComponent"
+      "LiCast"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -146,5 +146,9 @@
   "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo com Whitening cast.md": "💪",
   "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Simplificando Exemplo.md": "LiCalculator",
   "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Cast e Instanceof.md": "LiCast",
-  "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md": "FarFaceMeh"
+  "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md": "FarFaceMeh",
+  "Java/Exceções": "LiXSquare",
+  "Java/Exceções/RuntimeException (Exceções).md": "FasPersonRunning",
+  "Java/Exceções/Exception.md": "FarFileExcel",
+  "Java/Exceções/Exceções e Definições.md": "LiXSquare"
 }

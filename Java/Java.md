@@ -7,3 +7,4 @@ tags:
 2. [[Sintaxe Base]]
 3. [[Orientação a objetos]]
 4. [[Regras de acesso de atributos]]
+5. [[Exceções e Definições]]

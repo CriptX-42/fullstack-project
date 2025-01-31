@@ -8,7 +8,7 @@ tags:
 > Podemos trocar o tipo de variável de referencia mas ainda utilizar outros objetos 
 
 
-![[Untitled Diagram.svg]]
+![[Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram.svg]]
 
 #### Primeiro exemplo sem polimorfismo
 [[Exemplo sem polimorfismo]]
