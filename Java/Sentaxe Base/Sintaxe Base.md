@@ -1,5 +1,7 @@
 ---
 Created: 2025-01-28
+tags:
+  - Dicionário
 ---
 #### Nada de novo por aqui
 

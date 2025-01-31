@@ -36,6 +36,28 @@
             }
           },
           {
+            "id": "160bf26ee7b17d3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "84281045f333925b",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Diagram.svg"
+            }
+          },
+          {
             "id": "8abdf57873e04ad5",
             "type": "leaf",
             "state": {
@@ -72,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +113,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -224,11 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Polimorfismo - Java"
+              "title": "File properties"
             }
           }
         ],
@@ -248,23 +269,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63c2df903ad1bca1",
+  "active": "160bf26ee7b17d3e",
   "lastOpenFiles": [
     "Java/Orientação a Objetos/OO/Polimorfismo/Polimorfismo - Java.md",
+    "Java/Java Roadmap.canvas",
+    "Java/Java.md",
+    "Java/Sentaxe Base/Sintaxe Base.md",
+    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Simplificando Exemplo.md",
+    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg",
+    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Cast e Instanceof.md",
+    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo com Whitening cast.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo sem polimorfismo.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram.svg",
     "Java/Orientação a Objetos/OO/Polimorfismo/images",
-    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Exemplo com Whitening cast.md",
     "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram 1.svg",
     "POO/Polimorfismo/Polimorfismo.md",
-    "Java/Java Roadmap.canvas",
     "Java/Orientação a Objetos/Orientação a objetos.md",
     "Java/Orientação a Objetos/OO/Interfaces/Atributos e métodos estáticos.md",
     "Java/Orientação a Objetos/OO/Polimorfismo",
-    "Java/Java.md",
     "Java/Regras de acesso de atributos.md",
     "Java/Sentaxe Base/Sintaxes/Constante (final-static).md",
     "Java/Sentaxe Base/Sintaxes/Arrays.md",
@@ -281,9 +306,6 @@
     "Java/img/Pasted image 20250130174343.png",
     "Java/Orientação a Objetos/OO/Abstratos",
     "Java/Orientação a Objetos/OO/Sobrecargas/Sobrecarga de enum.md",
-    "Java/Sentaxe Base/Sintaxes/Enums/Enum.md",
-    "Java/Sentaxe Base/Sintaxes/Enums/Busca por atributos.md",
-    "Busca por atributos.md",
     "Java/Sentaxe Base/Sintaxes/Enums",
     "Java/Orientação a Objetos/OO/Sobrecargas",
     "Java/img/Pasted image 20250129150007.png",
@@ -297,7 +319,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops/Docker/images/Pasted image 20250127115806.png",
-    "Devops/Docker/images/Pasted image 20250127115137.png",
-    "Devops/Docker/images/Pasted image 20250127115119.png"
+    "Devops/Docker/images/Pasted image 20250127115137.png"
   ]
 }

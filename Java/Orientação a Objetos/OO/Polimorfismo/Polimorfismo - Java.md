@@ -26,3 +26,11 @@ tags:
 - Um único método para calcular imposto
 
 [[Simplificando Exemplo]]
+
+#### Cast e Instanceof
+
+[[Cast e Instanceof]]
+
+#### Programação orientada a interfaces
+
+[[Programação orientada a interfaces]]
