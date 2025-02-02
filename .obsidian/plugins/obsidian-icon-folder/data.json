@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBuildingUser",
+      "FabSquareBehance",
       "FarEnvelope",
       "🪨",
-      "LiWrapText",
-      "LiUtilityPole",
-      "🛃"
+      "LiWrapText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -160,5 +160,7 @@
   "Java/Classes Utilitárias/Classes Utilitárias.md": "LiUtilityPole",
   "Java/Classes Utilitárias/Classes/Wrappers.md": "FarEnvelope",
   "Java/Sentaxe Base/Sintaxes/Tipo primitivo (lista).md": "🪨",
-  "Java/Classes Utilitárias/Classes": "FarEnvelope"
+  "Java/Classes Utilitárias/Classes": "FarEnvelope",
+  "Java/Classes Utilitárias/Classes/String/String Builder.md": "FasBuildingUser",
+  "Java/Classes Utilitárias/Classes/String/String.md": "FabSquareBehance"
 }

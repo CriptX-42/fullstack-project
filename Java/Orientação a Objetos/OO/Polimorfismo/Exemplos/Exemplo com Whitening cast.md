@@ -119,4 +119,4 @@ public static void main(String[] args) {
 ```
 
 Diagrama do cast
-![[Untitled Diagram 1.svg]]
+![[Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram 1.svg]]

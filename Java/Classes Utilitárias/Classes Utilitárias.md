@@ -4,3 +4,4 @@ tags:
   - Dicionário
 ---
 1. [[Wrappers]]
+2. [[String]]
