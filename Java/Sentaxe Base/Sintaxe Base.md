@@ -10,3 +10,4 @@ tags:
 3. [[Array Multi]]
 4. [[Constante (final-static)]]
 5. [[Enum]]
+6. [[Tipo primitivo (lista)]]

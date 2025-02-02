@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🛃",
-      "LiAudioWaveform",
-      "🧤",
-      "LiSpline",
-      "FasPumpMedical"
+      "FarEnvelope",
+      "🪨",
+      "LiWrapText",
+      "LiUtilityPole",
+      "🛃"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -155,5 +155,10 @@
   "Java/Exceções/Exceções/Bloco Finally.md": "LiSpline",
   "Java/Exceções/Exceções/Multi Catch.md": "🧤",
   "Java/Exceções/Exceções/Try with resources.md": "LiAudioWaveform",
-  "Java/Exceções/Exceções/Exceções customizadas.md": "🛃"
+  "Java/Exceções/Exceções/Exceções customizadas.md": "🛃",
+  "Java/Classes Utilitárias": "LiUtilityPole",
+  "Java/Classes Utilitárias/Classes Utilitárias.md": "LiUtilityPole",
+  "Java/Classes Utilitárias/Classes/Wrappers.md": "FarEnvelope",
+  "Java/Sentaxe Base/Sintaxes/Tipo primitivo (lista).md": "🪨",
+  "Java/Classes Utilitárias/Classes": "FarEnvelope"
 }
