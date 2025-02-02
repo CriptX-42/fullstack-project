@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasPumpMedical",
-      "FarFileExcel",
-      "FasPersonRunning",
-      "LiXSquare",
-      "FarFaceMeh"
+      "🛃",
+      "LiAudioWaveform",
+      "🧤",
+      "LiSpline",
+      "FasPumpMedical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -148,8 +148,12 @@
   "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Cast e Instanceof.md": "LiCast",
   "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md": "FarFaceMeh",
   "Java/Exceções": "LiXSquare",
-  "Java/Exceções/RuntimeException (Exceções).md": "FasPersonRunning",
-  "Java/Exceções/Exception.md": "FarFileExcel",
   "Java/Exceções/Exceções e Definições.md": "LiXSquare",
-  "Java/Exceções/Tipos de tratamentos.md": "FasPumpMedical"
+  "Java/Exceções/Exceções/Tipos de tratamentos.md": "FasPumpMedical",
+  "Java/Exceções/Exceções/Exception.md": "FarFileExcel",
+  "Java/Exceções/Exceções/RuntimeException (Exceções).md": "FasPersonRunning",
+  "Java/Exceções/Exceções/Bloco Finally.md": "LiSpline",
+  "Java/Exceções/Exceções/Multi Catch.md": "🧤",
+  "Java/Exceções/Exceções/Try with resources.md": "LiAudioWaveform",
+  "Java/Exceções/Exceções/Exceções customizadas.md": "🛃"
 }

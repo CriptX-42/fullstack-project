@@ -30,3 +30,6 @@ at java.base/java.io.File.createNewFile(File.java:1045)
 at OException.Exception.Exception01.criarNovoArquivo(Exception01.java:14)
 at OException.Exception.Exception01.main(Exception01.java:8)
 
+
+> [!Warning] Regras
+> Podemos usar quantos catch's nos quisermos, desde que o mais genérico não esteja acima do mais especifico

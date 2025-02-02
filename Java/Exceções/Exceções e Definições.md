@@ -44,8 +44,28 @@ at OException.StackOverflow.recursividade(StackOverflow.java:9)
 [[RuntimeException (Exceções)]]
 
 #### Exception
+
 [[Exception]]
 
 ### Tipos de tratamentos
 
 [[Tipos de tratamentos]]
+
+#### Finally
+[[Bloco Finally]]
+#### Catch
+
+[[Multi Catch]]
+
+#### Try with resources
+[[Try with resources]]
+
+#### Exceções customizadas
+
+[[Exceções customizadas]]
+
+### E mais
+
+> [!NOTE] Sobrescrita
+> Na sobrescrita de métodos nós não precisamos lançar exceções. Mas se por ventura lançarmos, podemos fazer isso mais de uma vez e a classe que irá consumir esse método sobrescrito também vai ter de trata-lo
+> 
