@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
+      "FasStopwatch",
       "FasBuildingUser",
       "FabSquareBehance",
-      "FarEnvelope",
-      "🪨",
-      "LiWrapText"
+      "FarEnvelope"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -162,5 +162,7 @@
   "Java/Sentaxe Base/Sintaxes/Tipo primitivo (lista).md": "🪨",
   "Java/Classes Utilitárias/Classes": "FarEnvelope",
   "Java/Classes Utilitárias/Classes/String/String Builder.md": "FasBuildingUser",
-  "Java/Classes Utilitárias/Classes/String/String.md": "FabSquareBehance"
+  "Java/Classes Utilitárias/Classes/String/String.md": "FabSquareBehance",
+  "Java/Classes Utilitárias/Classes/Date.md": "FasStopwatch",
+  "Java/Classes Utilitárias/Classes/Calendar.md": "LiCalendar"
 }

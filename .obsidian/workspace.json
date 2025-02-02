@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Classes Utilitárias/Classes/String/String Builder.md",
+                "file": "Java/Classes Utilitárias/Classes Utilitárias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String Builder"
+              "title": "Classes Utilitárias"
+            }
+          },
+          {
+            "id": "8ac170c1f11080e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,11 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Java/Classes Utilitárias/Classes/String/String Builder.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for String Builder"
+              "title": "File properties"
             }
           }
         ],
@@ -213,12 +221,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6247633dea350fb",
+  "active": "8ac170c1f11080e7",
   "lastOpenFiles": [
+    "Java/Classes Utilitárias/Classes Utilitárias.md",
+    "Java/Classes Utilitárias/Classes/Calendar.md",
+    "Java/Classes Utilitárias/Classes/Date.md",
+    "Java/Classes Utilitárias/Classes/String/String Builder.md",
     "Java/Sentaxe Base/Sintaxes/Tipo primitivo (lista).md",
     "Java/Classes Utilitárias/Classes/String",
-    "Java/Classes Utilitárias/Classes/String/String Builder.md",
-    "Java/Classes Utilitárias/Classes Utilitárias.md",
     "Java/Java Roadmap.canvas",
     "Java/Classes Utilitárias/Classes/String/String.md",
     "Java/img/Untitled Diagram 1.svg",
@@ -256,7 +266,6 @@
     "Java/Orientação a Objetos/OO/Polimorfismo/images",
     "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram 1.svg",
-    "POO/Polimorfismo/Polimorfismo.md",
     "Java/Orientação a Objetos/OO/Polimorfismo",
     "Java/Orientação a Objetos/OO/Interfaces",
     "Java/img/Pasted image 20250130174343.png",
