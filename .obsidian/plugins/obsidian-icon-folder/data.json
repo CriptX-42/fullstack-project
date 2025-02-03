@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiIterationCw",
       "FabGitAlt",
       "LiPanelsTopBottom",
       "LiCalendar",
-      "FasStopwatch",
-      "FasBuildingUser"
+      "FasStopwatch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -168,5 +168,6 @@
   "Java/Coleção": "LiPanelsTopBottom",
   "Java/Coleção/Coleção.md": "LiPanelsTopBottom",
   "Git": "FabGitAlt",
-  "Git/Git.md": "FabGitAlt"
+  "Git/Git.md": "FabGitAlt",
+  "Javascript/Arrays/Iteração/Iteração e transformação.md": "LiIterationCw"
 }
