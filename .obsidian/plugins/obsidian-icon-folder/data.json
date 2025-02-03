@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabGitAlt",
       "LiPanelsTopBottom",
       "LiCalendar",
       "FasStopwatch",
-      "FasBuildingUser",
-      "FabSquareBehance"
+      "FasBuildingUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -166,5 +166,7 @@
   "Java/Classes Utilitárias/Classes/Date.md": "FasStopwatch",
   "Java/Classes Utilitárias/Classes/Calendar.md": "LiCalendar",
   "Java/Coleção": "LiPanelsTopBottom",
-  "Java/Coleção/Coleção.md": "LiPanelsTopBottom"
+  "Java/Coleção/Coleção.md": "LiPanelsTopBottom",
+  "Git": "FabGitAlt",
+  "Git/Git.md": "FabGitAlt"
 }
