@@ -3,6 +3,13 @@ Created: 2025-01-31
 ---
 > Vamos calcular imposto sobre produtos, mas agora vamos colocar ==validade== no objeto tomate e tentar executar usando casting e instaceof
 
+
+
+> [!NOTE] Definições
+> Casting: Quando recebemos um objeto/valor e queremos deixar explicito o tipo dele por exemplo:
+> `int valorInteiro = (int) valor;`
+
+
 - Pacote de domínio
 
 Interface:

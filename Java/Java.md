@@ -9,3 +9,4 @@ tags:
 4. [[Regras de acesso de atributos]]
 5. [[Exceções e Definições]]
 6. [[Classes Utilitárias]]
+7. [[Coleção]]
