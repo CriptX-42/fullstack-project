@@ -21,7 +21,7 @@ num.forEach(num => {
 const num = [1,2,3];
 const triplo = num.map(num => num * 3)
 Saída:
-console.log(triplo) // 3 , 6 , 9
+console.log(triplo) // [3 , 6 , 9]
 ```
 
 

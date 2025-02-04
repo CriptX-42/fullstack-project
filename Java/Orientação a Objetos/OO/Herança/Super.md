@@ -4,7 +4,7 @@ Created: 2025-01-29
 
 
 > [!NOTE] Definição
-> Quando temos um objeto mais especifico e precisamos abstrair uma ação do objeto menos especifico (a objeto pai). Podemos usar o  **super** como uma forma de não sobrescrever e sim aproveitar as ações da classe pai.
+> Quando temos um objeto mais especifico e precisamos abstrair uma ação do objeto menos especifico (a objeto pai). Podemos usar o  **super** como uma forma de **não sobrescrever** e sim aproveitar as ações da classe pai.
 
 
 
