@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDiscAlbum",
+      "FasEquals",
       "LiBinary",
       "FasCodeCompare",
-      "LiCodeSquare",
-      "FasSort",
-      "LiListMinus"
+      "LiCodeSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -177,5 +177,8 @@
   "Java/Coleção/Pratica-Exemplos/Outros/Sorting.md": "FasSort",
   "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md": "LiCodeSquare",
   "Java/Coleção/Pratica-Exemplos/Outros/Comparator.md": "FasCodeCompare",
-  "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md": "LiBinary"
+  "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md": "LiBinary",
+  "Javascript/Conceitos/Comparação": "FasCodeCompare",
+  "Javascript/Conceitos/Comparação/Igualdade.md": "FasEquals",
+  "Javascript/Conceitos/Comparação/Object.is.md": "LiDiscAlbum"
 }

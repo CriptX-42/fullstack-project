@@ -5,15 +5,22 @@ tags:
 ---
 
 ### Variáveis
-2. [[Null]]
-3. [[Undefined]]
+1. [[Null]]
+2. [[Undefined]]
+
 ### Chamadas
-4. [[Proxy]]
-5. [[Callback]]
-6. [[setTimeout]]
+1. [[Proxy]]
+2. [[Callback]]
+3. [[setTimeout]]
+
 ### Renderização
-8. [[SPA]]
-9. [[SSR]]
-10. [[Hibrido]]
-### Outros
+1. [[SPA]]
+2. [[SSR]]
+3. [[Hibrido]]
+
+#### Comparação
+1. [[Igualdade]]
+2. [[Object.is]]
+
+### Outros 
 1.  [[Hoisting]]
