@@ -13,36 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Coleção/Coleção.md",
+                "file": "Java/Coleção/Pratica-Exemplos/Lista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coleção"
+              "title": "Lista"
             }
           },
           {
-            "id": "6057dd6bca22e704",
+            "id": "90f979da3257e6b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparable"
+            }
+          },
+          {
+            "id": "3c5a1b1e23e5e1e5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": -385.7134013656932,
+                  "y": -791.7422612893329,
+                  "zoom": 0.19999999999999996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
             }
           },
           {
             "id": "706b9a42b497f168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Coleção/Definições/Complexidade Big-O.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complexidade Big-O"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -53,6 +70,20 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "a9b4c266361e8d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparable"
             }
           },
           {
@@ -68,23 +99,9 @@
               "icon": "lucide-file",
               "title": "Frontend"
             }
-          },
-          {
-            "id": "d0eeb390b0a061b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git Flow grafico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Flow grafico"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,12 +276,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6057dd6bca22e704",
+  "active": "706b9a42b497f168",
   "lastOpenFiles": [
-    "Java/Coleção/Coleção.md",
-    "Untitled.canvas",
-    "Lista.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md",
     "Java/Coleção/Definições/Complexidade Big-O.md",
+    "Javascript/RaoadMap.canvas",
+    "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md",
+    "Java/Coleção/Pratica-Exemplos/Lista.md",
+    "Java/Java Roadmap.canvas",
+    "javascript.pdf",
+    "Java/Coleção/Pratica-Exemplos/Outros/Comparator.md",
+    "Java/Coleção/Coleção.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Sorting.md",
+    "Frontend/Frontend.md",
+    "Git/Git Flow grafico.md",
+    "Java/Coleção/Pratica-Exemplos/Outros",
+    "Java/Java.md",
+    "Untitled.canvas",
     "Pasted image 20250204153641.png",
     "().md",
     "Pasted image 20250204153241.png",
@@ -273,12 +301,8 @@
     "Java/Orientação a Objetos/OO/Herança/Super.md",
     "Javascript/Arrays/Array.md",
     "Javascript/Arrays/Iteração/Iteração e transformação.md",
-    "Frontend/Frontend.md",
-    "Git/Git Flow grafico.md",
     "Javascript/Arrays/Iteração",
     "Frontend/CSS.md",
-    "Java/Java.md",
-    "Java/Java Roadmap.canvas",
     "Git/Git.md",
     "Pasted image 20250203193949.png",
     "Java/Orientação a Objetos/OO/Sobrescrita.md",
@@ -292,10 +316,6 @@
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg",
     "Java/Orientação a Objetos/OO/Getter and Setter.md",
     "Java/Coleção/Definições/Equals.md",
-    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Cast e Instanceof.md",
-    "Java/Orientação a Objetos/OO/Varargs.md",
-    "Java/Orientação a Objetos/Orientação a objetos.md",
-    "Java/Orientação a Objetos/OO/Classes.md",
     "Java/Coleção/Definições",
     "Java/Coleção",
     "Java/Classes Utilitárias/Classes/String",
@@ -303,10 +323,8 @@
     "Java/img/Pasted image 20250202180918.png",
     "Java/Classes Utilitárias/Classes",
     "WIP - Migrar MIRO.canvas",
-    "Java/Classes Utilitárias",
     "Java/img/Pasted image 20250202135415.png",
     "Java/img/Untitled Diagram.svg",
-    "Java/Exceções/Exceções",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram.svg",
     "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram 1.svg",
     "Untitled 1.canvas"

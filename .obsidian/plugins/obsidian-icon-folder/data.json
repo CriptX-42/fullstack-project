@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiChartLine",
-      "FasEquals",
-      "FasHashtag",
-      "LiIterationCw",
-      "FabGitAlt"
+      "LiBinary",
+      "FasCodeCompare",
+      "LiCodeSquare",
+      "FasSort",
+      "LiListMinus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -172,5 +172,10 @@
   "Javascript/Arrays/Iteração/Iteração e transformação.md": "LiIterationCw",
   "Java/Coleção/Definições/Hash Code.md": "FasHashtag",
   "Java/Coleção/Definições/Equals.md": "FasEquals",
-  "Java/Coleção/Definições/Complexidade Big-O.md": "LiChartLine"
+  "Java/Coleção/Definições/Complexidade Big-O.md": "LiChartLine",
+  "Java/Coleção/Pratica-Exemplos/Lista.md": "LiListMinus",
+  "Java/Coleção/Pratica-Exemplos/Outros/Sorting.md": "FasSort",
+  "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md": "LiCodeSquare",
+  "Java/Coleção/Pratica-Exemplos/Outros/Comparator.md": "FasCodeCompare",
+  "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md": "LiBinary"
 }
