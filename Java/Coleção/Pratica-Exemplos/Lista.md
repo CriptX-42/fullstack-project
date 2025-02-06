@@ -16,6 +16,7 @@ tags:
 > 	 1. [[Comparable]]
 > 	 2. [[Comparator]]
 > 	 3. [[Binary Search]]
+> 	 4. [[Convertendo Lista&Array]]
 
 
 - Um exemplo usando Array List:
