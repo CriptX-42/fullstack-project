@@ -9,7 +9,6 @@ tags:
 > **NÃO CRIAMOS LISTA COM TIPO PRIMITIVOS, SÓ WRAPPERS**
 
 
-
 > [!tip] Subtópicos
 >  1. [[Sorting]]
 >  2. Sorting Customizado: 
@@ -17,6 +16,7 @@ tags:
 > 	 2. [[Comparator]]
 > 	 3. [[Binary Search]]
 > 	 4. [[Convertendo Lista&Array]]
+> 	 5. [[iterator (exemplo de remoção)]]
 
 
 - Um exemplo usando Array List:

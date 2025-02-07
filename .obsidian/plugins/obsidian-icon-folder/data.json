@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTrash2",
       "LiChevronUpCircle",
       "LiDiscAlbum",
       "FasEquals",
-      "LiBinary",
-      "FasCodeCompare"
+      "LiBinary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -181,5 +181,6 @@
   "Javascript/Conceitos/Comparação": "FasCodeCompare",
   "Javascript/Conceitos/Comparação/Igualdade.md": "FasEquals",
   "Javascript/Conceitos/Comparação/Object.is.md": "LiDiscAlbum",
-  "Java/Coleção/Pratica-Exemplos/Outros/Convertendo Lista&Array.md": "LiChevronUpCircle"
+  "Java/Coleção/Pratica-Exemplos/Outros/Convertendo Lista&Array.md": "LiChevronUpCircle",
+  "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md": "LiTrash2"
 }
