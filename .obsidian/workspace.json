@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md",
+                "file": "Java/Coleção/Pratica-Exemplos/Lista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iterator (exemplo de remoção)"
+              "title": "Lista"
+            }
+          },
+          {
+            "id": "59804031b87d5f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set&HashSet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md"
+                "file": "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for iterator (exemplo de remoção)"
+              "title": "File properties for Set&HashSet"
             }
           }
         ],
@@ -227,11 +241,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c772703b8cae794",
+  "active": "c6247633dea350fb",
   "lastOpenFiles": [
-    "Java/Coleção/Coleção.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md",
     "Java/Coleção/Pratica-Exemplos/Lista.md",
     "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md",
+    "Java/Coleção/Coleção.md",
     "Java/Exceções/Exceções e Definições.md",
     "Java/Coleção/Pratica-Exemplos/Outros/Convertendo Lista&Array.md",
     "Java/Coleção/Pratica-Exemplos/Outros/Untitled",
@@ -265,7 +280,6 @@
     "Java/Orientação a Objetos/OO/Herança/Super.md",
     "Javascript/Arrays/Iteração",
     "Frontend/CSS.md",
-    "Git/Git.md",
     "Pasted image 20250203193949.png",
     "Frontend",
     "Git",

@@ -17,6 +17,7 @@ tags:
 > 	 3. [[Binary Search]]
 > 	 4. [[Convertendo Lista&Array]]
 > 	 5. [[iterator (exemplo de remoção)]]
+> 	 6. [[Set&HashSet]]
 
 
 - Um exemplo usando Array List:
