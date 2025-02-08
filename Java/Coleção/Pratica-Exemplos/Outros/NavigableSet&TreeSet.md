@@ -12,7 +12,11 @@ tags:
 > O que precisamos saber é que o `TreeSet` vai fazer a comparação baseada no **compareTo** da nossa classe objeto
 > Só usamos isso quando usarmos juntos o **comparator** ou **comparable**
 
-##### Um exemplo errado
+
+> [!Warning] Alguns cuidados
+> Ele falha no contrato do set, ou seja, não usa o **equals** para verificar se os elementos são iguais
+
+### Um exemplo errado
 
 - Imagine que temos esse código usando o `NavegableSet` e `TreeSet`
 
@@ -40,7 +44,7 @@ Exception in thread "main" java.lang.ClassCastException: class YColecoes.Domain.
 - Ele esta tentando ver se Smartphone é um `comparable` por isso lança essa exceção
 
 
-#### Modo certo de adicionarmos a lista dentro do **set**
+## Modo certo de adicionarmos a lista dentro do **set**
 
 - Vamos colocar um `Comparator()` na criação do nosso TreeSet
 
@@ -137,3 +141,104 @@ Jogos{id=357, nome='Metal Slug', preco=8.5, quantidade=2}
 Jogos{id=123, nome='Resident Evil 3: Nemesys', preco=3.5, quantidade=1}
 ```
 
+
+#### Os métodos que nos ajudam 
+ - Agora que estamos usando o Navegable e o TreeSet, podemos usar alguns métodos muito bons na nossa lista:
+
+```
+for (Jogos jogo: jogos.descendingSet()) {  
+    System.out.println(jogo);  
+}
+```
+
+> Carrega a mesma lista mas com ordem dessedente
+
+
+#### lower
+ - Vai trazer o que é menor
+```
+NavigableSet<Jogos> jogos = new TreeSet<>(new JogosPrecoComparator());  
+jogos.add(new Jogos(123L, "Resident Evil 3: Nemesys", 3.50, 1));  
+jogos.add(new Jogos(546L, "Medal of Honor", 5.50, 2));  
+jogos.add(new Jogos(897L, "Contra", 5.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(549L, "Drive I", 6.50, 2));  
+jogos.add(new Jogos(146L, "GTA III", 1.50, 2));  
+  
+Jogos mario = new Jogos(5L, "Mario", 5.50, 2);  
+System.out.println(jogos.lower(mario));
+```
+
+
+> [!Example] Saída
+```
+Jogos{id=123, nome='Resident Evil 3: Nemesys', preco=3.5, quantidade=1}
+```
+
+
+#### floor
+- O mesmo valor ou o imediato logo embaixo dele
+```
+NavigableSet<Jogos> jogos = new TreeSet<>(new JogosPrecoComparator());  
+jogos.add(new Jogos(123L, "Resident Evil 3: Nemesys", 3.50, 1));  
+jogos.add(new Jogos(546L, "Medal of Honor", 5.50, 2));  
+jogos.add(new Jogos(897L, "Contra", 5.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(549L, "Drive I", 6.50, 2));  
+jogos.add(new Jogos(146L, "GTA III", 1.50, 2));  
+  
+Jogos mario = new Jogos(5L, "Mario", 5.50, 2);  
+System.out.println(jogos.lower(mario));
+```
+
+> [!Example] Saída
+```
+Jogos{id=546, nome='Medal of Honor', preco=5.5, quantidade=2}
+```
+
+
+#### higher
+- O primeiro maior
+```
+NavigableSet<Jogos> jogos = new TreeSet<>(new JogosPrecoComparator());  
+jogos.add(new Jogos(123L, "Resident Evil 3: Nemesys", 3.50, 1));  
+jogos.add(new Jogos(546L, "Medal of Honor", 5.50, 2));  
+jogos.add(new Jogos(897L, "Contra", 5.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(549L, "Drive I", 6.50, 2));  
+jogos.add(new Jogos(146L, "GTA III", 1.50, 2));  
+  
+Jogos mario = new Jogos(5L, "Mario", 5.50, 2);  
+System.out.println(jogos.lower(mario));
+```
+
+> [!Example] Saída
+`Jogos{id=549, nome='Drive I', preco=6.5, quantidade=2}`
+#### ceiling
+ - Igual ou maior, levando em consideração o valor que nós passarmos
+```
+NavigableSet<Jogos> jogos = new TreeSet<>(new JogosPrecoComparator());  
+jogos.add(new Jogos(123L, "Resident Evil 3: Nemesys", 3.50, 1));  
+jogos.add(new Jogos(546L, "Medal of Honor", 5.50, 2));  
+jogos.add(new Jogos(897L, "Contra", 5.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(357L, "Metal Slug", 8.50, 2));  
+jogos.add(new Jogos(549L, "Drive I", 6.50, 2));  
+jogos.add(new Jogos(146L, "GTA III", 1.50, 2));  
+  
+Jogos mario = new Jogos(5L, "Mario", 5.50, 2);  
+System.out.println(jogos.lower(mario));
+```
+
+
+> [!Example] Saída
+`Jogos{id=546, nome='Medal of Honor', preco=5.5, quantidade=2}`
+
+
+#### Excluindo elementos da lista (o primeiro e o ultimo)
+``
+`jogos.pollFirst()`
+`jogos.pollLast()`
