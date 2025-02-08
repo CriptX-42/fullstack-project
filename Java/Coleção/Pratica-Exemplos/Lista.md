@@ -18,6 +18,8 @@ tags:
 > 	 4. [[Convertendo Lista&Array]]
 > 	 5. [[iterator (exemplo de remoção)]]
 > 	 6. [[Set&HashSet]]
+> 	 7. [[NavigableSet&TreeSet]]
+> 	 8. 
 
 
 - Um exemplo usando Array List:
@@ -107,3 +109,7 @@ Saída:
 1 index
 Smartphone{serialNumber='789654', marca='Samsung'} Pegando pelo index
 ```
+
+
+
+![[Pasted image 20250208180353.png]]
