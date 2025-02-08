@@ -19,7 +19,7 @@ tags:
 > 	 5. [[iterator (exemplo de remoção)]]
 > 	 6. [[Set&HashSet]]
 > 	 7. [[NavigableSet&TreeSet]]
-> 	 8. 
+> 	 8. [[Map & HashMap & LinkedHaskMap]]
 
 
 - Um exemplo usando Array List:
