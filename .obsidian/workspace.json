@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "1c6d1d299a68c3bf",
+            "id": "86a5ed7f3845a09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,6 +75,23 @@
               },
               "icon": "lucide-file",
               "title": "Map & HashMap & LinkedHaskMap"
+            }
+          },
+          {
+            "id": "1c6d1d299a68c3bf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Java/Java Roadmap.canvas",
+                "viewState": {
+                  "x": -234.95607803538672,
+                  "y": 182.9141089325417,
+                  "zoom": -0.5999999999999999
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Java Roadmap"
             }
           },
           {
@@ -265,18 +282,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c6d1d299a68c3bf",
+  "active": "86a5ed7f3845a09f",
   "lastOpenFiles": [
     "Java/Coleção/Pratica-Exemplos/Lista.md",
+    "Java/Java Roadmap.canvas",
     "Java/Coleção/Pratica-Exemplos/Outros/Map & HashMap & LinkedHaskMap.md",
-    "Java/Coleção/Pratica-Exemplos/Outros/NavigableSet&TreeSet.md",
     "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md",
+    "Java/Coleção/Pratica-Exemplos/Outros/NavigableSet&TreeSet.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Comparator.md",
+    "Java/Coleção/Pratica-Exemplos/Outros/Convertendo Lista&Array.md",
     "Java/img/Pasted image 20250203193949.png",
     "Java/img/Pasted image 20250208180353.png",
-    "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md",
     "Java/Coleção/Coleção.md",
     "Java/Exceções/Exceções e Definições.md",
-    "Java/Coleção/Pratica-Exemplos/Outros/Convertendo Lista&Array.md",
     "Java/Coleção/Pratica-Exemplos/Outros/Untitled",
     "Javascript/Conceitos/Nulos e vazios/Null.md",
     "Javascript/Conceitos/Comparação/Object.is.md",
@@ -287,13 +308,9 @@
     "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Conceitos/Comparação/Igualdade.md",
     "Javascript/Conceitos/Comparação",
-    "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md",
     "Java/Coleção/Definições/Complexidade Big-O.md",
     "Javascript/RaoadMap.canvas",
-    "Java/Coleção/Pratica-Exemplos/Outros/Comparable.md",
-    "Java/Java Roadmap.canvas",
     "javascript.pdf",
-    "Java/Coleção/Pratica-Exemplos/Outros/Comparator.md",
     "Java/Coleção/Pratica-Exemplos/Outros/Sorting.md",
     "Frontend/Frontend.md",
     "Git/Git Flow grafico.md",
@@ -303,7 +320,6 @@
     "Java/img/Pasted image 20250204153641.png",
     "().md",
     "Java/img/Pasted image 20250204153241.png",
-    "Java/Coleção/Definições/Hash Code.md",
     "Java/Coleção/Pratica-Exemplos",
     "Javascript/Arrays/Iteração",
     "Frontend",
