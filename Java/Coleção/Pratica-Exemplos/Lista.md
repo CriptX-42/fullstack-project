@@ -20,6 +20,7 @@ tags:
 > 	 6. [[Set&HashSet]]
 > 	 7. [[NavigableSet&TreeSet]]
 > 	 8. [[Map & HashMap & LinkedHaskMap]]
+> 	 9. [[NavigableMap & TreeMap]]
 
 
 - Um exemplo usando Array List:
