@@ -16,11 +16,7 @@ tags:
 > 	 2. [[Comparator]]
 > 	 3. [[Binary Search]]
 > 	 4. [[Convertendo Lista&Array]]
-> 	 5. [[iterator (exemplo de remoção)]]
-> 	 6. [[Set&HashSet]]
-> 	 7. [[NavigableSet&TreeSet]]
-> 	 8. [[Map & HashMap & LinkedHaskMap]]
-> 	 9. [[NavigableMap & TreeMap]]
+> 	
 
 
 - Um exemplo usando Array List:

@@ -4,6 +4,14 @@ tags:
   - Dicionário
 ---
 
+> [!tip] Subtópicos
+>   1. [[iterator (exemplo de remoção)]]
+> 1. [[Set&HashSet]]
+> 2. [[NavigableSet&TreeSet]]
+> 3. [[Map & HashMap & LinkedHaskMap]]
+>  1. [[NavigableMap & TreeMap]]
+>  2. [[Queue & PriorityQueue]]
+> 	
 
 > [!NOTE] Precisamos entender que:
 >1. Coleções são grupo de dados

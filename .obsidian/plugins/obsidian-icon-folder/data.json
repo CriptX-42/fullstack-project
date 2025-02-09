@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗄",
       "FasSitemap",
       "FasMapPin",
       "LiNavigation",
-      "FasHashtag",
-      "LiTrash2"
+      "FasHashtag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -186,5 +186,6 @@
   "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md": "FasHashtag",
   "Java/Coleção/Pratica-Exemplos/Outros/NavigableSet&TreeSet.md": "LiNavigation",
   "Java/Coleção/Pratica-Exemplos/Outros/Map & HashMap & LinkedHaskMap.md": "FasMapPin",
-  "Java/Coleção/Pratica-Exemplos/Outros/NavigableMap & TreeMap.md": "FasSitemap"
+  "Java/Coleção/Pratica-Exemplos/Outros/NavigableMap & TreeMap.md": "FasSitemap",
+  "Java/Coleção/Pratica-Exemplos/Outros/Queue & PriorityQueue.md": "🗄"
 }
