@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasLeftRight",
       "🃏",
       "LiChevronsLeftRight",
       "🗄",
-      "FasSitemap",
-      "FasMapPin"
+      "FasSitemap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -190,5 +190,6 @@
   "Java/Coleção/Pratica-Exemplos/Outros/Queue & PriorityQueue.md": "🗄",
   "Java/Generics": "LiChevronsLeftRight",
   "Java/Generics/Generics.md": "LiChevronsLeftRight",
-  "Java/Generics/Utilização/Wildcards.md": "🃏"
+  "Java/Generics/Utilização/Wildcards.md": "🃏",
+  "Java/Generics/Utilização/Classes Genericas.md": "FasLeftRight"
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Generics/Utilização/Wildcards.md",
+                "file": "Java/Generics/Utilização/Classes Genericas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wildcards"
+              "title": "Classes Genericas"
             }
           },
           {
@@ -204,10 +204,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Generics/Utilização/Wildcards.md"
+                "file": "Java/Generics/Utilização/Classes Genericas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Wildcards"
+              "title": "File properties for Classes Genericas"
             }
           }
         ],
@@ -229,10 +229,11 @@
   },
   "active": "98c9172a07614d36",
   "lastOpenFiles": [
+    "Java/Generics/Utilização/Wildcards.md",
+    "Java/Generics/Utilização/Classes Genericas.md",
     "Pasted image 20250210161816.png",
     "Pasted image 20250210161316.png",
     "Java/Generics/Generics.md",
-    "Java/Generics/Utilização/Wildcards.md",
     "Java/Generics/Utilização",
     "Java/Generics/Untitled.md",
     "Java/Coleção/Coleção.md",
@@ -278,7 +279,6 @@
     "Java/img/Pasted image 20250202180918.png",
     "WIP - Migrar MIRO.canvas",
     "Java/img/Pasted image 20250202135415.png",
-    "Java/img/Untitled Diagram.svg",
     "Untitled 1.canvas"
   ]
 }
