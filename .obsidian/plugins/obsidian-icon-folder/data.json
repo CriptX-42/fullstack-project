@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🃏",
+      "LiChevronsLeftRight",
       "🗄",
       "FasSitemap",
-      "FasMapPin",
-      "LiNavigation",
-      "FasHashtag"
+      "FasMapPin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -187,5 +187,8 @@
   "Java/Coleção/Pratica-Exemplos/Outros/NavigableSet&TreeSet.md": "LiNavigation",
   "Java/Coleção/Pratica-Exemplos/Outros/Map & HashMap & LinkedHaskMap.md": "FasMapPin",
   "Java/Coleção/Pratica-Exemplos/Outros/NavigableMap & TreeMap.md": "FasSitemap",
-  "Java/Coleção/Pratica-Exemplos/Outros/Queue & PriorityQueue.md": "🗄"
+  "Java/Coleção/Pratica-Exemplos/Outros/Queue & PriorityQueue.md": "🗄",
+  "Java/Generics": "LiChevronsLeftRight",
+  "Java/Generics/Generics.md": "LiChevronsLeftRight",
+  "Java/Generics/Utilização/Wildcards.md": "🃏"
 }
