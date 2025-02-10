@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Generics/Generics.md",
+                "file": "Java/Generics/Utilização/Wildcards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Wildcards"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,11 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6247633dea350fb",
+  "active": "98c9172a07614d36",
   "lastOpenFiles": [
-    "Java/Generics/Utilização",
-    "Java/Generics/Utilização/Wildcards.md",
+    "Pasted image 20250210161816.png",
+    "Pasted image 20250210161316.png",
     "Java/Generics/Generics.md",
+    "Java/Generics/Utilização/Wildcards.md",
+    "Java/Generics/Utilização",
     "Java/Generics/Untitled.md",
     "Java/Coleção/Coleção.md",
     "Java/Generics",
@@ -272,13 +274,11 @@
     "Frontend",
     "Git",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg",
-    "Java/Coleção/Definições",
     "Java/img/Untitled Diagram 1.svg",
     "Java/img/Pasted image 20250202180918.png",
     "WIP - Migrar MIRO.canvas",
     "Java/img/Pasted image 20250202135415.png",
     "Java/img/Untitled Diagram.svg",
-    "Java/Orientação a Objetos/OO/Polimorfismo/images/Untitled Diagram.svg",
     "Untitled 1.canvas"
   ]
 }

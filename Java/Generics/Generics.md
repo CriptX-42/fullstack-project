@@ -11,7 +11,7 @@ tags:
 
 
 > [!Tips] Sumario
-> [[Wildcards]]
+> 1. [[Wildcards]]
 
 
 
