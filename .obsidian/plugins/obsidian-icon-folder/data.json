@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabIntercom",
       "LiChevronsLeftRightEllipsis",
       "FasLeftRight",
       "🃏",
-      "LiChevronsLeftRight",
-      "🗄"
+      "LiChevronsLeftRight"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -192,5 +192,6 @@
   "Java/Generics/Generics.md": "LiChevronsLeftRight",
   "Java/Generics/Utilização/Wildcards.md": "🃏",
   "Java/Generics/Utilização/Classes Genericas.md": "FasLeftRight",
-  "Java/Generics/Utilização/Métodos genericos.md": "LiChevronsLeftRightEllipsis"
+  "Java/Generics/Utilização/Métodos genericos.md": "LiChevronsLeftRightEllipsis",
+  "Java/Classes Internas": "FabIntercom"
 }

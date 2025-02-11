@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Coleção/Pratica-Exemplos/Lista.md",
+                "file": "Java/Classes Internas/Classes Internas - Inner Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista"
-            }
-          },
-          {
-            "id": "98c9172a07614d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Generics/Generics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generics"
-            }
-          },
-          {
-            "id": "d85dab631456860d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Generics/Utilização/Métodos genericos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Métodos genericos"
-            }
-          },
-          {
-            "id": "0e1d92563aec17ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Generics/Utilização/Wildcards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wildcards"
+              "title": "Classes Internas - Inner Classes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +175,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Generics/Utilização/Métodos genericos.md"
+                "file": "Java/Classes Internas/Classes Internas - Inner Classes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Métodos genericos"
+              "title": "File properties for Classes Internas - Inner Classes"
             }
           }
         ],
@@ -241,19 +198,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d85dab631456860d",
+  "active": "aa8233572fcc34c0",
   "lastOpenFiles": [
+    "Java/Coleção/Pratica-Exemplos/Lista.md",
+    "Java/Classes Internas/Classes Internas - Inner Classes.md",
+    "Java/Generics/Utilização/Wildcards.md",
     "Java/Generics/Generics.md",
+    "Java/Java.md",
+    "Java/img/Pasted image 20250210161316.png",
+    "Java/Classes Internas",
     "Java/Generics/Utilização/Métodos genericos.md",
     "Java/Generics/Utilização/Classes Genericas.md",
-    "Java/Generics/Utilização/Wildcards.md",
-    "Pasted image 20250210161816.png",
-    "Pasted image 20250210161316.png",
+    "Java/img/Pasted image 20250210161816.png",
     "Java/Generics/Utilização",
     "Java/Generics/Untitled.md",
     "Java/Coleção/Coleção.md",
     "Java/Generics",
-    "Java/Coleção/Pratica-Exemplos/Lista.md",
     "Java/Java Roadmap.canvas",
     "Java/Coleção/Pratica-Exemplos/Outros/Queue & PriorityQueue.md",
     "Java/Coleção/Pratica-Exemplos/Outros/NavigableMap & TreeMap.md",
@@ -274,9 +234,6 @@
     "Javascript/Conceitos/Nulos e vazios/Undefined.md",
     "Javascript/Conceitos/Hoisting.md",
     "Javascript/Arrays/Iteração/Iteração e transformação.md",
-    "Javascript/Arrays/Array.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
-    "Javascript/Conceitos/Comparação/Igualdade.md",
     "Javascript/Conceitos/Comparação",
     "Javascript/RaoadMap.canvas",
     "javascript.pdf",
@@ -287,7 +244,6 @@
     "Java/Coleção/Pratica-Exemplos",
     "Javascript/Arrays/Iteração",
     "Frontend",
-    "Git",
     "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Untitled Diagram.svg",
     "Java/img/Untitled Diagram 1.svg",
     "Java/img/Pasted image 20250202180918.png",
