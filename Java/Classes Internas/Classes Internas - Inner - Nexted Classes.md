@@ -8,6 +8,11 @@ tags:
 > É basicamente uma classe dentro da outra
 > Sem trabalhar com **interfaces graficas**, é mais complicado de trabalhar com Inner Class
 
+
+> [!Tip] Sumário
+> 1. [[Local Classes]]
+
+
 Uso:
 
 ```

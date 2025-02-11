@@ -10,4 +10,4 @@ tags:
 5. [[Exceções e Definições]]
 6. [[Classes Utilitárias]]
 7. [[Coleção]]
-8. [[Classes Internas - Inner Classes]]
+8. [[Classes Internas - Inner - Nexted Classes]]
