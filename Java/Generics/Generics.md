@@ -10,9 +10,21 @@ tags:
 > Ex:
 
 
-> [!Tips] Sumario
+> [!Tip] Sumario
 > 1. [[Wildcards]]
+> 2. [[Métodos genericos]]
 
+
+- Nomenclatura padrão de generics:
+
+| Nome | Significado Comum                           |
+| ---- | ------------------------------------------- |
+| T    | **Type** — Um tipo genérico qualquer        |
+| E    | **Element** — Para coleções (Ex: List, Set) |
+| K    | **Key** — Chave em um par (Ex: Map)         |
+| V    | **Value** — Valor em um par (Ex: Map)       |
+| N    | **Number** — Para tipos numéricos           |
+| R    | **Result** — Retorno de uma operação        |
 
 
 ```
