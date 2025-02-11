@@ -11,6 +11,7 @@ tags:
 
 > [!Tip] Sumário
 > 1. [[Local Classes]]
+> 2. [[Classes anonimas]]
 
 
 Uso:

@@ -27,16 +27,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Classes Internas/Utilizações/Local Classes.md",
+                "file": "Java/Classes Internas/Classes Internas - Inner - Nexted Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local Classes"
+              "title": "Classes Internas - Inner - Nexted Classes"
+            }
+          },
+          {
+            "id": "3af651ea71ba88b7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Java/Java Roadmap.canvas",
+                "viewState": {
+                  "x": -628.984989325571,
+                  "y": 301.0004032159076,
+                  "zoom": -0.20000000000000007
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Java Roadmap"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Classes Internas/Utilizações/Local Classes.md"
+                "file": "Java/Java Roadmap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Local Classes"
+              "title": "File properties for Java Roadmap"
             }
           }
         ],
@@ -213,8 +230,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6247633dea350fb",
+  "active": "3af651ea71ba88b7",
   "lastOpenFiles": [
+    "Java/Classes Internas/Utilizações/Classes anonimas.md",
     "Java/Classes Internas/Classes Internas - Inner - Nexted Classes.md",
     "Java/Classes Internas/Utilizações/Local Classes.md",
     "Java/Classes Internas/Utilizações",
