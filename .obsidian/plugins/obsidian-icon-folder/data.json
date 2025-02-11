@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiContrast",
       "FasMask",
       "FasMaskFace",
       "LiLocateFixed",
-      "FabIntercom",
-      "LiChevronsLeftRightEllipsis"
+      "FabIntercom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -195,5 +195,6 @@
   "Java/Generics/Utilização/Métodos genericos.md": "LiChevronsLeftRightEllipsis",
   "Java/Classes Internas": "FabIntercom",
   "Java/Classes Internas/Utilizações/Local Classes.md": "LiLocateFixed",
-  "Java/Classes Internas/Utilizações/Classes anonimas.md": "FasMask"
+  "Java/Classes Internas/Utilizações/Classes anonimas.md": "FasMask",
+  "Java/Classes Internas/Utilizações/Static Class.md": "LiContrast"
 }
