@@ -4,7 +4,10 @@ tags:
   - Dicionário
 ---
 
-> [!Tip] Sumário
+> [!Tip] Sumário de conceitos
 > 1. [[Predicate]]
 > 2. [[Consumer]]
 > 3. [[Function]]
+
+> [!Tip] Sumário de Methods References
+> 1. [[Methods References]]
