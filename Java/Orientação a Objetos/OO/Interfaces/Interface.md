@@ -11,6 +11,9 @@ Created: 2025-01-30
 >
 >Nós não usamos o **extends** para implementar um abstrato, usamos o **implements**
 
+> [!NOTE] Algumas definições
+> **Interface funcional:** Apenas um método abstrato
+
 
 	Exemplo:
 
@@ -59,3 +62,14 @@ public interface DataLoader {
 
 #### Atributos e métodos estáticos
 [[Atributos e métodos estáticos]]
+
+#### Atribuindo uma interface funcional
+
+
+- Não podemos adicionar um método além do **test**
+```
+@FunctionalInterface  
+public interface CarPredicate {  
+    boolean test(Car car);  
+}
+```

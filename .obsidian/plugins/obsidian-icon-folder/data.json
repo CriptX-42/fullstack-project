@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasArrowsToCircle",
       "FasHandScissors",
       "LiContrast",
       "FasMask",
-      "FasMaskFace",
-      "LiLocateFixed"
+      "FasMaskFace"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -198,5 +198,7 @@
   "Java/Classes Internas/Utilizações/Classes anonimas.md": "FasMask",
   "Java/Classes Internas/Utilizações/Static Class.md": "LiContrast",
   "Java/Parametrizando Comportamentos": "FasHandScissors",
-  "Java/Parametrizando Comportamentos/Parametrizando Comportamentos.md": "FasHandScissors"
+  "Java/Parametrizando Comportamentos/Parametrizando Comportamentos.md": "FasHandScissors",
+  "Java/Lambda": "FasArrowsToCircle",
+  "Java/Lambda/Lambda.md": "FasArrowsToCircle"
 }

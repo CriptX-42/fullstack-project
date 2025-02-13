@@ -12,3 +12,4 @@ tags:
 7. [[Coleção]]
 8. [[Classes Internas - Inner - Nexted Classes]]
 9. [[Parametrizando Comportamentos]]
+10. [[Lambda]]
