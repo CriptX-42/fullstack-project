@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lambda/Conceitos/Consumer.md",
+                "file": "Java/Lambda/Conceitos/Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consumer"
+              "title": "Function"
             }
           }
         ],
@@ -190,10 +190,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Lambda/Conceitos/Consumer.md"
+                "file": "Java/Lambda/Conceitos/Function.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Consumer"
+              "title": "File properties for Function"
             }
           }
         ],
@@ -215,9 +215,10 @@
   },
   "active": "c0a70b06be89def3",
   "lastOpenFiles": [
-    "Java/Lambda/Conceitos/Predicate.md",
-    "Java/Lambda/Lambda.md",
     "Java/Lambda/Conceitos/Consumer.md",
+    "Java/Lambda/Conceitos/Function.md",
+    "Java/Lambda/Lambda.md",
+    "Java/Lambda/Conceitos/Predicate.md",
     "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
     "Java/Classes Internas/Classes Internas - Inner - Nexted Classes.md",
     "Java/Java.md",
@@ -250,7 +251,6 @@
     "Java/Coleção/Pratica-Exemplos/Outros/iterator (exemplo de remoção).md",
     "Java/Coleção/Pratica-Exemplos/Outros/NavigableSet&TreeSet.md",
     "Java/Coleção/Pratica-Exemplos/Outros/Set&HashSet.md",
-    "Java/Coleção/Pratica-Exemplos/Outros/Binary Search.md",
     "Java/img/Pasted image 20250203193949.png",
     "Java/img/Pasted image 20250208180353.png",
     "Java/Coleção/Pratica-Exemplos/Outros/Untitled",

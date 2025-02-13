@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFunctionSquare",
       "FasStore",
       "LiBinary",
       "FasArrowsToCircle",
-      "FasHandScissors",
-      "LiContrast"
+      "FasHandScissors"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -202,5 +202,6 @@
   "Java/Lambda": "FasArrowsToCircle",
   "Java/Lambda/Lambda.md": "FasArrowsToCircle",
   "Java/Lambda/Conceitos/Predicate.md": "LiBinary",
-  "Java/Lambda/Conceitos/Consumer.md": "FasStore"
+  "Java/Lambda/Conceitos/Consumer.md": "FasStore",
+  "Java/Lambda/Conceitos/Function.md": "LiFunctionSquare"
 }

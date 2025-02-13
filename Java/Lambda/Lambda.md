@@ -7,3 +7,4 @@ tags:
 > [!Tip] Sumário
 > 1. [[Predicate]]
 > 2. [[Consumer]]
+> 3. [[Function]]

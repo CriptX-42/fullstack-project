@@ -23,3 +23,11 @@ public class LambdaTeste01 {
 ```
 
 > consumer vai executar o código de print dentro da sua expressão, isso está definido no consumer.aceept, passando o elemento como parametro
+
+
+> [!Example] Saída
+```
+Ricardo
+Luiz
+José 
+```
