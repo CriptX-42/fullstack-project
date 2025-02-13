@@ -1,9 +1,18 @@
 ---
 Created: 2025-02-13
+tags:
+  - Dicionário
 ---
 
 > [!NOTE] Regra
 > Se nosso lambda chama apenas um método, ele pode utilizar Methods Reference
+
+
+> [!Tip] Sumário de Methods Reference
+> 1. [[Metodos Estaticos]]
+> 2. [[Referencia a métodos não estáticos]]
+> 3. [[Referencia para construtor]]
+
 
 > Por isso nosso intellij está nos apontado esse alerta:
 > ![[Pasted image 20250213190735.png]]
@@ -32,6 +41,4 @@ public class LambdaTeste02 {
 
 [Documentação da oracle](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html) 
 
-### Tipos de Methods Reference
 
-[[]]
