@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referencia para construtor.md",
+                "file": "Referencia para construtor (Supplier).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referencia para construtor"
+              "title": "Referencia para construtor (Supplier)"
             }
           }
         ],
@@ -260,10 +260,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Referencia para construtor.md"
+                "file": "Referencia para construtor (Supplier).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Referencia para construtor"
+              "title": "File properties for Referencia para construtor (Supplier)"
             }
           }
         ],
@@ -285,7 +285,7 @@
   },
   "active": "33291383a5cb8d7c",
   "lastOpenFiles": [
-    "Referencia para construtor.md",
+    "Referencia para construtor (Supplier).md",
     "Java/Lambda/Methods Reference/Methods References.md",
     "Java/Lambda/Methods Reference/Todos os tipos/Referencia a métodos não estáticos.md",
     "Untitled.md",

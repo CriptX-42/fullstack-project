@@ -11,7 +11,7 @@ tags:
 > [!Tip] Sumário de Methods Reference
 > 1. [[Metodos Estaticos]]
 > 2. [[Referencia a métodos não estáticos]]
-> 3. [[Referencia para construtor]]
+> 3. [[Referencia para construtor (Supplier)]]
 
 
 > Por isso nosso intellij está nos apontado esse alerta:
