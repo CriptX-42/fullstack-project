@@ -13,6 +13,8 @@ tags:
 
 > [!Tip] Sumário
 > 1. [[FlatMap]]
+> 2. [[Finding and Matching]]
+> 
 
 
 ### O problema (Introdução)

@@ -1,5 +1,7 @@
 ---
 Created: 2025-02-16
+tags:
+  - Duvidas
 ---
 
 
@@ -49,3 +51,7 @@ public static void main(String[] args) {
   
 }
 ```
+
+
+> [!Danger] Duvida
+> Consultar: https://www.youtube.com/watch?v=wCEEhV4Hkio&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=208
