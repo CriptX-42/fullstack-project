@@ -11,6 +11,10 @@ tags:
 > 1. Uma ação intermediaria retorna o proprio stream
 
 
+> [!Tip] Sumário
+> 1. [[FlatMap]]
+
+
 ### O problema (Introdução)
 	Imagine que temos uma classe de jogos, e queremos fazer uma lista com preços e titulos
 	Queremos ordenar por nome, e depois retornar os 3 primeiros jogos com preço menor que 4
@@ -123,7 +127,6 @@ public class Teste02 {
 [007 Golden Eye, Gran turismo, Medal of Honor]
 ```
 
-
 > [!Example] Explicação
 > **Streams**: vai permitir processar os elementos de forma funcional e encadeada
 > **.filter**: vai filtrar os jgoos com o preço menor que 4
@@ -131,5 +134,5 @@ public class Teste02 {
 > **Map:** vai extrair apenas nome do jogo
 > **toList()**: converte o fluxo final para uma List<String>, que pode ser usada normalmente
 
- 
-
+Se eu tiver que chamar 2 streams de uma unica fonte, terei que instanciar a lista novamente e chamar o stream, EX:
+listaJogos.stream()... (chamando a segunda vez)
