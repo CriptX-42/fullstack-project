@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCupSoda",
       "LiOption",
       "FarSquareFull",
       "LiFunctionSquare",
-      "FasStore",
-      "LiBinary"
+      "FasStore"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -207,5 +207,7 @@
   "Java/Lambda/Methods Reference": "FarSquareFull",
   "Java/Lambda/Methods Reference/Methods References.md": "FarSquareFull",
   "Java/Optional": "LiOption",
-  "Java/Optional/Optional.md": "LiOption"
+  "Java/Optional/Optional.md": "LiOption",
+  "Java/Streams": "LiCupSoda",
+  "Java/Streams/Streams.md": "LiCupSoda"
 }
