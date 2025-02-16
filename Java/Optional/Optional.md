@@ -8,6 +8,15 @@ tags:
 > Tentar evitar o nullPointerException. Ou ser fácil de identificar que o retorno de um método pode ser opcional
 > Optional é um objeto que vai encapsular outros objetos 
 
+
+> [!Danger] Cuidado
+> Não é indicado colocar optional dentro da passagem de parametro
+> Optional não é uma classe serializavel (pesquisar sobre )
+
+
+> [!Tip] Ler mais em
+> [[Aplicando em um problema real]]
+
 ### O problema
 
 ```
