@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "72f04e462977aa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Streams/Métodos/Reduce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reduce"
+            }
+          },
+          {
             "id": "4b697d8f5b1f0d1b",
             "type": "leaf",
             "state": {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,10 +228,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Streams/Streams.md"
+                "file": "Java/Streams/Métodos/Reduce.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Streams"
+              "title": "File properties for Reduce"
             }
           }
         ],
@@ -237,10 +251,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "497a58abb09d335c",
+  "active": "72f04e462977aa0f",
   "lastOpenFiles": [
-    "Java/Streams/Métodos/Finding and Matching.md",
+    "Java/Streams/Métodos/Reduce.md",
     "Java/Streams/Streams.md",
+    "Java/Streams/Métodos/Finding and Matching.md",
     "Java/Streams/Métodos/FlatMap.md",
     "Java/Streams/Métodos",
     "Java/Java.md",
@@ -277,7 +292,6 @@
     "Java/Classes Internas/Utilizações/Classes anonimas.md",
     "Java/Classes Internas/Utilizações/Local Classes.md",
     "Java/Classes Internas/Utilizações",
-    "Java/Coleção/Pratica-Exemplos/Lista.md",
     "Java/img/Pasted image 20250210161316.png",
     "Java/Classes Internas",
     "Java/img/Pasted image 20250210161816.png",

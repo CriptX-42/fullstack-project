@@ -14,7 +14,7 @@ tags:
 > [!Tip] Sumário
 > 1. [[FlatMap]]
 > 2. [[Finding and Matching]]
-> 
+> 3. [[Reduce]]
 
 
 ### O problema (Introdução)
