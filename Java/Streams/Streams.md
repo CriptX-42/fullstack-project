@@ -16,6 +16,8 @@ tags:
 > 2. [[Finding and Matching]]
 > 3. [[Reduce]]
 > 4. [[Gerando Streams]]
+> 5. [[Collectors]]
+> 	1. [[Grouping by]]
 
 
 ### O problema (Introdução)

@@ -8,101 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a3702f28677a4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "41c92e07e9213469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "497a58abb09d335c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "72f04e462977aa0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "aff108eecc192bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
             "id": "24de646f4754a26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/Métodos/Reduce.md",
+                "file": "Java/Streams/Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reduce"
+              "title": "Streams"
             }
           },
           {
-            "id": "4b697d8f5b1f0d1b",
+            "id": "c6c216f853ee8536",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Java/Streams/Streams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streams"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,10 +190,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Streams/Métodos/Reduce.md"
+                "file": "Java/Streams/Streams.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Reduce"
+              "title": "File properties for Streams"
             }
           }
         ],
@@ -279,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24de646f4754a26d",
+  "active": "c6c216f853ee8536",
   "lastOpenFiles": [
+    "Java/Streams/Métodos/Collectors/Collectors.md",
+    "Java/Streams/Métodos/Collectors",
     "Java/Streams/Streams.md",
     "Java/Streams/Métodos/Gerando Streams.md",
     "Java/Streams/Métodos/Reduce.md",
@@ -317,11 +253,8 @@
     "Java/Lambda",
     "Java/Parametrizando Comportamentos",
     "Java/Untitled.md",
-    "Java/Classes Internas/Utilizações/Static Class.md",
-    "Java/Classes Internas/Utilizações/Classes anonimas.md",
     "Java/Classes Internas/Utilizações",
     "Java/img/Pasted image 20250210161316.png",
-    "Java/Classes Internas",
     "Java/img/Pasted image 20250210161816.png",
     "Java/img/Pasted image 20250203193949.png",
     "Java/img/Pasted image 20250208180353.png",
