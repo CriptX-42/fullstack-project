@@ -15,6 +15,7 @@ tags:
 > 1. [[FlatMap]]
 > 2. [[Finding and Matching]]
 > 3. [[Reduce]]
+> 4. [[Gerando Streams]]
 
 
 ### O problema (Introdução)
