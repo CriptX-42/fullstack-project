@@ -195,3 +195,66 @@ public static void main(String[] args) {
 ```
 {NORMAL_PRACE={TIRO_PRIMEIRA_PESSOA=[Jogos{nome='DOOM', Price=7.11, category=TIRO_PRIMEIRA_PESSOA}], ACAO=[Jogos{nome='GTA', Price=12.3, category=ACAO}, Jogos{nome='Contra', Price=6.66, category=ACAO}]}, UNDER_PROMOTION={TIRO_PRIMEIRA_PESSOA=[Jogos{nome='007 Golden Eye', Price=2.95, category=TIRO_PRIMEIRA_PESSOA}, Jogos{nome='Medal of Honor', Price=1.99, category=TIRO_PRIMEIRA_PESSOA}], ACAO=[Jogos{nome='Gran turismo', Price=3.55, category=ACAO}], AVENTURA=[Jogos{nome='Zelda: Ocarine of the time', Price=1.0, category=AVENTURA}]}}
 ```
+
+
+### Brincando com groupingBy
+
+```
+public static void main(String[] args) {  
+  
+    Map<Category, Long> collect = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.counting()));  
+  
+    System.out.println(collect);  
+    Map<Category, Optional<Jogos>> collect1 = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.maxBy(Comparator.comparing(Jogos::getPrice))));  
+    System.out.println(collect1);  
+  
+    Map<Category, Jogos> collect2 = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.collectingAndThen(Collectors.maxBy(Comparator.comparing(Jogos::getPrice)), Optional::get)));  
+  
+    System.out.println(collect2);  
+}
+```
+
+
+
+> [!Example] Saída
+```
+{AVENTURA=1, TIRO_PRIMEIRA_PESSOA=3, ACAO=3}
+
+{AVENTURA=Optional[Jogos{nome='Zelda: Ocarine of the time', Price=1.0, category=AVENTURA}], TIRO_PRIMEIRA_PESSOA=Optional[Jogos{nome='DOOM', Price=7.11, category=TIRO_PRIMEIRA_PESSOA}], ACAO=Optional[Jogos{nome='GTA', Price=12.3, category=ACAO}]}
+
+{AVENTURA=Jogos{nome='Zelda: Ocarine of the time', Price=1.0, category=AVENTURA}, TIRO_PRIMEIRA_PESSOA=Jogos{nome='DOOM', Price=7.11, category=TIRO_PRIMEIRA_PESSOA}, ACAO=Jogos{nome='GTA', Price=12.3, category=ACAO}}
+```
+
+
+```
+public static void main(String[] args) {  
+  
+    //Gostariamos de agrupoar por categoria e tirar estatistica disso  
+  
+    Map<Category, DoubleSummaryStatistics> collect = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.summarizingDouble(Jogos::getPrice)));  
+  
+    System.out.println(collect);  
+  
+    //Não se repete  
+    Map<Category, Set<Promotion>> collect1 = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.mapping(Teste15::getPromotion, Collectors.toSet())));  
+  
+    System.out.println(collect1);  
+  
+    // Mantem a ordem de inserção  
+    Map<Category, LinkedHashSet<Promotion>> collect2 = listaJogos.stream().collect(Collectors.groupingBy(Jogos::getCategory, Collectors.mapping(Teste15::getPromotion, Collectors.toCollection(LinkedHashSet::new))));  
+  
+    System.out.println(collect2);  
+  
+}
+```
+
+
+
+> [!Example] Saída
+```
+{AVENTURA=DoubleSummaryStatistics{count=1, sum=1,000000, min=1,000000, average=1,000000, max=1,000000}, ACAO=DoubleSummaryStatistics{count=3, sum=22,510000, min=3,550000, average=7,503333, max=12,300000}, TIRO_PRIMEIRA_PESSOA=DoubleSummaryStatistics{count=3, sum=12,050000, min=1,990000, average=4,016667, max=7,110000}}
+
+{AVENTURA=[UNDER_PROMOTION], ACAO=[NORMAL_PRACE, UNDER_PROMOTION], TIRO_PRIMEIRA_PESSOA=[NORMAL_PRACE, UNDER_PROMOTION]}
+
+{AVENTURA=[UNDER_PROMOTION], ACAO=[NORMAL_PRACE, UNDER_PROMOTION], TIRO_PRIMEIRA_PESSOA=[UNDER_PROMOTION, NORMAL_PRACE]}
+```
