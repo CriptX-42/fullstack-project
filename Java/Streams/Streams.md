@@ -18,6 +18,8 @@ tags:
 > 4. [[Gerando Streams]]
 > 5. [[Collectors]]
 > 	1. [[Grouping by]]
+> 6. [[Parallel]]
+
 
 
 ### O problema (Introdução)

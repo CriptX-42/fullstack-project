@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e746eb6fcd3bfce7",
+        "id": "56a04157f0013f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "24de646f4754a26d",
+            "id": "3ed246bdd246dd3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "c6c216f853ee8536",
+            "id": "6b67711e3212cbde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/Streams.md",
+                "file": "Java/Streams/Métodos/Parallel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "d8a475289e2bccdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Streams/Métodos/Collectors/Grouping by.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grouping by"
+              "title": "Parallel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +190,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Streams/Métodos/Collectors/Grouping by.md"
+                "file": "Java/Streams/Métodos/Parallel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Grouping by"
+              "title": "File properties for Parallel"
             }
           }
         ],
@@ -227,10 +213,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8a475289e2bccdb",
+  "active": "c6247633dea350fb",
   "lastOpenFiles": [
-    "Java/Streams/Métodos/Collectors/Grouping by.md",
+    "Java/Streams/Métodos/Parallel.md",
     "Java/Streams/Streams.md",
+    "Git/Git.md",
+    "Javascript/Assíncronos/Assíncronos.md",
+    "Javascript/Assíncronos/Event Loops.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Conceitos/Hoisting.md",
+    "Java/Streams/Métodos/Collectors/Grouping by.md",
     "Java/Streams/Métodos/Collectors/Collectors.md",
     "Java/Streams/Métodos/Collectors",
     "Java/Streams/Métodos/Gerando Streams.md",
@@ -259,15 +251,9 @@
     "Java/Lambda/Lambda.md",
     "Java/Lambda/Methods Reference",
     "Java/Lambda/Conceitos/Function.md",
-    "Java/Lambda/Conceitos/Consumer.md",
-    "Java/Lambda/Conceitos/Predicate.md",
-    "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
-    "Java/Classes Internas/Classes Internas - Inner - Nexted Classes.md",
     "Java/Lambda/Conceitos",
-    "Java/Parametrizando Comportamentos/Parametrizando Comportamentos.md",
     "Java/Lambda",
     "Java/Parametrizando Comportamentos",
-    "Java/Untitled.md",
     "Java/Classes Internas/Utilizações",
     "Java/img/Pasted image 20250210161316.png",
     "Java/img/Pasted image 20250210161816.png",
