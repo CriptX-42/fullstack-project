@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d09947e502a6e83",
@@ -213,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6247633dea350fb",
+  "active": "6b67711e3212cbde",
   "lastOpenFiles": [
     "Java/Streams/Métodos/Parallel.md",
     "Java/Streams/Streams.md",

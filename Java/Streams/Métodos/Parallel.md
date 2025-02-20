@@ -89,3 +89,13 @@ Sum LongStream
 Sum LongStream Parallel
 50000005000000 43ms
 ```
+
+
+> [!Warning] Quando utilizar parallel?
+> - Benchmarks - Sempre metrifique o seu código
+> - Limit e findFirst não é bom para se operar em forma paralela
+> - FindAny é bom para trabalhar em paralelo
+> - Custo do seu código
+> - Quantidade de dados pequenas não vale a pena usar
+> - Tamanho do stream (com tamanho definido é melhor)
+> - Cuidado com Processamento do merge
