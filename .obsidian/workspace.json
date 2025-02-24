@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/Métodos/Parallel.md",
+                "file": "Javascript/Assíncronos/EventLoops/Event Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parallel"
+              "title": "Event Loops"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d09947e502a6e83",
@@ -191,10 +190,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Java/Streams/Métodos/Parallel.md"
+                "file": "Javascript/Assíncronos/EventLoops/Event Loops.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Parallel"
+              "title": "File properties for Event Loops"
             }
           }
         ],
@@ -214,14 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b67711e3212cbde",
+  "active": "c6247633dea350fb",
   "lastOpenFiles": [
+    "Javascript/Pasted image 20250224124803.png",
+    "Javascript/Assíncronos/EventLoops",
+    "Javascript/Assíncronos/Assíncronos.md",
+    "Javascript/Assíncronos/EventLoops/Event Loops.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Javascript.md",
+    "Javascript/RaoadMap.canvas",
     "Java/Streams/Métodos/Parallel.md",
     "Java/Streams/Streams.md",
     "Git/Git.md",
-    "Javascript/Assíncronos/Assíncronos.md",
-    "Javascript/Assíncronos/Event Loops.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Conceitos/Hoisting.md",
     "Java/Streams/Métodos/Collectors/Grouping by.md",
     "Java/Streams/Métodos/Collectors/Collectors.md",
@@ -249,18 +252,14 @@
     "Java/Lambda/Methods Reference/Untitled.md",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",
-    "Java/Lambda/Lambda.md",
     "Java/Lambda/Methods Reference",
-    "Java/Lambda/Conceitos/Function.md",
     "Java/Lambda/Conceitos",
     "Java/Lambda",
     "Java/Parametrizando Comportamentos",
-    "Java/Classes Internas/Utilizações",
     "Java/img/Pasted image 20250210161316.png",
     "Java/img/Pasted image 20250210161816.png",
     "Java/img/Pasted image 20250203193949.png",
     "Java/img/Pasted image 20250208180353.png",
-    "Javascript/RaoadMap.canvas",
     "Untitled.canvas",
     "Java/img/Pasted image 20250204153641.png",
     "Java/img/Pasted image 20250204153241.png",
