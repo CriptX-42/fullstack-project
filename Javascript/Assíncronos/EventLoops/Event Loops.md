@@ -1,6 +1,6 @@
 ---
-tags:
-  - Construir
+tags: 
+Created: 2025-02-24
 ---
 
 > [!NOTE] Algumas dicas
