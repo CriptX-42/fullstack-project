@@ -15,3 +15,9 @@ tags:
 10. [[Lambda]]
 11. [[Optional]]
 12. [[Streams]]
+13. [[Padrões de projetos]]
+
+
+#### Spring-boot
+
+![[Pasted image 20250222231546.png]]
