@@ -25,14 +25,17 @@
             "id": "6b67711e3212cbde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Javascript/Assíncronos/EventLoops/Event Loops.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap.canvas",
+                "viewState": {
+                  "x": -327.2597865912995,
+                  "y": 561.2837841999136,
+                  "zoom": 0.21633725513662133
+                }
               },
-              "icon": "lucide-file",
-              "title": "Event Loops"
+              "icon": "lucide-layout-dashboard",
+              "title": "Java Roadmap"
             }
           }
         ],
@@ -190,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Assíncronos/EventLoops/Event Loops.md"
+                "file": "Java/Java Roadmap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Event Loops"
+              "title": "File properties for Java Roadmap"
             }
           }
         ],
@@ -215,6 +218,8 @@
   },
   "active": "6b67711e3212cbde",
   "lastOpenFiles": [
+    "Javascript/Arrays/Array.md",
+    "Javascript/Arrays/Iteração/Iteração e transformação.md",
     "Javascript/Assíncronos/EventLoops/Event Loops.md",
     "Javascript/Pasted image 20250224124803.png",
     "Javascript/Assíncronos/EventLoops",
@@ -249,7 +254,6 @@
     "Untitled.md",
     "Java/Lambda/Methods Reference/Todos os tipos/Metodos Estaticos.md",
     "Java/Lambda/Methods Reference/Todos os tipos",
-    "Java/Lambda/Methods Reference/Untitled.md",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",
     "Java/Lambda/Methods Reference",
