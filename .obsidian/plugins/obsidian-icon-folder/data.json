@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBuilding",
+      "LiBookType",
+      "FasDiagramProject",
       "LiCupSoda",
-      "LiOption",
-      "FarSquareFull",
-      "LiFunctionSquare",
-      "FasStore"
+      "LiOption"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -209,5 +209,8 @@
   "Java/Optional": "LiOption",
   "Java/Optional/Optional.md": "LiOption",
   "Java/Streams": "LiCupSoda",
-  "Java/Streams/Streams.md": "LiCupSoda"
+  "Java/Streams/Streams.md": "LiCupSoda",
+  "Java/Padrões de projetos": "FasDiagramProject",
+  "Java/Padrões de projetos/Tipos": "LiBookType",
+  "Java/Padrões de projetos/Tipos/Builder.md": "LiBuilding"
 }
