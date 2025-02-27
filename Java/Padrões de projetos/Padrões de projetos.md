@@ -7,6 +7,7 @@ tags:
 
 > [!Tip] Sumário
 > 1. [[Builder]]
+> 2. [[Factory]]
 
 
 ### Definição
