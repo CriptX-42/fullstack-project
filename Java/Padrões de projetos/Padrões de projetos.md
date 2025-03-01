@@ -8,6 +8,7 @@ tags:
 > [!Tip] Sumário
 > 1. [[Builder]]
 > 2. [[Factory]]
+> 3. [[Singleton]]
 
 
 ### Definição
