@@ -10,7 +10,7 @@ tags:
 > 2. [[Factory]]
 > 3. [[Singleton]]
 > 4. [[Lazy]]
-> 5. [[With Enumeration]]
+> 5. [[Singleton with Enumeration]]
 
 
 ### Definição
