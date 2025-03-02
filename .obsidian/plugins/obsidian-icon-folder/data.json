@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔢",
+      "LiAlarmSmoke",
       "LiUnplug",
       "LiFactory",
-      "LiBuilding",
-      "LiBookType",
-      "FasDiagramProject"
+      "LiBuilding"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -214,5 +214,7 @@
   "Java/Padrões de projetos/Tipos": "LiBookType",
   "Java/Padrões de projetos/Tipos/Builder.md": "LiBuilding",
   "Java/Padrões de projetos/Tipos/Factory.md": "LiFactory",
-  "Java/Padrões de projetos/Tipos/Singleton.md": "LiUnplug"
+  "Java/Padrões de projetos/Tipos/Singleton.md": "LiUnplug",
+  "Java/Padrões de projetos/Tipos/Lazy.md": "LiAlarmSmoke",
+  "Java/Padrões de projetos/Tipos/With Enumeration.md": "🔢"
 }
