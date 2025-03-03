@@ -11,6 +11,7 @@ tags:
 > 3. [[Singleton]]
 > 4. [[Lazy]]
 > 5. [[Singleton with Enumeration]]
+> 6. [[DTO]]
 
 
 ### Definição
