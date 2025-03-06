@@ -2,7 +2,7 @@
 
 - Atribuído num escopo de bloco
 - Quando atribuímos um valor primitivo , não pode ser reatribuido
-- SE estiver atribuido um [[Array]] ou [[Objeto]]. Seus elementos podem ser modificados
+- SE estiver atribuido um Array ou objeto. Seus elementos podem ser modificados
 - Sofre [[Hoisting]] igual o [[Let]] e com ==temporal dead zone==
 
 

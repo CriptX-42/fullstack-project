@@ -10,12 +10,13 @@ tags:
 5. [[Exceções e Definições]]
 6. [[Classes Utilitárias]]
 7. [[Coleção]]
-8. [[Classes Internas - Inner - Nexted Classes]]
-9. [[Parametrizando Comportamentos]]
-10. [[Lambda]]
-11. [[Optional]]
-12. [[Streams]]
-13. [[Padrões de projetos]]
+8. [[Generics]]
+9. [[Classes Internas - Inner - Nexted Classes]]
+10. [[Parametrizando Comportamentos]]
+11. [[Lambda]]
+12. [[Optional]]
+13. [[Streams]]
+14. [[Padrões de projetos]]
 
 
 #### Spring-boot

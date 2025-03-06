@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4bab34489d6c5dfb",
+        "id": "dac3782beb1ea17b",
         "type": "tabs",
         "children": [
           {
-            "id": "c871249b74020bff",
+            "id": "51206ffe31d226f3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": -1785.6519135097003,
+                  "y": 296.98287951807157,
+                  "zoom": 0.4659574822031778
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
             }
           }
         ]
@@ -53,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "castin",
+                "query": "[\"Created\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de dados/BD.md"
+                "file": "Javascript/RaoadMap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BD"
+              "title": "Outline of RaoadMap"
             }
           },
           {
@@ -174,9 +180,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Javascript/RaoadMap.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for RaoadMap"
             }
           },
           {
@@ -207,48 +215,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c871249b74020bff",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Java/Java.md",
+    "Java/Generics/Generics.md",
+    "Java/Generics/Utilização/Classes Genericas.md",
+    "Javascript/Estrutura de dados/Estrutura de dados.md",
     "Javascript/Objetos/Objeto.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
-    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
+    "Javascript/Variaveis/Const.md",
     "Javascript/Javascript.md",
+    "Javascript/Conceitos/Comparação/Igualdade.md",
     "Javascript/RaoadMap.canvas",
-    "Javascript/Objetos/Alguns conceitos",
+    "Javascript/Arrays/Array e Typed Arrays.md",
+    "Javascript/Arrays/Iteração/Tipos/FlatMap em Js.md",
+    "Java/Streams/Streams.md",
+    "Javascript/Arrays/Iteração/Iteração e transformação.md",
+    "Javascript/Arrays/Iteração/Tipos/Some.md",
+    "Javascript/Arrays/Iteração/Tipos/Every.md",
+    "Javascript/Arrays/Iteração/Tipos/ReduceRight.md",
+    "Javascript/Arrays/Iteração/Tipos/Reduce (JS).md",
+    "Javascript/Arrays/Iteração/Tipos/filter(callback).md",
+    "Javascript/Arrays/Iteração/Tipos/map(callBack).md",
+    "Javascript/Arrays/Iteração/Tipos/forEach(callback).md",
+    "Javascript/Arrays/Iteração/Tipos",
+    "Javascript/Conceitos/Tipo de dados/typeOf.md",
     "Untitled.canvas",
     "Javascript/Variaveis/Varáveis.md",
+    "Javascript/Estrutura de dados",
+    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Objetos/Alguns conceitos",
     "Javascript/Variaveis/Nomemclatura.md",
-    "Javascript/Conceitos/Tipo de dados/typeOf.md",
     "Javascript/Conceitos/Tipo de dados/Undefined.md",
     "Javascript/Conceitos/Tipo de dados/Symbol.md",
     "Javascript/Imags/Pasted image 20250224124803.png",
     "Javascript/Imags",
-    "Javascript/Variaveis/Hoising/Hoisting.md",
     "Javascript/Variaveis/Hoising",
-    "Javascript/Conceitos/Chamadas/Callback.md",
     "Java/Java Roadmap.canvas",
-    "Javascript/Assíncronos/Assíncronos.md",
-    "Javascript/Assíncronos/Promise/Promise.md",
-    "Javascript/Assíncronos/EventLoops/Event Loops.md",
-    "Javascript/Assíncronos/Async - await/Async - await.md",
-    "Java/Streams/Streams.md",
-    "Java/Java.md",
-    "Java/Padrões de projetos/Padrões de projetos.md",
-    "Javascript/Arrays/Iteração/Iteração e transformação.md",
-    "Java/Padrões de projetos/Tipos/Singleton.md",
-    "Untitled.md",
-    "Java/Padrões de projetos/Tipos/Factory.md",
-    "Java/Padrões de projetos/Tipos/Builder.md",
     "Javascript/Assíncronos/EventLoops",
     "Java/Padrões de projetos/Tipos/Untitled",
     "Java/Padrões de projetos/Tipos",
-    "Java/Padrões de projetos/Untitled.md",
     "Java/Padrões de projetos",
     "Pasted image 20250222231546.png",
-    "Java/Streams/Métodos/Parallel.md",
     "Java/Streams/Métodos/Collectors",
-    "Java/Streams/Métodos",
-    "Java/Streams",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",

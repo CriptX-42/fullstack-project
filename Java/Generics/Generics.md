@@ -13,6 +13,7 @@ tags:
 > [!Tip] Sumario
 > 1. [[Wildcards]]
 > 2. [[Métodos genericos]]
+> 3. [[Classes Genericas]]
 
 
 - Nomenclatura padrão de generics:

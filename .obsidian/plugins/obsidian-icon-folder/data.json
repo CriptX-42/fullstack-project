@@ -50,7 +50,6 @@
   "Javascript/Conceitos/Motores": "LiCar",
   "Javascript/Conceitos/Motores/SEO.md": "LiSearch",
   "Javascript/Arrays": "LiTable",
-  "Javascript/Arrays/Array.md": "LiTable",
   "Javascript/Objetos": "FarObjectGroup",
   "Javascript/Objetos/Proxy.md": {
     "iconName": "LiSprout",
@@ -218,5 +217,6 @@
   "Javascript/Variaveis/Hoising": "LiLoader",
   "Javascript/Variaveis/Hoising/Hoisting.md": "LiLoader",
   "Javascript/Variaveis/Nomemclatura.md": "📛",
-  "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md": "LiCopy"
+  "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md": "LiCopy",
+  "Javascript/Arrays/Array e Typed Arrays.md": "LiTable"
 }
