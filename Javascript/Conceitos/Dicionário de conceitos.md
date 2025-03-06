@@ -7,7 +7,8 @@ tags:
 ### Tipo de dados
 1. [[Null]]
 2. [[Undefined]]
-	[[typeOf]]
+3. [[typeOf]]
+4. [[Symbol]]
 
 ### Chamadas
 1. [[Proxy]]

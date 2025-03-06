@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📛",
       "LiType",
       "LiLoader",
       "LiUnplug",
-      "LiFactory",
-      "LiBuilding"
+      "LiFactory"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -211,10 +211,11 @@
   "Java/Padrões de projetos/Tipos/Builder.md": "LiBuilding",
   "Java/Padrões de projetos/Tipos/Factory.md": "LiFactory",
   "Java/Padrões de projetos/Tipos/Singleton.md": "LiUnplug",
-  "Javascript/Conceitos/Hoising/Hoisting.md": "LiLoader",
-  "Javascript/Conceitos/Hoising": "LiLoader",
   "Javascript/Conceitos/Tipo de dados": "FabCreativeCommonsZero",
   "Javascript/Conceitos/Tipo de dados/Null.md": "LiCircle",
   "Javascript/Conceitos/Tipo de dados/Undefined.md": "LiUnderline",
-  "Javascript/Conceitos/Tipo de dados/typeOf.md": "LiType"
+  "Javascript/Conceitos/Tipo de dados/typeOf.md": "LiType",
+  "Javascript/Variaveis/Hoising": "LiLoader",
+  "Javascript/Variaveis/Hoising/Hoisting.md": "LiLoader",
+  "Javascript/Variaveis/Nomemclatura.md": "📛"
 }
