@@ -4,9 +4,10 @@ tags:
   - Dicionário
 ---
 
-### Variáveis
+### Tipo de dados
 1. [[Null]]
 2. [[Undefined]]
+	[[typeOf]]
 
 ### Chamadas
 1. [[Proxy]]

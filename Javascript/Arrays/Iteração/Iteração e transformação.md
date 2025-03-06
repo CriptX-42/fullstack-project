@@ -1,5 +1,7 @@
 ---
 Created: 2025-02-03
+tags:
+  - Construir
 ---
 #### forEach(callback)
 
@@ -84,3 +86,5 @@ const numeros = [1, 2, 3];
 const temPar = numeros.some(num => num % 2 === 0);
 console.log(temPar); // true
 ```
+
+### flatMap
