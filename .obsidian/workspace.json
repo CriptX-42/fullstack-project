@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21c36ffa9ac0c1a6",
+        "id": "4bab34489d6c5dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "179f792daf230def",
+            "id": "c871249b74020bff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
-                "viewState": {
-                  "x": -2014.8025405722192,
-                  "y": 271.85896925738325,
-                  "zoom": -0.032670550524538045
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,15 +174,23 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Javascript/RaoadMap.canvas"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for RaoadMap"
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "0d23f9a6ea87bd6e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -198,16 +203,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "179f792daf230def",
+  "active": "c871249b74020bff",
   "lastOpenFiles": [
+    "Javascript/Objetos/Objeto.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
     "Javascript/Javascript.md",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Objetos/Alguns conceitos",
+    "Untitled.canvas",
     "Javascript/Variaveis/Varáveis.md",
     "Javascript/Variaveis/Nomemclatura.md",
-    "Javascript/RaoadMap.canvas",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Conceitos/Tipo de dados/typeOf.md",
     "Javascript/Conceitos/Tipo de dados/Undefined.md",
     "Javascript/Conceitos/Tipo de dados/Symbol.md",
@@ -225,7 +235,6 @@
     "Java/Java.md",
     "Java/Padrões de projetos/Padrões de projetos.md",
     "Javascript/Arrays/Iteração/Iteração e transformação.md",
-    "Javascript/Objetos/Objeto.md",
     "Java/Padrões de projetos/Tipos/Singleton.md",
     "Untitled.md",
     "Java/Padrões de projetos/Tipos/Factory.md",
@@ -237,20 +246,16 @@
     "Java/Padrões de projetos",
     "Pasted image 20250222231546.png",
     "Java/Streams/Métodos/Parallel.md",
-    "Git/Git.md",
-    "Javascript/Assíncronos/Event Loops.md",
     "Java/Streams/Métodos/Collectors",
     "Java/Streams/Métodos",
     "Java/Streams",
     "Java/img/Pasted image 20250215203151.png",
-    "Java/Optional",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",
     "Java/img/Pasted image 20250210161316.png",
     "Java/img/Pasted image 20250210161816.png",
     "Java/img/Pasted image 20250203193949.png",
     "Java/img/Pasted image 20250208180353.png",
-    "Untitled.canvas",
     "Java/img/Pasted image 20250204153641.png",
     "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"
