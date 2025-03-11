@@ -15,7 +15,6 @@ console.log(typeof []);        // "object"  (Arrays são objetos em JS)
 console.log(typeof function(){}); // "function"
 console.log(typeof Symbol("id")); // "symbol"
 console.log(typeof BigInt(9007199254740991)); // "bigint"
-
 ```
 
 

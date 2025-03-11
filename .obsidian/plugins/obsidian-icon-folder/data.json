@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
       "LiCopy",
       "📛",
       "LiType",
-      "LiLoader",
-      "LiUnplug"
+      "LiLoader"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -218,5 +218,6 @@
   "Javascript/Variaveis/Hoising/Hoisting.md": "LiLoader",
   "Javascript/Variaveis/Nomemclatura.md": "📛",
   "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md": "LiCopy",
-  "Javascript/Arrays/Array e Typed Arrays.md": "LiTable"
+  "Javascript/Arrays/Array e Typed Arrays.md": "LiTable",
+  "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md": "LiMap"
 }

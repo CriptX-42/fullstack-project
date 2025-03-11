@@ -11,17 +11,14 @@
             "id": "51206ffe31d226f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
-                "viewState": {
-                  "x": -1785.6519135097003,
-                  "y": 296.98287951807157,
-                  "zoom": 0.4659574822031778
-                }
+                "file": "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
+              "icon": "lucide-file",
+              "title": "Map (estrutura de dados javascript)"
             }
           }
         ]
@@ -130,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
+                "file": "Devops/Docker/Dicionario de comandos usados/Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RaoadMap"
+              "title": "Outline of Start"
             }
           },
           {
@@ -157,8 +156,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -181,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/RaoadMap.canvas"
+                "file": "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for RaoadMap"
+              "title": "File properties for Map (estrutura de dados javascript)"
             }
           },
           {
@@ -217,47 +216,46 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Javascript/Estrutura de dados/Estrutura de dados.md",
+    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
+    "Untitled.canvas",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor",
+    "Javascript/Estrutura de dados/Coleções",
+    "Javascript/Javascript.md",
+    "Java/Java Roadmap.canvas",
+    "Devops/Docker/Dicionario de comandos usados/Stop.md",
+    "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
+    "Devops/Docker/Dicionario de comandos usados/Ps.md",
+    "Devops/Docker/Docker.md",
+    "Devops/Docker/Dicionario de comandos usados/Start.md",
+    "Java/Orientação a Objetos/Orientação a objetos.md",
+    "Java/Orientação a Objetos/OO/Bloco de inicialização.md",
+    "Javascript/Conceitos/Tipo de dados/typeOf.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Conceitos/Comparação/Object.is.md",
+    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
+    "Javascript/Objetos/Proxy.md",
+    "Javascript/Objetos/Objeto.md",
+    "Javascript/Variaveis/Const.md",
+    "Javascript/Variaveis/Let.md",
+    "Javascript/Variaveis/Nomemclatura.md",
     "Java/Java.md",
     "Java/Generics/Generics.md",
     "Java/Generics/Utilização/Classes Genericas.md",
-    "Javascript/Estrutura de dados/Estrutura de dados.md",
-    "Javascript/Objetos/Objeto.md",
-    "Javascript/Variaveis/Const.md",
-    "Javascript/Javascript.md",
     "Javascript/Conceitos/Comparação/Igualdade.md",
-    "Javascript/RaoadMap.canvas",
     "Javascript/Arrays/Array e Typed Arrays.md",
     "Javascript/Arrays/Iteração/Tipos/FlatMap em Js.md",
-    "Java/Streams/Streams.md",
-    "Javascript/Arrays/Iteração/Iteração e transformação.md",
-    "Javascript/Arrays/Iteração/Tipos/Some.md",
-    "Javascript/Arrays/Iteração/Tipos/Every.md",
-    "Javascript/Arrays/Iteração/Tipos/ReduceRight.md",
-    "Javascript/Arrays/Iteração/Tipos/Reduce (JS).md",
-    "Javascript/Arrays/Iteração/Tipos/filter(callback).md",
-    "Javascript/Arrays/Iteração/Tipos/map(callBack).md",
-    "Javascript/Arrays/Iteração/Tipos/forEach(callback).md",
     "Javascript/Arrays/Iteração/Tipos",
-    "Javascript/Conceitos/Tipo de dados/typeOf.md",
-    "Untitled.canvas",
-    "Javascript/Variaveis/Varáveis.md",
     "Javascript/Estrutura de dados",
-    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Objetos/Alguns conceitos",
-    "Javascript/Variaveis/Nomemclatura.md",
-    "Javascript/Conceitos/Tipo de dados/Undefined.md",
-    "Javascript/Conceitos/Tipo de dados/Symbol.md",
     "Javascript/Imags/Pasted image 20250224124803.png",
     "Javascript/Imags",
     "Javascript/Variaveis/Hoising",
-    "Java/Java Roadmap.canvas",
     "Javascript/Assíncronos/EventLoops",
     "Java/Padrões de projetos/Tipos/Untitled",
     "Java/Padrões de projetos/Tipos",
-    "Java/Padrões de projetos",
     "Pasted image 20250222231546.png",
-    "Java/Streams/Métodos/Collectors",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",

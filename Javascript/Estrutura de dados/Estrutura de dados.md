@@ -6,3 +6,4 @@ tags:
 
 > [!Tip] Sumário
 > [[Array e Typed Arrays]]
+> [[Map (estrutura de dados javascript)]]
