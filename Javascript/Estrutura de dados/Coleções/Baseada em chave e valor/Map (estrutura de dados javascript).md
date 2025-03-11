@@ -1,6 +1,11 @@
 ---
 Created: 2025-03-10
 ---
+
+
+> [!Tip] Sumário
+> [[WeakMap]]
+
 #### Definição clara
 
 Map é uma estrutura de dados que armazena chave/valor, permitindo qualquer tipo como valor **chave** (objetos e funções também).
