@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiProportions",
+      "FasRoad",
       "❕",
       "LiMap",
-      "LiCopy",
-      "📛",
-      "LiType"
+      "LiCopy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -220,5 +220,7 @@
   "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md": "LiCopy",
   "Javascript/Arrays/Array e Typed Arrays.md": "LiTable",
   "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md": "LiMap",
-  "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md": "❕"
+  "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md": "❕",
+  "Javascript/RaoadMap.canvas": "FasRoad",
+  "Javascript/Objetos/Alguns conceitos/Prototipagem.md": "LiProportions"
 }
