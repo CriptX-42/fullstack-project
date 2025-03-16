@@ -15,9 +15,9 @@
               "state": {
                 "file": "Javascript/RaoadMap.canvas",
                 "viewState": {
-                  "x": -1734.5386835164381,
-                  "y": 283.70243999787505,
-                  "zoom": 1
+                  "x": -1070.5386835164381,
+                  "y": -370.297560002125,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -66,8 +66,7 @@
               "title": "JSON (JavaScript Object Notation)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
+                "file": "Javascript/RaoadMap.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JSON (JavaScript Object Notation)"
+              "title": "Outline of RaoadMap"
             }
           },
           {
@@ -226,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md"
+                "file": "Javascript/RaoadMap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for JSON (JavaScript Object Notation)"
+              "title": "File properties for RaoadMap"
             }
           },
           {
@@ -260,11 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "9c7461e2c58b201d",
   "lastOpenFiles": [
+    "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
     "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
     "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md",
-    "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
     "Javascript/RaoadMap.canvas",
     "Javascript/Objetos/Objeto.md",
     "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md",
