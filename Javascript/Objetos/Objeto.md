@@ -13,6 +13,7 @@ Em Javascript, um objeto nada mais é do que uma estrutura de dados que armazena
 > 2. [[Prototipagem]]
 > 3. [[Objetos embutidos (build-in objects)]]
 > 4. [[Coleções baseadas em conjuntos (`Set`, `WeakSet`)]]
+> 5. [[JSON (JavaScript Object Notation)]]
 
 
 ### Brincando com isso
