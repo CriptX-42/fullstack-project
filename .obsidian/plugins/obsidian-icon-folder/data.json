@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPanelBottomDashed",
+      "LiInbox",
       "LiProportions",
       "FasRoad",
-      "❕",
-      "LiMap",
-      "LiCopy"
+      "❕"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -222,5 +222,7 @@
   "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md": "LiMap",
   "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md": "❕",
   "Javascript/RaoadMap.canvas": "FasRoad",
-  "Javascript/Objetos/Alguns conceitos/Prototipagem.md": "LiProportions"
+  "Javascript/Objetos/Alguns conceitos/Prototipagem.md": "LiProportions",
+  "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md": "LiInbox",
+  "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md": "LiPanelBottomDashed"
 }
