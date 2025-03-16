@@ -6,6 +6,8 @@ Em vez de classes tradicionais usadas em `java` por exemplo, o js consegue herda
 
 Isso tudo é feito através do `prototype`, que é um outro objeto do qual ele pode herdar tudo.
 
+Javascript não tem herança baseada em classes; tudo é baseado em protótipos.
+
  
 ### Vamos ao passo a passo
 - Você pode criar um objeto com um prototipo explicito (usando o `objetct.create`):

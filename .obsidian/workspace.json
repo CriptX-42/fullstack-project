@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "Objeto"
             }
+          },
+          {
+            "id": "568a8f3fe8003895",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": -2018.7485736236968,
+                  "y": -51.51309353203624,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Objetos/Objeto.md",
+                "file": "Javascript/RaoadMap.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objeto"
+              "title": "Outline of RaoadMap"
             }
           },
           {
@@ -180,10 +198,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Objetos/Objeto.md"
+                "file": "Javascript/RaoadMap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Objeto"
+              "title": "File properties for RaoadMap"
             }
           },
           {
@@ -216,16 +234,19 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Javascript/Objetos/Alguns conceitos/Prototipagem.md",
+    "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md",
     "Javascript/Objetos/Objeto.md",
+    "Javascript/Objetos/Proxy.md",
     "Javascript/RaoadMap.canvas",
+    "Javascript/Javascript.md",
+    "Javascript/Objetos/Alguns conceitos/Prototipagem.md",
+    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
     "Javascript/Estrutura de dados/Estrutura de dados.md",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md",
     "Untitled.canvas",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor",
     "Javascript/Estrutura de dados/Coleções",
-    "Javascript/Javascript.md",
     "Java/Java Roadmap.canvas",
     "Devops/Docker/Dicionario de comandos usados/Stop.md",
     "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
@@ -237,8 +258,6 @@
     "Javascript/Conceitos/Tipo de dados/typeOf.md",
     "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Conceitos/Comparação/Object.is.md",
-    "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
-    "Javascript/Objetos/Proxy.md",
     "Javascript/Variaveis/Const.md",
     "Javascript/Variaveis/Let.md",
     "Javascript/Variaveis/Nomemclatura.md",
@@ -246,7 +265,6 @@
     "Java/Generics/Generics.md",
     "Java/Generics/Utilização/Classes Genericas.md",
     "Javascript/Conceitos/Comparação/Igualdade.md",
-    "Javascript/Arrays/Array e Typed Arrays.md",
     "Javascript/Arrays/Iteração/Tipos",
     "Javascript/Estrutura de dados",
     "Javascript/Objetos/Alguns conceitos",

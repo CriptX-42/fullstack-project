@@ -11,6 +11,8 @@ Em Javascript, um objeto nada mais é do que uma estrutura de dados que armazena
 > [!Tip] Ler Mais em
 > 1. [[Cópias de Objetos]]
 > 2. [[Prototipagem]]
+> 3. [[Objetos embutidos (build-in objects)]]
+
 
 ### Brincando com isso
 
