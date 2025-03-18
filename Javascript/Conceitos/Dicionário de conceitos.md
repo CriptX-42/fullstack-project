@@ -26,3 +26,4 @@ tags:
 
 ### Outros 
 1.  [[Hoisting]]
+2. [[Use strict]]

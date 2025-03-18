@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
+                "file": "Java/Java Roadmap.canvas",
                 "viewState": {
-                  "x": -1070.5386835164381,
-                  "y": -370.297560002125,
-                  "zoom": -1
+                  "x": 638.7133515606212,
+                  "y": 306.4148108911167,
+                  "zoom": -1.3099028114107258
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
+              "title": "Java Roadmap"
             }
           },
           {
@@ -58,15 +58,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
+                "file": "Javascript/Conceitos/Dicionário de conceitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON (JavaScript Object Notation)"
+              "title": "Dicionário de conceitos"
+            }
+          },
+          {
+            "id": "3e98b9a906944315",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": 2275.0591875957107,
+                  "y": 1168.9366496944715,
+                  "zoom": -1.4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,17 +277,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7461e2c58b201d",
+  "active": "3e98b9a906944315",
   "lastOpenFiles": [
+    "Javascript/Javascript.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/Conceitos/Depurador/Use strict.md",
+    "Pasted image 20250317213754.png",
+    "Pasted image 20250317213724.png",
+    "Pasted image 20250317213639.png",
+    "Javascript/Conceitos/Depurador",
+    "Javascript/RaoadMap.canvas",
+    "Java/Java Roadmap.canvas",
     "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
     "Javascript/Objetos/Alguns conceitos/Cópias de Objetos.md",
     "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md",
-    "Javascript/RaoadMap.canvas",
     "Javascript/Objetos/Objeto.md",
     "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md",
     "Javascript/Objetos/Alguns conceitos/Untitled.md",
     "Javascript/Objetos/Proxy.md",
-    "Javascript/Javascript.md",
     "Javascript/Objetos/Alguns conceitos/Prototipagem.md",
     "Javascript/Estrutura de dados/Estrutura de dados.md",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
@@ -277,7 +302,6 @@
     "Untitled.canvas",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor",
     "Javascript/Estrutura de dados/Coleções",
-    "Java/Java Roadmap.canvas",
     "Devops/Docker/Dicionario de comandos usados/Stop.md",
     "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
     "Devops/Docker/Dicionario de comandos usados/Ps.md",
@@ -286,11 +310,9 @@
     "Java/Orientação a Objetos/Orientação a objetos.md",
     "Java/Orientação a Objetos/OO/Bloco de inicialização.md",
     "Javascript/Conceitos/Tipo de dados/typeOf.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
     "Javascript/Conceitos/Comparação/Object.is.md",
     "Javascript/Variaveis/Const.md",
     "Javascript/Variaveis/Let.md",
-    "Javascript/Variaveis/Nomemclatura.md",
     "Javascript/Arrays/Iteração/Tipos",
     "Javascript/Estrutura de dados",
     "Javascript/Objetos/Alguns conceitos",
@@ -299,16 +321,12 @@
     "Javascript/Variaveis/Hoising",
     "Javascript/Assíncronos/EventLoops",
     "Java/Padrões de projetos/Tipos/Untitled",
-    "Java/Padrões de projetos/Tipos",
     "Pasted image 20250222231546.png",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",
     "Java/img/Pasted image 20250210161316.png",
     "Java/img/Pasted image 20250210161816.png",
-    "Java/img/Pasted image 20250203193949.png",
-    "Java/img/Pasted image 20250208180353.png",
-    "Java/img/Pasted image 20250204153641.png",
     "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"
   ]
