@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"7e27d32815674492","type":"text","text":"## **Ferramentas CLI**\n\n- [ ] Create React App\n- [ ] Vite","x":5,"y":60,"width":335,"height":160,"color":"1"},
+		{"id":"7156a6c54dc01179","type":"text","text":"## **Componentes**\n\n- [ ] Functional Components\n- [ ] Class Components\n- [ ] JSX\n- [ ] Props vs State\n- [ ] Conditional Rendering\n- [ ] Composition\n- [ ] Renderização\n- [ ] Lists e Keys\n- [ ] Ciclo de Vida do Componente\n- [ ] Render Props\n- [ ] Refs\n- [ ] Eventos\n- [ ] High Order Components (HOCs)","x":631,"y":60,"width":389,"height":480,"color":"1"},
+		{"id":"72526c397517a2cc","type":"text","text":"## **Hooks**\n\n- [ ] useState\n- [ ] useEffect\n- [ ] useRef\n- [ ] useCallback\n- [ ] useMemo\n- [ ] useReducer\n- [ ] useContext\n- [ ] Criando Custom Hooks","x":1280,"y":60,"width":400,"height":320,"color":"1"},
+		{"id":"aacd5ba80b231963","type":"text","text":"## **Roteamento**\n\n- [ ] React Router\n- [ ] Reach Router","x":1820,"y":80,"width":280,"height":180,"color":"1"},
+		{"id":"96c4eb3a3f3ef43b","type":"text","text":"## **Gerenciamento de Estado**\n\n- [ ] Context API\n- [ ] Zustand\n- [ ] Redux / Toolkit\n- [ ] MobX\n- [ ] Recoil","x":2200,"y":80,"width":340,"height":300,"color":"1"},
+		{"id":"3ea34402b43e881c","type":"text","text":"## **Estilização**\n\n- [ ] Chakra UI\n- [ ] Material UI\n- [ ] Mantine\n- [ ] Tailwind\n- [ ] Styled Components\n- [ ] Emotion","x":2700,"y":80,"width":300,"height":280,"color":"1"},
+		{"id":"0cf7cd61cb0beed2","type":"text","text":"## **Chamadas de API**\n\n- [ ] REST\n    - [ ] Axios\n    - [ ] SWR\n    - [ ] superagent\n    - [ ] react-query\n- [ ] GraphQL\n    - [ ] Apollo\n    - [ ] Relay\n    - [ ] Urql","x":3100,"y":80,"width":300,"height":400,"color":"1"},
+		{"id":"a92509fe37610b53","type":"text","text":"React","x":1480,"y":-680,"width":111,"height":67},
+		{"id":"554197ac9e28169d","type":"text","text":"## **Testes**\n\n- [ ] Jest\n- [ ] Vitest\n- [ ] React Testing Library\n- [ ] Cypress\n- [ ] Playwright","x":5,"y":920,"width":275,"height":240,"color":"1"},
+		{"id":"cbe0181863e199ad","type":"text","text":"## **Formulários**\n\n- [ ] React Hook Form\n- [ ] Formik\n- [ ] Final Form","x":631,"y":920,"width":250,"height":240,"color":"1"},
+		{"id":"db5ce68770e08ba1","type":"text","text":"## **Tópicos Avançados**\n\n- [ ] Suspense\n- [ ] Portals\n- [ ] Error Boundaries\n- [ ] Fiber Architecture","x":1030,"y":920,"width":370,"height":240,"color":"1"},
+		{"id":"6bdced840b8c14d9","type":"text","text":"## **Desenvolvimento Mobile**\n\n- [ ] React Native","x":1560,"y":920,"width":280,"height":240,"color":"1"}
+	],
+	"edges":[
+		{"id":"597c33f5acde768c","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"7e27d32815674492","toSide":"top"},
+		{"id":"11ba90db518ae8c5","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"7156a6c54dc01179","toSide":"top"},
+		{"id":"b8f00f32a1396f49","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"72526c397517a2cc","toSide":"top"},
+		{"id":"f3177908f7131667","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"aacd5ba80b231963","toSide":"top"},
+		{"id":"50ee9d72963d3815","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"96c4eb3a3f3ef43b","toSide":"top"},
+		{"id":"f4e1642198760b8c","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"3ea34402b43e881c","toSide":"top"},
+		{"id":"095db90f657bb89b","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"0cf7cd61cb0beed2","toSide":"top"},
+		{"id":"de2ffdb66ff2df1b","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"554197ac9e28169d","toSide":"top"},
+		{"id":"e0d4961632ea456a","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"cbe0181863e199ad","toSide":"top"},
+		{"id":"a5684a8bb17cbad1","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"db5ce68770e08ba1","toSide":"top"},
+		{"id":"8a64969a4680d60b","fromNode":"a92509fe37610b53","fromSide":"bottom","toNode":"6bdced840b8c14d9","toSide":"top"}
+	]
+}

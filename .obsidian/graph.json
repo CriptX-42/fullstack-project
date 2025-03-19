@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 2383934
       }
+    },
+    {
+      "query": "tag:#ReactLib",
+      "color": {
+        "a": 1,
+        "rgb": 1453795
+      }
+    },
+    {
+      "query": "tag:#AngularFrame",
+      "color": {
+        "a": 1,
+        "rgb": 16285288
+      }
     }
   ],
   "collapse-display": false,
@@ -91,10 +105,10 @@
   "nodeSizeMultiplier": 1.73333333333333,
   "lineSizeMultiplier": 0.840104166666667,
   "collapse-forces": false,
-  "centerStrength": 0.3125,
-  "repelStrength": 8.4375,
-  "linkStrength": 0.890625,
-  "linkDistance": 165,
-  "scale": 0.724724156970655,
-  "close": true
+  "centerStrength": 0.161458333333333,
+  "repelStrength": 8.85416666666667,
+  "linkStrength": 1,
+  "linkDistance": 133,
+  "scale": 1.0870862354559825,
+  "close": false
 }
