@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasTimeline",
+      "🪚",
       "LiCircleDashed",
       "🆚",
-      "FasFeatherPointed",
-      "LiMap",
-      "👀"
+      "FasFeatherPointed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -238,5 +238,7 @@
   "Frontend/Frameworks - Lib/React/Roadmap React.canvas": "LiMap",
   "Frontend/Frontend.md": "FasFeatherPointed",
   "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md": "🆚",
-  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md": "LiCircleDashed"
+  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md": "LiCircleDashed",
+  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md": "🪚",
+  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md": "FasTimeline"
 }

@@ -22,31 +22,108 @@
             }
           },
           {
-            "id": "729f80f11c621115",
+            "id": "93c86bc2b99c8630",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+                "viewState": {
+                  "x": 3122.0596852957137,
+                  "y": 158.06619641888227,
+                  "zoom": -0.9514412658912091
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Angular Roadmap"
+            }
+          },
+          {
+            "id": "062aaca5ba6725fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marbles"
+              "title": "Operadores"
             }
           },
           {
-            "id": "1909ec80d0287b21",
+            "id": "bbb8bec647607192",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operadores"
+            }
+          },
+          {
+            "id": "d4733bfaec9fb215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operadores"
+            }
+          },
+          {
+            "id": "437064435cf30d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Tratamento de erro Rxjs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tratamento de erro Rxjs"
+            }
+          },
+          {
+            "id": "f31110075e19d329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combinação Rxjs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combinação Rxjs"
+            }
+          },
+          {
+            "id": "dcce56b7d3007109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Criação RxJs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criação RxJs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "3d09947e502a6e83",
@@ -166,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
+                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RaoadMap"
+              "title": "Outline of Angular Roadmap"
             }
           },
           {
@@ -190,9 +267,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Angular Roadmap"
             }
           },
           {
@@ -237,57 +316,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "b2d644a261a572c8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "332b0e49464dbf9c",
-        "type": "window",
-        "children": [
-          {
-            "id": "68b4a29553509559",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e3d71ac924f4d76c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-                    "viewState": {
-                      "x": 1305.622309819618,
-                      "y": 140.046768949567,
-                      "zoom": 1
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Angular Roadmap"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 355,
-        "y": 52,
-        "width": 1850,
-        "height": 1008,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/Angular/Angular.md",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Javascript/Javascript.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Tratamento de erro Rxjs.md",
+    "Combinação Rxjs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Filtragem Rxjs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Transformação Rxjs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Criação RxJs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/O que é padrão observable?.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
-    "Frontend/Frameworks - Lib/Angular/Angular.md",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Pasted image 20250319121905.png",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições",
@@ -311,7 +356,6 @@
     "Frontend/Frameworks - Lib/React",
     "Frontend/Frameworks - Lib/Angular",
     "Frontend/Frameworks - Lib",
-    "Javascript/Javascript.md",
     "Javascript/Conceitos/Depurador/Use strict.md",
     "Javascript/Imags/Pasted image 20250317213639.png",
     "Javascript/Conceitos/Depurador",
@@ -319,15 +363,7 @@
     "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md",
     "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md",
     "Javascript/Objetos/Alguns conceitos/Untitled.md",
-    "Javascript/Objetos/Proxy.md",
-    "Javascript/Objetos/Alguns conceitos/Prototipagem.md",
-    "Javascript/Estrutura de dados/Estrutura de dados.md",
-    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md",
     "Untitled.canvas",
-    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor",
-    "Devops/Docker/Dicionario de comandos usados/Stop.md",
-    "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
-    "Devops/Docker/Dicionario de comandos usados/Ps.md",
     "Javascript/Imags/Pasted image 20250224124803.png",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",

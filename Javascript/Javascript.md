@@ -1,3 +1,8 @@
+---
+Created: 2025-03-19
+tags:
+  - Javascript
+---
 #principal
 
 1. [[Dicionário de conceitos]]

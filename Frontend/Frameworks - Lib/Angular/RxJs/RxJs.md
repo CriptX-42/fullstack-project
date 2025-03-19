@@ -16,3 +16,4 @@ Usamos ela principalmente para gerenciar assinaturas de serviços `HttpClient`, 
 > - [[Fase do ciclo de vida do observable]]
 >-  [[Observable vs Promise]]
 >- [[Marbles]]
+>- [[Operadores]]
