@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🛑",
-      "LiFileJson",
-      "LiPanelBottomDashed",
-      "LiInbox",
-      "LiProportions"
+      "LiCircleDashed",
+      "🆚",
+      "FasFeatherPointed",
+      "LiMap",
+      "👀"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -226,5 +226,17 @@
   "Javascript/Objetos/Alguns conceitos/Objetos embutidos (build-in objects).md": "LiInbox",
   "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md": "LiPanelBottomDashed",
   "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md": "LiFileJson",
-  "Javascript/Conceitos/Depurador/Use strict.md": "🛑"
+  "Javascript/Conceitos/Depurador/Use strict.md": "🛑",
+  "Frontend/Frameworks - Lib/Angular/Angular.md": "FabAngular",
+  "Frontend/Frameworks - Lib/Angular/RxJs": "👀",
+  "Frontend/Frameworks - Lib/Angular": {
+    "iconName": "FabAngular",
+    "iconColor": "#ea6666"
+  },
+  "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md": "👀",
+  "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas": "LiMap",
+  "Frontend/Frameworks - Lib/React/Roadmap React.canvas": "LiMap",
+  "Frontend/Frontend.md": "FasFeatherPointed",
+  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md": "🆚",
+  "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md": "LiCircleDashed"
 }

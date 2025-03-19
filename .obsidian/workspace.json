@@ -4,27 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5e9537902c7a3f67",
+        "id": "2be229fe01ff755c",
         "type": "tabs",
         "children": [
           {
-            "id": "568a8f3fe8003895",
+            "id": "0962f0b73db8b24f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-                "viewState": {
-                  "x": 1128.951625972249,
-                  "y": 622.9128124085995,
-                  "zoom": -1.488765112595464
-                }
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap React"
+              "icon": "lucide-file",
+              "title": "RxJs"
+            }
+          },
+          {
+            "id": "729f80f11c621115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marbles"
+            }
+          },
+          {
+            "id": "1909ec80d0287b21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,6 +186,16 @@
             }
           },
           {
+            "id": "afd322e95c370321",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
             "id": "88a01a57883151ac",
             "type": "leaf",
             "state": {
@@ -175,18 +207,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "afd322e95c370321",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Roadmap React.canvas"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Roadmap React"
             }
           },
           {
@@ -217,18 +237,68 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "b2d644a261a572c8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "332b0e49464dbf9c",
+        "type": "window",
+        "children": [
+          {
+            "id": "68b4a29553509559",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3d71ac924f4d76c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+                    "viewState": {
+                      "x": 1305.622309819618,
+                      "y": 140.046768949567,
+                      "zoom": 1
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Angular Roadmap"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 355,
+        "y": 52,
+        "width": 1850,
+        "height": 1008,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/O que é padrão observable?.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Pasted image 20250319121905.png",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições",
+    "Frontend/Frontend.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs",
     "Frontend/Frameworks - Lib/React/React.js.md",
     "angular.pdf",
     "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
-    "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Javascript/Objetos/Objeto.md",
     "Java/Java Roadmap.canvas",
-    "Frontend/Frontend.md",
     "Frontend/CSS.md",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "javascript.pdf",
@@ -255,20 +325,13 @@
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md",
     "Untitled.canvas",
     "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor",
-    "Javascript/Estrutura de dados/Coleções",
     "Devops/Docker/Dicionario de comandos usados/Stop.md",
     "Devops/Docker/Dicionario de comandos usados/Dicionário de comandos usados.md",
     "Devops/Docker/Dicionario de comandos usados/Ps.md",
-    "Devops/Docker/Docker.md",
-    "Devops/Docker/Dicionario de comandos usados/Start.md",
-    "Java/Orientação a Objetos/Orientação a objetos.md",
-    "Java/Orientação a Objetos/OO/Bloco de inicialização.md",
-    "Javascript/Arrays/Iteração/Tipos",
     "Javascript/Imags/Pasted image 20250224124803.png",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",
     "Java/img/Pasted image 20250213190735.png",
-    "Java/img/Pasted image 20250210161316.png",
     "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"
   ]
