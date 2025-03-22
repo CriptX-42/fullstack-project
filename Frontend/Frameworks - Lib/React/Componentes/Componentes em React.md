@@ -4,4 +4,7 @@ tags:
   - Dicionário
 ---
 ### Props e states
-[[Props vs State]]
+- [[Props vs State]]
+
+### Ciclo de Vida em Class Components
+[[Ciclo de Vida em Class Components e hooks]]
