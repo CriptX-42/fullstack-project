@@ -13,7 +13,6 @@ tags:
 ### Chamadas
 1. [[Proxy]]
 2. [[Callback]]
-3. [[setTimeout]]
 
 ### Renderização
 1. [[SPA]]
