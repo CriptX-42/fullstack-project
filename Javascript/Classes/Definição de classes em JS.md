@@ -6,7 +6,7 @@ Created: 2025-03-30
 > [[Herança em JS]]
 
 
-Em JS é uma forma de definir objetos e sua estrutura de maneira mais organizada e reutilizavel. Foi introduzida no ES6.
+Em JS é uma forma de definir objetos e sua estrutura de maneira mais organizada e reutilizável. Foi introduzida no ES6.
 
 Sintaxe baica:
 
