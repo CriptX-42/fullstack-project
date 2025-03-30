@@ -25,14 +25,17 @@
             "id": "1ee7f1420e192921",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Javascript/Classes/Definição de classes em JS.md",
-                "mode": "source",
-                "source": false
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": 642.8191105018614,
+                  "y": 464.64171264949334,
+                  "zoom": -0.7681835527383355
+                }
               },
-              "icon": "lucide-file",
-              "title": "Definição de classes em JS"
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
             }
           }
         ],
@@ -181,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Classes/Definição de classes em JS.md"
+                "file": "Javascript/RaoadMap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Definição de classes em JS"
+              "title": "File properties for RaoadMap"
             }
           },
           {
@@ -229,11 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "1ee7f1420e192921",
   "lastOpenFiles": [
-    "Javascript/Classes/Herança em JS.md",
-    "Javascript/Classes/Definição de classes em JS.md",
     "Javascript/Javascript.md",
+    "Javascript/Classes/Definição de classes em JS.md",
+    "Javascript/Classes/Herança em JS.md",
     "Javascript/RaoadMap.canvas",
     "Javascript/Classes",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",

@@ -15,7 +15,7 @@
 		{"id":"331fe1d45d6fa2a2","type":"text","text":"###  Uso do `this`\n\n- **Em diferentes contextos:**\n    - [ ] Sozinho\n    - [ ] Dentro de uma função\n    - [ ] Dentro de um método\n    - [ ] Dentro de um evento\n    - [ ] Dentro de uma Arrow Function\n- [ ] Function Borrowing (`call`, `apply`, `bind`)","x":1185,"y":1413,"width":615,"height":347,"color":"1"},
 		{"id":"8c356e35a9382208","type":"text","text":"###  Modo Estrito\n\n- [x] `use strict`","x":1920,"y":1413,"width":410,"height":188,"color":"4"},
 		{"id":"d9d7e048011039f7","type":"text","text":"###  JavaScript Assíncrono\n\n- [x] `setTimeout`\n- [ ] `setInterval`\n- [x] Callbacks e Callback Hell\n- [x] Promises\n- [x] `async / await`","x":2500,"y":1413,"width":460,"height":243,"color":"5"},
-		{"id":"4a9fdeed078aa5bb","type":"text","text":"###  Classes\n\n- [ ] Definição de Classes\n- [ ] Herança","x":3040,"y":1413,"width":300,"height":207,"color":"1"},
+		{"id":"4a9fdeed078aa5bb","type":"text","text":"###  Classes\n\n- [x] Definição de Classes\n- [x] Herança","x":3040,"y":1413,"width":300,"height":207,"color":"4"},
 		{"id":"a6523ee8503444b8","type":"text","text":"### Avançado","x":2330,"y":240,"width":260,"height":80},
 		{"id":"f57e3b9e2a542e0d","type":"text","text":"### **Iteradores e Geradores**\n\n- `Iterator`\n- `Generator`","x":3440,"y":1407,"width":304,"height":219,"color":"1"},
 		{"id":"4b90ed2206f63174","type":"text","text":"### **Módulos**\n\n- [ ] CommonJS\n- [ ] ECMAScript Modules","x":3880,"y":1442,"width":385,"height":149,"color":"1"},
