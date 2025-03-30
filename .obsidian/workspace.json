@@ -4,140 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2be229fe01ff755c",
+        "id": "66987fda9fde8866",
         "type": "tabs",
         "children": [
           {
-            "id": "0962f0b73db8b24f",
+            "id": "24d99db3a90cf763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+                "file": "Javascript/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RxJs"
-            }
-          },
-          {
-            "id": "93c86bc2b99c8630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/React.js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React.js"
-            }
-          },
-          {
-            "id": "ea5c1a5a46e7eb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componentes em React"
-            }
-          },
-          {
-            "id": "adb1888733e3a046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Assíncronos/Assíncronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assíncronos"
-            }
-          },
-          {
-            "id": "bcbc12a49cfcc71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Assíncronos/Assíncronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assíncronos"
-            }
-          },
-          {
-            "id": "d440ec8d89c19284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Assíncronos/Assíncronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assíncronos"
-            }
-          },
-          {
-            "id": "be3299a1e11adfff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componentes em React"
-            }
-          },
-          {
-            "id": "3c9569da8d0bef0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Props vs State"
-            }
-          },
-          {
-            "id": "dcce56b7d3007109",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-                "viewState": {
-                  "x": 940.3433456463277,
-                  "y": 305.4705001289834,
-                  "zoom": 1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap React"
+              "title": "Javascript"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Assíncronos/Assíncronos.md"
+                "file": "Javascript/Javascript.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Assíncronos"
+              "title": "File properties for Javascript"
             }
           },
           {
@@ -330,29 +214,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d440ec8d89c19284",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Javascript/Assíncronos/EventLoops/Event Loops.md",
+    "Javascript/Classes/Definição de classes em JS.md",
+    "Javascript/Javascript.md",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Classes",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
+    "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
     "Javascript/Assíncronos/Assíncronos.md",
+    "Frontend/Frameworks - Lib/React/React.js.md",
+    "Javascript/Estrutura de dados/Estrutura de dados.md",
+    "javascript.pdf",
+    "Javascript/Assíncronos/EventLoops/Event Loops.md",
     "Javascript/Assíncronos/SetInterval e timeout/setInterval.md",
     "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md",
     "Javascript/Assíncronos/SetInterval e timeout",
     "Javascript/Assíncronos/Untitled",
     "Javascript/Conceitos/Dicionário de conceitos.md",
-    "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Ciclo de Vida em Class Components e hooks.md",
-    "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
-    "Frontend/Frameworks - Lib/React/React.js.md",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Criação RxJs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
-    "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
     "Frontend/Frameworks - Lib/React/Componentes",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
-    "Javascript/Javascript.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Tratamento de erro Rxjs.md",
     "Combinação Rxjs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Filtragem Rxjs.md",
@@ -367,14 +255,10 @@
     "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/Angular/RxJs",
     "angular.pdf",
-    "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md",
-    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/Map (estrutura de dados javascript).md",
     "Java/Java Roadmap.canvas",
     "Javascript/Imags/Pasted image 20250222231546.png",
-    "javascript.pdf",
     "Javascript/Imags/Pasted image 20250317213724.png",
     "Javascript/Imags/Pasted image 20250317213754.png",
-    "react.pdf",
     "Frontend/Frameworks/React/Untitled Diagram.svg",
     "Javascript/Imags/Pasted image 20250317213639.png",
     "Untitled.canvas",

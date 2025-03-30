@@ -12,5 +12,6 @@ tags:
 2. [[Varáveis]]
 3. [[Assíncronos]]
 4. [[Objeto]]
-5. [[Estrutura de dados]]
+5. [[Definição de classes em JS]]
+6. [[Estrutura de dados]]
 
