@@ -25,17 +25,14 @@
             "id": "1ee7f1420e192921",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
-                "viewState": {
-                  "x": 642.8191105018614,
-                  "y": 464.64171264949334,
-                  "zoom": -0.7681835527383355
-                }
+                "file": "Frontend/Frameworks - Lib/Angular/Angular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
+              "icon": "lucide-file",
+              "title": "Angular"
             }
           }
         ],
@@ -184,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/RaoadMap.canvas"
+                "file": "Frontend/Frameworks - Lib/Angular/Angular.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for RaoadMap"
+              "title": "File properties for Angular"
             }
           },
           {
@@ -234,10 +231,15 @@
   },
   "active": "1ee7f1420e192921",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
+    "Frontend/Frameworks - Lib/Angular/Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos",
+    "Javascript/RaoadMap.canvas",
     "Javascript/Javascript.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Javascript/Classes/Herança em JS.md",
-    "Javascript/RaoadMap.canvas",
     "Javascript/Classes",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
@@ -258,8 +260,6 @@
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
     "Frontend/Frameworks - Lib/React/Componentes",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-    "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Tratamento de erro Rxjs.md",
     "Combinação Rxjs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Filtragem Rxjs.md",
@@ -271,9 +271,6 @@
     "Pasted image 20250319121905.png",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições",
-    "Frontend/Frontend.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs",
-    "angular.pdf",
     "Java/Java Roadmap.canvas",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",

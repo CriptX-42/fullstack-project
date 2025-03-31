@@ -7,3 +7,6 @@ tags:
 
 ### RxJs
 [[RxJs]]
+
+### Conceitos básicos
+[[Event Binding e Ref variables]]
