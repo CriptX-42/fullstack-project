@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏗",
       "LiWatch",
       "FasTimeline",
       "🪚",
-      "LiCircleDashed",
-      "🆚"
+      "LiCircleDashed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -242,5 +242,6 @@
   "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md": "FasTimeline",
   "Frontend": "FasFeatherPointed",
   "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md": "LiTimer",
-  "Javascript/Assíncronos/SetInterval e timeout/setInterval.md": "LiWatch"
+  "Javascript/Assíncronos/SetInterval e timeout/setInterval.md": "LiWatch",
+  "Java/Arquiteturas": "🏗"
 }

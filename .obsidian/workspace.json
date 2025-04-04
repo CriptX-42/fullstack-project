@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular.md",
+                "file": "Java/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "Java"
+            }
+          },
+          {
+            "id": "7b028bc83819a480",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,11 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Angular"
+              "title": "File properties"
             }
           },
           {
@@ -229,14 +237,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ee7f1420e192921",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
-    "Frontend/Frameworks - Lib/Angular/Angular.md",
+    "Java/Arquiteturas/Clean Architeture.md",
+    "Pasted image 20250404132730.png",
+    "Java/Arquiteturas",
+    "Java/Java.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Combinação Rxjs.md",
+    "angular.pdf",
+    "Java/Java Roadmap.canvas",
+    "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/Angular/Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos",
-    "Javascript/RaoadMap.canvas",
     "Javascript/Javascript.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Javascript/Classes/Herança em JS.md",
@@ -261,17 +276,10 @@
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores.md",
     "Frontend/Frameworks - Lib/React/Componentes",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Tratamento de erro Rxjs.md",
-    "Combinação Rxjs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Filtragem Rxjs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Transformação Rxjs.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/O que é padrão observable?.md",
     "Pasted image 20250319121905.png",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições",
-    "Java/Java Roadmap.canvas",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",
     "Javascript/Imags/Pasted image 20250317213754.png",
@@ -281,7 +289,6 @@
     "Javascript/Imags/Pasted image 20250224124803.png",
     "Java/img/Pasted image 20250215203151.png",
     "Java/img/Pasted image 20250213190842.png",
-    "Java/img/Pasted image 20250213190735.png",
     "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"
   ]

@@ -7,7 +7,7 @@
 		{"id":"741dd40ae0c1e620","type":"text","text":"Build Tools\n- Greadle\n- Maven","x":903,"y":231,"width":306,"height":164,"color":"1"},
 		{"id":"c1330c93a6ba805f","type":"text","text":"Ferramentas","x":931,"y":5,"width":250,"height":60,"color":"1"},
 		{"id":"e3da69b592c20e7f","type":"text","text":"Web Frameworks\n- Quarkus\n- Spring\n==Criar um Roadmap para isso==","x":1320,"y":231,"width":291,"height":196,"color":"1"},
-		{"id":"ef5532f45928f2e2","type":"text","text":"Testes \n- JUnit\n- Mokito\n- Selenium\n- TesteNG","x":1680,"y":231,"width":260,"height":249,"color":"1"},
+		{"id":"ef5532f45928f2e2","type":"text","text":"Testes \n- [x] JUnit\n- [ ] Mokito X\n- [ ] Selenium X\n- [ ] TesteNG X","x":1680,"y":231,"width":260,"height":249,"color":"4"},
 		{"id":"e52c8f6614f46978","type":"text","text":"Roadmap Java","x":-40,"y":-420,"width":250,"height":60},
 		{"id":"6f78743e1e761a2c","type":"text","text":"Sintaxe Avançada\n- [x] Casting\n- [x] Generics\n- [x] Streams\n- [x] Collections\n- [x] Map \n- [x] HashMaps\n- [ ] Threads\n- [ ] Completable Future","x":-163,"y":60,"width":248,"height":367,"color":"5"},
 		{"id":"d8b59e05b696ff71","type":"text","text":"Essência\n\n- JVM\n- JDK\n- Gerenciamento de memória\n- Garbage collector","x":210,"y":69,"width":230,"height":260,"color":"1"}

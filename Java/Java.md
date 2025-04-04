@@ -22,3 +22,8 @@ tags:
 #### Spring-boot
 
 ![[Pasted image 20250222231546.png]]
+
+
+### Arquiteturas
+
+[[Clean Architeture]]
