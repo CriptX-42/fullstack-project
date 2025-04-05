@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStar",
       "🏗",
       "LiWatch",
       "FasTimeline",
-      "🪚",
-      "LiCircleDashed"
+      "🪚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -243,5 +243,7 @@
   "Frontend": "FasFeatherPointed",
   "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md": "LiTimer",
   "Javascript/Assíncronos/SetInterval e timeout/setInterval.md": "LiWatch",
-  "Java/Arquiteturas": "🏗"
+  "Java/Arquiteturas": "🏗",
+  "Frontend/Estilos/Tailwind": "LiStar",
+  "Frontend/Estilos/Tailwind/Tailwind css.md": "LiStar"
 }

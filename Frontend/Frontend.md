@@ -3,7 +3,7 @@ Created: 2025-02-03
 tags:
   - FrontEnd
 ---
-1. [[CSS]]
+1. [[Estilos]]
 
 #### Framework - Lib
 1. [[React.js]]
