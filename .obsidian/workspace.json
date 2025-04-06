@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frontend.md",
+                "file": "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/Use Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend"
+              "title": "Use Context"
             }
           },
           {
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,9 +246,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/Use Context.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Use Context"
             }
           },
           {
@@ -293,15 +295,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "200e85d3b447ee55",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-    "Frontend/Frameworks - Lib/React/React.js.md",
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/React/React.js.md",
+    "Frontend/Frontend.md",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/Use Context.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
     "Frontend/Frameworks - Lib/React/Hooks",
-    "Frontend/Frontend.md",
     "Frontend/Estilos/Tailwind/Tailwind css.md",
     "Frontend/Estilos/Estilos.md",
     "Pasted image 20250405180203.png",

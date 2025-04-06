@@ -11,40 +11,47 @@ tags:
 
 
 ```
-// ThemeContext.tsx
 import { createContext, useContext, useState, ReactNode } from "react";
 
-type Theme = "light" | "dark";
-
-interface ThemeContextType {
-  theme: Theme;
-  toggleTheme: () => void;
+interface User {
+  name: string;
+  email: string;
 }
 
-const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
+interface AuthContextType {
+  user: User | null;
+  login: (userData: User) => void;
+  logout: () => void;
+}
 
-export const ThemeProvider = ({ children }: { children: ReactNode }) => {
-  const [theme, setTheme] = useState<Theme>("light");
+const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
-  const toggleTheme = () => {
-    setTheme((prev) => (prev === "light" ? "dark" : "light"));
+export const AuthProvider = ({ children }: { children: ReactNode }) => {
+  const [user, setUser] = useState<User | null>(null);
+
+  const login = (userData: User) => {
+    setUser(userData);
+  };
+
+  const logout = () => {
+    setUser(null);
   };
 
   return (
-    <ThemeContext.Provider value={{ theme, toggleTheme }}>
+    <AuthContext.Provider value={{ user, login, logout }}>
       {children}
-    </ThemeContext.Provider>
+    </AuthContext.Provider>
   );
 };
 
-// Hook para usar o contexto mais facilmente
-export const useTheme = () => {
-  const context = useContext(ThemeContext);
+export const useAuth = () => {
+  const context = useContext(AuthContext);
   if (!context) {
-    throw new Error("useTheme must be used within a ThemeProvider");
+    throw new Error("useAuth must be used within an AuthProvider");
   }
   return context;
 };
+
 
 ```
 
@@ -56,13 +63,13 @@ export const useTheme = () => {
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { ThemeProvider } from "./ThemeContext";
+import { AuthProvider } from "./AuthContext";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <ThemeProvider>
+    <AuthProvider>
       <App />
-    </ThemeProvider>
+    </AuthProvider>
   </React.StrictMode>
 );
 
@@ -72,18 +79,34 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
 
 
 ```
-// main.tsx ou App.tsx
-import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App";
-import { ThemeProvider } from "./ThemeContext";
+// App.tsx
+import { useAuth } from "./AuthContext";
 
-ReactDOM.createRoot(document.getElementById("root")!).render(
-  <React.StrictMode>
-    <ThemeProvider>
-      <App />
-    </ThemeProvider>
-  </React.StrictMode>
-);
+function App() {
+  const { user, login, logout } = useAuth();
+
+  const handleLogin = () => {
+    login({ name: "João", email: "joao@example.com" });
+  };
+
+  return (
+    <div>
+      {user ? (
+        <>
+          <h1>Bem-vindo, {user.name}!</h1>
+          <button onClick={logout}>Sair</button>
+        </>
+      ) : (
+        <>
+          <h1>Você não está logado.</h1>
+          <button onClick={handleLogin}>Entrar</button>
+        </>
+      )}
+    </div>
+  );
+}
+
+export default App;
+
 
 ```
