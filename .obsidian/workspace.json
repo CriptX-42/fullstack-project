@@ -11,14 +11,10 @@
             "id": "24d99db3a90cf763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "useCallback"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -165,11 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for useCallback"
+              "title": "File properties"
             }
           },
           {
@@ -214,17 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "24d99db3a90cf763",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
+    "Frontend/Frameworks - Lib/React/React.js.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Java/Java.md",
     "Frontend/Estilos/Estilos.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/Use Context.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-    "Frontend/Frameworks - Lib/React/React.js.md",
     "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
     "Frontend/Frameworks - Lib/React/Hooks",
@@ -258,7 +252,6 @@
     "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md",
     "Javascript/Conceitos/Dicionário de conceitos.md",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Ciclo de Vida em Class Components e hooks.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Criação RxJs.md",
     "Pasted image 20250319121905.png",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",
