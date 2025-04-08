@@ -249,6 +249,7 @@
   "Frontend/Frameworks - Lib/React/React.js.md": "FabReact",
   "Frontend/Frameworks - Lib/React/Hooks": "🪝",
   "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md": "🧠",
-  "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md": "🧠",
-  "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md": "LiDatabase"
+  "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md": "LiDatabase",
+  "Frontend/Frameworks - Lib/React/React.Memo.md": "🧠",
+  "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md": "🧠"
 }

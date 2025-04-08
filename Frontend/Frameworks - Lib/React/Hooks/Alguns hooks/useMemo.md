@@ -1,43 +1,45 @@
 ---
-Created: 2025-05-08
+Created: 2025-04-08
+tags:
+  - Aprofundar
 ---
 ### Definição
-
-É uma **Higher Order Component (HOC)**, usada para memorizar um comportamento funcional - impedir que ela re-renderize se as props não mudarem 
-
-#### Sintaxe
+É o tipo mais primitivo do `React.memo`, mas não memoriza componente, mas sim o resultado de uma função
 
 ```
-const MeuComponente = React.memo((props) =>) {
-// logica
-}
+const valorMemorizado = useMemo(() => {
+  // lógica pesada
+  return resultado;
+}, [dependencias]);
+
 ```
 
 ### ✅ Quando usar?
 
-Use `React.memo` quando:
+Use `useMemo` para:
 
-- O componente é **puro** (renderiza o mesmo output dado as mesmas props).
+- **Evitar cálculos pesados desnecessários.**
     
-- As **re-renderizações desnecessárias** estão impactando a performance.
+- **Evitar recriação de objetos ou arrays** (ex: para evitar re-render de filhos com `React.memo`).
     
-- As props são **simples** e de fácil comparação (ex: strings, numbers, booleanos, arrays/objetos imutáveis).
+- **Melhorar performance** em renderizações complexas.
 
-### Exemplo
 
+### Exemplo simples
 ```
-const Botao = React.memo(({ onClick, label }) => {
-  console.log("Renderizou:", label);
-  return <button onClick={onClick}>{label}</button>;
-});
+const numeros = [1, 2, 3, 4];
 
-// Uso
-<Botao onClick={() => doSomething()} label="Clique aqui" />
+const soma = useMemo(() => {
+  console.log("Calculando soma...");
+  return numeros.reduce((acc, n) => acc + n, 0);
+}, [numeros]);
+
+return <p>Soma: {soma}</p>;
 
 ```
 
 
 > [!Danger] Cuidado
-> Objetos, arrays e funções **são comparados por referência**, não por valor. Se você passa uma **função inline** ou um objeto criado no render, o `memo` pode **não evitar** a re-renderização.
+> Se a logica for pesada, talvez não valha a pena
 
 
