@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧠",
       "🪝",
       "FabReact",
       "LiStar",
-      "🏗",
-      "LiWatch"
+      "🏗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -247,5 +247,6 @@
   "Frontend/Estilos/Tailwind": "LiStar",
   "Frontend/Estilos/Tailwind/Tailwind css.md": "LiStar",
   "Frontend/Frameworks - Lib/React/React.js.md": "FabReact",
-  "Frontend/Frameworks - Lib/React/Hooks": "🪝"
+  "Frontend/Frameworks - Lib/React/Hooks": "🪝",
+  "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md": "🧠"
 }
