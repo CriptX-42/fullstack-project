@@ -13,15 +13,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+                "file": "Frontend/Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hooks"
+              "title": "Frontend"
+            }
+          },
+          {
+            "id": "c7ba56958a468a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Typescript/Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typescript"
+            }
+          },
+          {
+            "id": "4e3207ef81e07147",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bd063e44e79148a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interface em Typescript"
+            }
+          },
+          {
+            "id": "aed6a512259ba260",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "64d7f0229b184cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Nextjs/Next.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,19 +275,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d99db3a90cf763",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
+    "Frontend/Frameworks - Lib/Typescript/Typescript.md",
+    "Frontend/Frontend.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
+    "Frontend/Nextjs/Next.js.md",
+    "Frontend/Nextjs",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos",
+    "Frontend/Frameworks - Lib/Typescript",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
     "Frontend/Frameworks - Lib/React/React.Memo.md",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/React.js.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Java/Java.md",
     "Frontend/Estilos/Estilos.md",
-    "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
     "Frontend/Frameworks - Lib/React/Hooks",
     "Frontend/Estilos/Tailwind/Tailwind css.md",
@@ -243,20 +313,12 @@
     "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos",
     "Javascript/Javascript.md",
     "Javascript/Classes/Herança em JS.md",
-    "Javascript/Classes",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
     "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
     "Javascript/Assíncronos/Assíncronos.md",
     "Javascript/Estrutura de dados/Estrutura de dados.md",
-    "javascript.pdf",
-    "Javascript/Assíncronos/EventLoops/Event Loops.md",
-    "Javascript/Assíncronos/SetInterval e timeout/setInterval.md",
-    "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md",
-    "Javascript/Conceitos/Dicionário de conceitos.md",
-    "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Ciclo de Vida em Class Components e hooks.md",
     "Pasted image 20250319121905.png",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",

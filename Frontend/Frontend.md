@@ -8,3 +8,7 @@ tags:
 #### Framework - Lib
 1. [[React.js]]
 2. [[Angular]]
+3. [[Next.js]]
+
+### Typescript
+[[Typescript]]

@@ -2,6 +2,7 @@
 Created: 2025-04-08
 tags:
   - Aprofundar
+Creatd:
 ---
 ### Definição
 É o tipo mais primitivo do `React.memo`, mas não memoriza componente, mas sim o resultado de uma função

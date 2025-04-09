@@ -27,7 +27,7 @@ tags:
 2. [[Métodos abstratos]]
 
 #### Interface
-1. [[Interface]]
+1. [[Java/Orientação a Objetos/OO/Interfaces/Interface]]
 
 #### Polimorfismo
 1. [[Polimorfismo - Java]]
