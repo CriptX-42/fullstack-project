@@ -27,22 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Typescript/Typescript.md",
+                "file": "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "4e3207ef81e07147",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "UseReducer"
             }
           },
           {
@@ -84,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,9 +218,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for UseReducer"
             }
           },
           {
@@ -277,9 +269,11 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
     "Frontend/Frameworks - Lib/Typescript/Typescript.md",
     "Frontend/Frontend.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
     "Frontend/Nextjs/Next.js.md",
     "Frontend/Nextjs",
@@ -290,7 +284,6 @@
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
     "Frontend/Frameworks - Lib/React/React.Memo.md",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/React.js.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Java/Java.md",
@@ -318,7 +311,6 @@
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
     "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
     "Javascript/Assíncronos/Assíncronos.md",
-    "Javascript/Estrutura de dados/Estrutura de dados.md",
     "Pasted image 20250319121905.png",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",
