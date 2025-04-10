@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"7e27d32815674492","type":"text","text":"## **Ferramentas CLI**\n\n- [ ] Create React App\n- [ ] Vite","x":5,"y":60,"width":335,"height":160,"color":"1"},
 		{"id":"7156a6c54dc01179","type":"text","text":"## **Componentes**\n\n- [ ] Functional Components\n- [ ] Class Components\n- [ ] JSX\n- [x] Props vs State\n- [ ] Conditional Rendering\n- [ ] Composition\n- [ ] Renderização\n- [ ] Lists e Keys\n- [ ] Ciclo de Vida do Componente\n- [ ] Render Props\n- [ ] Refs\n- [ ] Eventos\n- [ ] High Order Components (HOCs)","x":631,"y":60,"width":389,"height":480,"color":"5"},
-		{"id":"72526c397517a2cc","type":"text","text":"## **Hooks**\n\n- [ ] useState\n- [ ] useEffect\n- [ ] useRef\n- [x] useCallback\n- [x] useMemo\n- [ ] useReducer\n- [x] useContext\n- [ ] Criando Custom Hooks","x":1280,"y":60,"width":400,"height":320,"color":"5"},
+		{"id":"72526c397517a2cc","type":"text","text":"## **Hooks**\n\n- [ ] useState\n- [ ] useEffect\n- [ ] useRef\n- [x] useCallback\n- [x] useMemo\n- [x] useReducer\n- [x] useContext\n- [ ] Criando Custom Hooks","x":1280,"y":60,"width":400,"height":320,"color":"5"},
 		{"id":"aacd5ba80b231963","type":"text","text":"## **Roteamento**\n\n- [ ] React Router\n- [ ] Reach Router","x":1820,"y":80,"width":280,"height":180,"color":"1"},
 		{"id":"96c4eb3a3f3ef43b","type":"text","text":"## **Gerenciamento de Estado**\n\n- [ ] Context API\n- [ ] Zustand\n- [ ] Redux / Toolkit\n- [ ] MobX\n- [ ] Recoil","x":2200,"y":80,"width":340,"height":300,"color":"1"},
 		{"id":"3ea34402b43e881c","type":"text","text":"## **Estilização**\n\n- [ ] Chakra UI\n- [ ] Material UI\n- [ ] Mantine\n- [x] Tailwind\n- [ ] Styled Components\n- [ ] Emotion","x":2700,"y":80,"width":300,"height":280,"color":"5"},

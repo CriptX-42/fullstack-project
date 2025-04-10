@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
+                "file": "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UseReducer"
+              "title": "Hooks"
+            }
+          },
+          {
+            "id": "1c5438857f374c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/React.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React.js"
+            }
+          },
+          {
+            "id": "72bf2b0a42254433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Renderização no React"
             }
           },
           {
@@ -74,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,10 +247,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md"
+                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for UseReducer"
+              "title": "File properties for Renderização no React"
             }
           },
           {
@@ -269,6 +297,13 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/React/Renderização",
+    "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md",
+    "Frontend/Frameworks - Lib/React/React.js.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseRef.md",
+    "Gravação de tela de 2025-04-10 19-29-56.webm",
+    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/React/React.Memo.md",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
     "Frontend/Frameworks - Lib/Typescript/Typescript.md",
@@ -281,10 +316,7 @@
     "Frontend/Frameworks - Lib/Typescript",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
-    "Frontend/Frameworks - Lib/React/React.Memo.md",
-    "Frontend/Frameworks - Lib/React/React.js.md",
     "Javascript/Classes/Definição de classes em JS.md",
     "Java/Java.md",
     "Frontend/Estilos/Estilos.md",
@@ -305,12 +337,9 @@
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables",
     "Javascript/Javascript.md",
     "Javascript/Classes/Herança em JS.md",
     "Frontend/Frameworks - Lib/React/Componentes/Conceitos/Props vs State.md",
-    "Frontend/Frameworks - Lib/React/Componentes/Componentes em React.md",
-    "Javascript/Assíncronos/Assíncronos.md",
     "Pasted image 20250319121905.png",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",

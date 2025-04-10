@@ -9,3 +9,7 @@ tags:
 
 ### Hooks
 [[Hooks]]
+
+### Renderização no react
+
+[[Renderização no React]]
