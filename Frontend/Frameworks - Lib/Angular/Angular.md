@@ -10,3 +10,6 @@ tags:
 
 ### Conceitos básicos
 [[Event Binding e Ref variables]]
+
+### Renderização
+[[Renderização no angular]]
