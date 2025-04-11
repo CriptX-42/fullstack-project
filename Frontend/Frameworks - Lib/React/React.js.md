@@ -12,4 +12,4 @@ tags:
 
 ### Renderização no react
 
-[[Renderização no React]]
+[[Renderização E DOM virtual]]

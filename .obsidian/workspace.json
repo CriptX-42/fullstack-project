@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md",
+                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização E DOM virtual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renderização no React"
+              "title": "Renderização E DOM virtual"
             }
           },
           {
@@ -247,10 +247,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md"
+                "file": "Frontend/Frameworks - Lib/React/Renderização/Renderização E DOM virtual.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Renderização no React"
+              "title": "File properties for Renderização E DOM virtual"
             }
           },
           {
@@ -297,14 +297,14 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
+    "Frontend/Frameworks - Lib/React/Renderização/Renderização E DOM virtual.md",
     "Frontend/Frameworks - Lib/React/Renderização",
-    "Frontend/Frameworks - Lib/React/Renderização/Renderização no React.md",
     "Frontend/Frameworks - Lib/React/React.js.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseRef.md",
     "Gravação de tela de 2025-04-10 19-29-56.webm",
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
     "Frontend/Frameworks - Lib/React/React.Memo.md",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
     "Frontend/Frameworks - Lib/Typescript/Typescript.md",
     "Frontend/Frontend.md",
@@ -331,7 +331,6 @@
     "Pasted image 20250404132730.png",
     "Java/Arquiteturas",
     "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Combinação Rxjs.md",
-    "angular.pdf",
     "Java/Java Roadmap.canvas",
     "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
