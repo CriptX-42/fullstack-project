@@ -22,62 +22,34 @@
             }
           },
           {
-            "id": "c7ba56958a468a64",
+            "id": "6561dddf5bee5ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+                "file": "Javascript/Funções/Funções em js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hooks"
+              "title": "Funções em js"
             }
           },
           {
-            "id": "bd063e44e79148a0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Javascript/RaoadMap.canvas",
-                "viewState": {
-                  "x": 3552.018549326923,
-                  "y": 1346.2305454886066,
-                  "zoom": 0.06048828243021631
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
-            }
-          },
-          {
-            "id": "aed6a512259ba260",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "64d7f0229b184cce",
+            "id": "d8a5a9fd499d3335",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Nextjs/Next.js.md",
+                "file": "Javascript/Funções/Escopo lexico/Escopo lexico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js"
+              "title": "Escopo lexico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frontend/Frontend.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Frontend"
             }
           },
           {
@@ -268,15 +242,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd063e44e79148a0",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
+    "Untitled.canvas",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Javascript.md",
+    "Javascript/Funções/Funções em js.md",
+    "Javascript/Funções/Escopo lexico/Escopo lexico.md",
+    "Frontend/Nextjs/Next.js.md",
+    "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Javascript/Funções/Escopo lexico",
+    "Javascript/Funções",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
     "Frontend/Frameworks - Lib/React/React.js.md",
     "Javascript/Assíncronos/SetInterval e timeout/setInterval.md",
     "Javascript/Assíncronos/SetInterval e timeout/setTimeout.md",
-    "Javascript/RaoadMap.canvas",
-    "Javascript/Javascript.md",
     "Javascript/Conceitos/Tipo de dados/Undefined.md",
     "Javascript/Conceitos/Tipo de dados/Null.md",
     "Javascript/Conceitos/Tipo de dados/typeOf.md",
@@ -294,23 +275,16 @@
     "Frontend/Frameworks - Lib/React/React.Memo.md",
     "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
     "Frontend/Frameworks - Lib/Typescript/Typescript.md",
-    "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
-    "Frontend/Nextjs/Next.js.md",
     "Frontend/Nextjs",
     "Frontend/Frameworks - Lib/Typescript/Conceitos",
     "Frontend/Frameworks - Lib/Typescript",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/UseContext.md",
-    "Javascript/Classes/Definição de classes em JS.md",
-    "Java/Java.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
     "Frontend/Frameworks - Lib/React/Hooks",
     "Pasted image 20250405180203.png",
     "Pasted image 20250405175906.png",
-    "Frontend/Estilos",
-    "Frontend/Estilos/Tailwind",
     "Pasted image 20250404132730.png",
     "Java/Java Roadmap.canvas",
     "Pasted image 20250319121905.png",
@@ -319,7 +293,6 @@
     "Javascript/Imags/Pasted image 20250317213754.png",
     "Frontend/Frameworks/React/Untitled Diagram.svg",
     "Javascript/Imags/Pasted image 20250317213639.png",
-    "Untitled.canvas",
     "Javascript/Imags/Pasted image 20250224124803.png",
     "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"

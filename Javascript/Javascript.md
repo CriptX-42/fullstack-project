@@ -14,4 +14,4 @@ tags:
 4. [[Objeto]]
 5. [[Definição de classes em JS]]
 6. [[Estrutura de dados]]
-
+7. [[Funções em js]]
