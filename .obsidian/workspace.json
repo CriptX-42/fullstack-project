@@ -11,14 +11,27 @@
             "id": "24d99db3a90cf763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Frontend/Frontend.md",
-                "mode": "source",
-                "source": false
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": 884.8699990447901,
+                  "y": 1134.5232618665027,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Frontend"
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
+            }
+          },
+          {
+            "id": "6ec5c50b4ff5fd4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -49,7 +62,8 @@
               "title": "Escopo lexico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Frontend/Frontend.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Frontend"
+              "title": "File properties"
             }
           },
           {
@@ -244,13 +256,15 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Javascript/Funções/Escopo lexico/IIFEs (Immediately Invoked Function Expressions).md",
     "Javascript/RaoadMap.canvas",
     "Javascript/Javascript.md",
     "Javascript/Funções/Funções em js.md",
+    "Frontend/Frontend.md",
+    "Java/Sentaxe Base/Sintaxes/Enums/Enum.md",
+    "Untitled.canvas",
     "Javascript/Funções/Escopo lexico/Escopo lexico.md",
     "Frontend/Nextjs/Next.js.md",
-    "Frontend/Frontend.md",
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
     "Javascript/Funções/Escopo lexico",
     "Javascript/Funções",
@@ -279,8 +293,6 @@
     "Frontend/Nextjs",
     "Frontend/Frameworks - Lib/Typescript/Conceitos",
     "Frontend/Frameworks - Lib/Typescript",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useCallback.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks/useMemo.md",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
     "Frontend/Frameworks - Lib/React/Hooks",
     "Pasted image 20250405180203.png",
