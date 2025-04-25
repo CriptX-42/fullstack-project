@@ -54,16 +54,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Funções/Escopo lexico/Escopo lexico.md",
+                "file": "Javascript/Funções/Outros/Funções embutidas (built-in functions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escopo lexico"
+              "title": "Funções embutidas (built-in functions)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,9 +207,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Javascript/Funções/Outros/Funções embutidas (built-in functions).md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Funções embutidas (built-in functions)"
             }
           },
           {
@@ -256,14 +258,16 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Javascript/Funções/Escopo lexico/IIFEs (Immediately Invoked Function Expressions).md",
     "Javascript/RaoadMap.canvas",
+    "Javascript/Funções/Outros/Funções embutidas (built-in functions).md",
+    "Javascript/Funções/Outros",
     "Javascript/Javascript.md",
+    "Javascript/Funções/Escopo lexico/Escopo lexico.md",
+    "Javascript/Funções/Outros/IIFEs (Immediately Invoked Function Expressions).md",
     "Javascript/Funções/Funções em js.md",
     "Frontend/Frontend.md",
     "Java/Sentaxe Base/Sintaxes/Enums/Enum.md",
     "Untitled.canvas",
-    "Javascript/Funções/Escopo lexico/Escopo lexico.md",
     "Frontend/Nextjs/Next.js.md",
     "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
     "Javascript/Funções/Escopo lexico",
@@ -289,12 +293,10 @@
     "Frontend/Frameworks - Lib/React/React.Memo.md",
     "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
     "Frontend/Frameworks - Lib/Typescript/Typescript.md",
-    "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
     "Frontend/Nextjs",
     "Frontend/Frameworks - Lib/Typescript/Conceitos",
     "Frontend/Frameworks - Lib/Typescript",
     "Frontend/Frameworks - Lib/React/Hooks/Alguns hooks",
-    "Frontend/Frameworks - Lib/React/Hooks",
     "Pasted image 20250405180203.png",
     "Pasted image 20250405175906.png",
     "Pasted image 20250404132730.png",
