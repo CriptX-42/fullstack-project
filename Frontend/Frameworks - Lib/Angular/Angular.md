@@ -9,7 +9,8 @@ tags:
 [[RxJs]]
 
 ### Conceitos básicos
-[[Event Binding e Ref variables]]
+[[Conceitos básicos angular]]
 
 ### Renderização
 [[Renderização no angular]]
+
