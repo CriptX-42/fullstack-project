@@ -11,17 +11,14 @@
             "id": "30448191c4a582ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-                "viewState": {
-                  "x": 1858.6546391752574,
-                  "y": 411.033880065254,
-                  "zoom": 0.9045929597291594
-                }
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Angular Roadmap"
+              "icon": "lucide-file",
+              "title": "Conceitos básicos angular"
             }
           },
           {
@@ -66,8 +63,7 @@
               "title": "ngClass"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/Pipes no angular.md"
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Pipes no angular"
+              "title": "File properties for Conceitos básicos angular"
             }
           },
           {
@@ -260,11 +256,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "937b7085b203934d",
+  "active": "30448191c4a582ff",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/Angular/Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Gerenciamento de estado/Gerenciamento de Estado no angular.md",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Gerenciamento de estado",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/Pipes no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Property Binding.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/ngStyle.md",
@@ -297,11 +295,9 @@
     "Javascript/Funções",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
     "Frontend/Frameworks - Lib/React/React.js.md",
-    "Javascript/Assíncronos/SetInterval e timeout/setInterval.md",
     "Frontend/Frameworks - Lib/Angular/Renderização",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Frontend/Frameworks - Lib/React/Renderização",
-    "Gravação de tela de 2025-04-10 19-29-56.webm",
     "Pasted image 20250405180203.png",
     "Pasted image 20250405175906.png",
     "Pasted image 20250404132730.png",

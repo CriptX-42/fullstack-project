@@ -12,7 +12,8 @@ Created: 2025-04-27
 ### Templates
 [[Diretivas Estruturais em Templates]]
 
-
+### Gerenciamento de estado
+[[Gerenciamento de Estado no angular]]
 
 -----
 
@@ -31,6 +32,7 @@ Created: 2025-04-27
 [[ngStyle]]
 
 #### Pipes
+[[Pipes no angular]]
 
 
 
