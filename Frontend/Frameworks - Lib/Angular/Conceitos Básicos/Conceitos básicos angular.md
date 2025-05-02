@@ -11,3 +11,11 @@ Created: 2025-04-27
 
 ### Templates
 [[Diretivas Estruturais em Templates]]
+
+
+
+
+-------
+# Conceitos simples
+### Interpolação
+[[Interpolação angular]]
