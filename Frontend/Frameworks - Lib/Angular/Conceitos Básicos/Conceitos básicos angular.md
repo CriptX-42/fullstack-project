@@ -8,3 +8,6 @@ Created: 2025-04-27
 
 ### Visão Arquitetural
 [[Visão Arquitetural]]
+
+### Templates
+[[Diretivas Estruturais em Templates]]
