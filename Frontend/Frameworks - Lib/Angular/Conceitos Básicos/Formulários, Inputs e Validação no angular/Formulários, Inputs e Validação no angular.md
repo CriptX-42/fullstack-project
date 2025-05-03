@@ -1,5 +1,7 @@
 ---
 Created: 2025-05-02
+tags:
+  - Aprofundar
 ---
 ----
 ### Vamos a pratica
@@ -99,3 +101,5 @@ export class UserFormComponent implements OnInit {
 </form>
 ```
 
+
+### Add FormArray

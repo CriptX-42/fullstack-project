@@ -17,12 +17,16 @@ tags:
 ### Gerenciamento de estado
 [[Gerenciamento de Estado no angular]]
 
+### Formulários, Inputs e Validação no angular
+[[Formulários, Inputs e Validação no angular]]
+
+
+
 
 
 -----
 
 # Renderização
-
 
 |Recurso|`ngClass`|`ngStyle`|
 |---|---|---|
