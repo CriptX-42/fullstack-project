@@ -11,17 +11,14 @@
             "id": "74104958990d541f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-                "viewState": {
-                  "x": 2792.8778697401053,
-                  "y": 245.66046427535213,
-                  "zoom": 1
-                }
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Angular Roadmap"
+              "icon": "lucide-file",
+              "title": "Routing angular"
             }
           }
         ]
@@ -169,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas"
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Angular Roadmap"
+              "title": "File properties for Routing angular"
             }
           },
           {
@@ -219,6 +216,7 @@
   },
   "active": "74104958990d541f",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
     "Pasted image 20250503155856.png",
@@ -231,7 +229,6 @@
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
     "Java/Java.md",
