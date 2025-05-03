@@ -11,17 +11,14 @@
             "id": "b48f64de203e1ae9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-                "viewState": {
-                  "x": 2265.157335923149,
-                  "y": 239.60602158142137,
-                  "zoom": -0.9108264687254776
-                }
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Angular Roadmap"
+              "icon": "lucide-file",
+              "title": "Interceptors Angular"
             }
           }
         ]
@@ -169,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas"
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Angular Roadmap"
+              "title": "File properties for Interceptors Angular"
             }
           },
           {
@@ -220,12 +217,14 @@
   "active": "b48f64de203e1ae9",
   "lastOpenFiles": [
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards/Routing angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Untitled 1.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
     "Java/Java.md",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
     "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular",
@@ -256,8 +255,6 @@
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Visão arquitetural",
     "Javascript/Funções/Outros/Funções embutidas (built-in functions).md",
     "Javascript/Javascript.md",
-    "Javascript/Funções/Escopo lexico/Escopo lexico.md",
-    "Javascript/Funções/Outros/IIFEs (Immediately Invoked Function Expressions).md",
     "Untitled.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Pasted image 20250405180203.png",

@@ -27,6 +27,16 @@ tags:
 [[Lifecycle Hooks Angular]]
 
 
+------
+### Routing, Guards E interceptors
+
+#### Routing
+[[Routing angular]]
+
+#### Guards
+[[Guards no angular]]
+
+
 
 -----
 
