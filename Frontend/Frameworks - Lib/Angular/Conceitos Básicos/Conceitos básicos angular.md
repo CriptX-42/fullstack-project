@@ -1,5 +1,7 @@
 ---
 Created: 2025-04-27
+tags:
+  - Dicionário
 ---
 ------
 
@@ -14,6 +16,8 @@ Created: 2025-04-27
 
 ### Gerenciamento de estado
 [[Gerenciamento de Estado no angular]]
+
+
 
 -----
 
@@ -42,3 +46,4 @@ Created: 2025-04-27
 [[Interpolação angular]]
 
 ### Property Binding 
+[[Property Binding]]
