@@ -36,6 +36,9 @@ tags:
 #### Guards
 [[Guards no angular]]
 
+#### Interceptors
+[[Interceptors Angular]]
+
 
 
 -----

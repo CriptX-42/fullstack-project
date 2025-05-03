@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d9457820167402d1",
+        "id": "7cc6bc0f2d53c374",
         "type": "tabs",
         "children": [
           {
-            "id": "b48f64de203e1ae9",
+            "id": "74104958990d541f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
-                "mode": "source",
-                "source": false
+                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+                "viewState": {
+                  "x": 2792.8778697401053,
+                  "y": 245.66046427535213,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Interceptors Angular"
+              "icon": "lucide-layout-dashboard",
+              "title": "Angular Roadmap"
             }
           }
         ]
@@ -166,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md"
+                "file": "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Interceptors Angular"
+              "title": "File properties for Angular Roadmap"
             }
           },
           {
@@ -214,14 +217,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b48f64de203e1ae9",
+  "active": "74104958990d541f",
   "lastOpenFiles": [
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
+    "Pasted image 20250503155856.png",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "WIP - Migrar MIRO.canvas",
+    "Untitled.md",
     "Untitled 1.md",
+    "react.pdf",
+    "javascript.pdf",
+    "Pasted image 20250404132730.png",
+    "Pasted image 20250405180203.png",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
     "Java/Java.md",
@@ -231,7 +241,6 @@
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular",
-    "Untitled.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/Pipes no angular.md",
@@ -248,26 +257,19 @@
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples",
     "Javascript/Funções/Funções em js.md",
     "Javascript/RaoadMap.canvas",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Templates",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Visão arquitetural/Visão Arquitetural.md",
     "Pasted image 20250427191501.png",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Visão arquitetural",
     "Javascript/Funções/Outros/Funções embutidas (built-in functions).md",
-    "Javascript/Javascript.md",
     "Untitled.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-    "Pasted image 20250405180203.png",
     "Pasted image 20250405175906.png",
-    "Pasted image 20250404132730.png",
     "Java/Java Roadmap.canvas",
     "Pasted image 20250319121905.png",
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",
     "Javascript/Imags/Pasted image 20250317213754.png",
     "Frontend/Frameworks/React/Untitled Diagram.svg",
-    "Javascript/Imags/Pasted image 20250317213639.png",
-    "WIP - Migrar MIRO.canvas",
     "Untitled 1.canvas"
   ]
 }
