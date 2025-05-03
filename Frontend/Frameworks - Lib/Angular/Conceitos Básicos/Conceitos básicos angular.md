@@ -20,8 +20,12 @@ tags:
 ### Formulários, Inputs e Validação no angular
 [[Formulários, Inputs e Validação no angular]]
 
+### Serviços e HTTP no angular
+[[Serviços e HTTP no angular]]
 
 
+### Lifecycle Hooks Angular
+[[Lifecycle Hooks Angular]]
 
 
 -----

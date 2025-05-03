@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviços e HTTP no angular"
+              "title": "Conceitos básicos angular"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md"
+                "file": "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Serviços e HTTP no angular"
+              "title": "File properties for Conceitos básicos angular"
             }
           },
           {
@@ -230,7 +230,11 @@
   },
   "active": "dd45861dfc4bb44f",
   "lastOpenFiles": [
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
+    "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
@@ -247,7 +251,6 @@
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/ngStyle.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização",
-    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Templates/Diretivas Estruturais em Templates.md",
     "Javascript/Conceitos/Renderização/SPA.md",
     "Javascript/Conceitos/Renderização/SSR.md",
@@ -267,9 +270,6 @@
     "Frontend/Frontend.md",
     "Java/Sentaxe Base/Sintaxes/Enums/Enum.md",
     "Untitled.canvas",
-    "Frontend/Nextjs/Next.js.md",
-    "Javascript/Funções/Escopo lexico",
-    "Javascript/Funções",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Pasted image 20250405180203.png",
     "Pasted image 20250405175906.png",
