@@ -14,3 +14,5 @@ tags:
 ### Renderização
 [[Renderização no angular]]
 
+### Tópicos avançados 
+[[Tópicos avançados - Angular]]

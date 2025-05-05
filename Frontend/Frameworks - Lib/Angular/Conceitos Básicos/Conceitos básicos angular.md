@@ -27,6 +27,8 @@ tags:
 [[Lifecycle Hooks Angular]]
 
 
+#### Injeção de dependecia & Zones
+
 ------
 ### Routing, Guards E interceptors
 
@@ -38,8 +40,6 @@ tags:
 
 #### Interceptors
 [[Interceptors Angular]]
-
-
 
 -----
 
