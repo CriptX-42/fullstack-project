@@ -11,7 +11,7 @@ Imagine a seguinte implementação:
 > Para instanciar os serviços de uma forma genérica, podemos usar nossa interface como orientação. Ex:
 
 - Repositório (interface):
-```
+```java
 public interface Repositorio {  
     void salvar();  
 }
@@ -19,7 +19,7 @@ public interface Repositorio {
 
 
 - Serviço:
-```
+```java
 public class RepositorioArquivo implements Repositorio {  
     @Override  
     public void salvar() {  
@@ -29,7 +29,7 @@ public class RepositorioArquivo implements Repositorio {
 ```
 
 
-```
+```java
 public class RepositorioBancoDeDados implements Repositorio {  
     @Override  
     public void salvar() {  
@@ -39,7 +39,7 @@ public class RepositorioBancoDeDados implements Repositorio {
 ```
 
 
-```
+```java
 public class RepositorioMemoria implements Repositorio {  
     @Override  
     public void salvar() {  
@@ -51,7 +51,7 @@ public class RepositorioMemoria implements Repositorio {
 
 - Implementação genérica:
 
-```
+```java
 public static void main(String[] args) {  
     Repositorio repo1 = new RepositorioArquivo();  
     Repositorio repo2 = new RepositorioMemoria();  

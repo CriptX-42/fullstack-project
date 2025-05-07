@@ -21,7 +21,7 @@ Tudo bem?
 
 ##### Outros usos assíncronos
 
-Callback é bastante usado em conjunto com [[setTimeout]] pois faz parte de sua estrutura.
+Callback é bastante usado em conjunto com ==setTimeout== pois faz parte de sua estrutura.
 
 ##### Problemas do callback
 

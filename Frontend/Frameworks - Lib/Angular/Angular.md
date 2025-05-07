@@ -16,3 +16,6 @@ tags:
 
 ### Tópicos avançados 
 [[Tópicos avançados - Angular]]
+
+### Testes no angular (O jasmine torna tudo mais verboso)
+[[Tipos de teste]]
