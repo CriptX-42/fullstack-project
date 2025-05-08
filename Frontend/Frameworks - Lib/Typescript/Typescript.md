@@ -1,5 +1,7 @@
 ---
 Created: 2025-04-09
+tags:
+  - Dicionário
 ---
 --------
 
@@ -7,3 +9,6 @@ Created: 2025-04-09
 [[Interface em Typescript]]
 ### Type
 [[Type em Typescript]]
+
+### Tipos Built-in - Mutável e imutável
+[[Tipos Built-in - Mutável e imutável]]
