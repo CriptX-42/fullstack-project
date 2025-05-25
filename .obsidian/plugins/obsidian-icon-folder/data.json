@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🦮",
       "LiTestTubeDiagonal",
       "LiRocket",
       "FasBusSimple",
-      "LiLineHorizontal",
-      "LiType"
+      "LiLineHorizontal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -226,7 +226,10 @@
   "Javascript/Objetos/Alguns conceitos/Coleções baseadas em conjuntos (`Set`, `WeakSet`).md": "LiPanelBottomDashed",
   "Javascript/Objetos/Alguns conceitos/JSON (JavaScript Object Notation).md": "LiFileJson",
   "Javascript/Conceitos/Depurador/Use strict.md": "🛑",
-  "Frontend/Frameworks - Lib/Angular/Angular.md": "FabAngular",
+  "Frontend/Frameworks - Lib/Angular/Angular.md": {
+    "iconName": "FabAngular",
+    "iconColor": "#f50000"
+  },
   "Frontend/Frameworks - Lib/Angular/RxJs": "👀",
   "Frontend/Frameworks - Lib/Angular": {
     "iconName": "FabAngular",
@@ -259,5 +262,6 @@
   "Frontend/Frameworks - Lib/Angular/Conceitos Básicos": "FasBusSimple",
   "Frontend/Frameworks - Lib/Angular/Tópicos avançados": "LiRocket",
   "Frontend/Frameworks - Lib/Angular/Testes no angular": "LiTestTubeDiagonal",
-  "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md": "LiRocket"
+  "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md": "LiRocket",
+  "Frontend/Frameworks - Lib/Angular/MFE": "🦮"
 }

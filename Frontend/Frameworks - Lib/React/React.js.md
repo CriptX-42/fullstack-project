@@ -6,10 +6,11 @@ tags:
 ### Componentes em React
 [[Componentes em React]]
 
-
 ### Hooks
 [[Hooks]]
 
 ### Renderização no react
-
 [[Renderização E DOM virtual]]
+
+### React Memo
+[[React.Memo]]

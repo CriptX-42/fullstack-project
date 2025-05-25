@@ -19,3 +19,10 @@ tags:
 
 ### Testes no angular (O jasmine torna tudo mais verboso)
 [[Tipos de teste]]
+
+
+----
+
+### Como montar um MFE para angular (um passo a passo)
+
+[[Guia de como montar um MFE simples]]

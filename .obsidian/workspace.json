@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc6bc0f2d53c374",
+        "id": "4cbbdcd871f6db4f",
         "type": "tabs",
         "children": [
           {
-            "id": "74104958990d541f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Angular.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angular"
-            }
-          },
-          {
-            "id": "40f5e6c4271a6d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Testes no angular/Tipos de teste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de teste"
-            }
-          },
-          {
-            "id": "ef50105d99eea359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frameworks - Lib/Angular/Testes no angular/Tipos de teste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de teste"
-            }
-          },
-          {
-            "id": "7560fce128ebc2c6",
+            "id": "394a46c0bfc281cc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,9 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4f7fee8d7276a311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/React.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React.js"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,9 +176,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Frontend/Frameworks - Lib/React/React.js.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for React.js"
             }
           },
           {
@@ -234,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -251,48 +225,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "4f7fee8d7276a311",
   "lastOpenFiles": [
-    "Frontend/Frameworks - Lib/Typescript/Typescript.md",
-    "Frontend/Frameworks - Lib/Typescript/Conceitos/Tipos Built-in - Mutável e imutável.md",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-    "Frontend/Frameworks - Lib/Angular/Testes no angular/Tipos de teste.md",
-    "Frontend/Frameworks - Lib/Angular/Testes no angular/exemplos/Testando Component Bindings.md",
-    "Frontend/Frameworks - Lib/Angular/Testes no angular/exemplos/Teste de serviço (angular).md",
+    "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
+    "Untitled.md",
+    "Frontend/Frameworks - Lib/Angular/MFE/Module Federation/Module Federation.md",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
-    "Java/Orientação a Objetos/OO/Polimorfismo/Exemplos/Programação orientada a interfaces.md",
-    "Java/Sentaxe Base/Sintaxes/Tipo primitivo (lista).md",
-    "Java/Streams/Streams.md",
-    "Java/Streams/Métodos/Collectors/Collectors.md",
-    "Java/Streams/Métodos/Finding and Matching.md",
-    "Javascript/Conceitos/Chamadas/Callback.md",
+    "Frontend/Frameworks - Lib/React/React.js.md",
+    "Frontend/Frameworks - Lib/React/React.Memo.md",
+    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
+    "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
+    "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
+    "Frontend/Frameworks - Lib/Angular/Untitled",
+    "Frontend/Frameworks - Lib/Angular/MFE",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md",
+    "Javascript/Assíncronos/Async - await/Async - await.md",
+    "Javascript/Assíncronos/Promise/Promise.md",
+    "Javascript/Assíncronos/Assíncronos.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
+    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Javascript/Conceitos/Renderização/SPA.md",
+    "Javascript/Conceitos/Renderização/SSR.md",
+    "Javascript/Variaveis/Let.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Testes no angular/exemplos",
     "WIP - Migrar MIRO.canvas",
-    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
-    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md",
     "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências",
     "Frontend/Frameworks - Lib/Angular/Testes no angular",
     "Frontend/Frameworks - Lib/Angular/Tópicos avançados",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
     "Pasted image 20250503155856.png",
-    "Untitled.md",
-    "Untitled 1.md",
     "react.pdf",
     "javascript.pdf",
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
-    "Java/Java.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular",
     "Javascript/RaoadMap.canvas",
     "Pasted image 20250427191501.png",
     "Untitled.canvas",
