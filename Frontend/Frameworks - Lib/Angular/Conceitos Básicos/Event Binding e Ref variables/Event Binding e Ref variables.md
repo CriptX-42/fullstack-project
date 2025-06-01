@@ -14,7 +14,6 @@ O _event binding_ conecta eventos DOM (como `click`, `keyup`, `change`) a métod
 onClick() {
   console.log('Botão clicado!');
 }
-
 ```
 
 --------

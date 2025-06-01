@@ -4,35 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4cbbdcd871f6db4f",
+        "id": "2f18baa409b1f6ed",
         "type": "tabs",
         "children": [
           {
-            "id": "394a46c0bfc281cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4f7fee8d7276a311",
+            "id": "182ce202196b331a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/React.js.md",
+                "file": "Javascript/Funções/Funções em js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React.js"
+              "title": "Funções em js"
+            }
+          },
+          {
+            "id": "21c7ddd7a758870d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Funções/Funções em js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funções em js"
+            }
+          },
+          {
+            "id": "b8247a6e48541d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Funções/Outros/Closure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closure"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 410.5
   },
   "right": {
     "id": "3d09947e502a6e83",
@@ -177,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Frontend/Frameworks - Lib/React/React.js.md"
+                "file": "Javascript/Funções/Outros/Closure.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for React.js"
+              "title": "File properties for Closure"
             }
           },
           {
@@ -208,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -225,37 +243,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f7fee8d7276a311",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Javascript/Funções/Funções em js.md",
+    "Javascript/Funções/Outros/Closure.md",
+    "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
-    "Untitled.md",
-    "Frontend/Frameworks - Lib/Angular/MFE/Module Federation/Module Federation.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Tipos Built-in - Mutável e imutável.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
+    "Javascript/Conceitos/Tipo de dados/Null.md",
+    "Javascript/Conceitos/Tipo de dados/Undefined.md",
+    "Javascript/Assíncronos/Assíncronos.md",
+    "Javascript/Assíncronos/Promise/Promise.md",
+    "Javascript/Assíncronos/Async - await/Async - await.md",
+    "Javascript/Assíncronos/EventLoops/Event Loops.md",
+    "Javascript/Variaveis/Hoising/Hoisting.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Templates/Diretivas Estruturais em Templates.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
+    "Java/Orientação a Objetos/OO/Getter and Setter.md",
+    "Java/Orientação a Objetos/Orientação a objetos.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
+    "Javascript/Variaveis/Let.md",
+    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
-    "Frontend/Frameworks - Lib/React/React.js.md",
-    "Frontend/Frameworks - Lib/React/React.Memo.md",
-    "Frontend/Frameworks - Lib/React/Hooks/Hooks.md",
-    "Frontend/Frameworks - Lib/React/Hooks/UseReducer.md",
+    "Javascript/Variaveis/Varáveis.md",
+    "Javascript/Variaveis/Const.md",
+    "Javascript/Variaveis/Var.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/MFE",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Interceptors Angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Routing angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor/Guards no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Fase do ciclo de vida do observable.md",
-    "Javascript/Assíncronos/Async - await/Async - await.md",
-    "Javascript/Assíncronos/Promise/Promise.md",
-    "Javascript/Assíncronos/Assíncronos.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Marbles.md",
-    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
-    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
-    "Javascript/Conceitos/Renderização/SPA.md",
-    "Javascript/Conceitos/Renderização/SSR.md",
-    "Javascript/Variaveis/Let.md",
     "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/Angular/Testes no angular/exemplos",
     "WIP - Migrar MIRO.canvas",
@@ -268,7 +287,6 @@
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
-    "Javascript/RaoadMap.canvas",
     "Pasted image 20250427191501.png",
     "Untitled.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
