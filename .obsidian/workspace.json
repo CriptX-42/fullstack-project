@@ -39,14 +39,17 @@
             "id": "b8247a6e48541d94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Javascript/Funções/Outros/Closure.md",
-                "mode": "source",
-                "source": false
+                "file": "Javascript/RaoadMap.canvas",
+                "viewState": {
+                  "x": 920,
+                  "y": 1144.40095257525,
+                  "zoom": -0.0840642647884744
+                }
               },
-              "icon": "lucide-file",
-              "title": "Closure"
+              "icon": "lucide-layout-dashboard",
+              "title": "RaoadMap"
             }
           }
         ],
@@ -243,10 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d23f9a6ea87bd6e",
+  "active": "b8247a6e48541d94",
   "lastOpenFiles": [
-    "Javascript/Funções/Funções em js.md",
+    "Javascript/Javascript.md",
     "Javascript/Funções/Outros/Closure.md",
+    "Javascript/Funções/Funções em js.md",
     "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
@@ -271,7 +275,6 @@
     "Frontend/Frameworks - Lib/Angular/Angular.md",
     "Javascript/Variaveis/Varáveis.md",
     "Javascript/Variaveis/Const.md",
-    "Javascript/Variaveis/Var.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/MFE",
