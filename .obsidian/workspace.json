@@ -39,21 +39,28 @@
             "id": "b8247a6e48541d94",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Javascript/RaoadMap.canvas",
-                "viewState": {
-                  "x": 920,
-                  "y": 1144.40095257525,
-                  "zoom": -0.0840642647884744
-                }
+                "file": "Javascript/Generators e Iterators/Generator e Iterators.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "RaoadMap"
+              "icon": "lucide-file",
+              "title": "Generator e Iterators"
+            }
+          },
+          {
+            "id": "4092fbf50d37ce51",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,11 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Javascript/Funções/Outros/Closure.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Closure"
+              "title": "File properties"
             }
           },
           {
@@ -246,12 +251,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8247a6e48541d94",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
+    "Javascript/Generators e Iterators/Generator e Iterators.md",
     "Javascript/Javascript.md",
+    "Javascript/Generators e Iterators/Generators.md",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Generators e Iterators",
     "Javascript/Funções/Outros/Closure.md",
     "Javascript/Funções/Funções em js.md",
-    "Javascript/RaoadMap.canvas",
     "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
@@ -273,8 +281,6 @@
     "Javascript/Variaveis/Let.md",
     "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
     "Frontend/Frameworks - Lib/Angular/Angular.md",
-    "Javascript/Variaveis/Varáveis.md",
-    "Javascript/Variaveis/Const.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/MFE",
@@ -289,7 +295,6 @@
     "javascript.pdf",
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Routing e Guards e Interceptor",
     "Pasted image 20250427191501.png",
     "Untitled.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",

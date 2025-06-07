@@ -15,3 +15,4 @@ tags:
 5. [[Definição de classes em JS]]
 6. [[Estrutura de dados]]
 7. [[Funções em js]]
+8. [[Generator e Iterators]]
