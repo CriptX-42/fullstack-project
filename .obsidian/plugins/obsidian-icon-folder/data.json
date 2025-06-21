@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDiagramProject",
+      "FasFire",
       "🦮",
       "LiTestTubeDiagonal",
-      "LiRocket",
-      "FasBusSimple",
-      "LiLineHorizontal"
+      "LiRocket"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -263,5 +263,7 @@
   "Frontend/Frameworks - Lib/Angular/Tópicos avançados": "LiRocket",
   "Frontend/Frameworks - Lib/Angular/Testes no angular": "LiTestTubeDiagonal",
   "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md": "LiRocket",
-  "Frontend/Frameworks - Lib/Angular/MFE": "🦮"
+  "Frontend/Frameworks - Lib/Angular/MFE": "🦮",
+  "Patterns/Algumas soluções/Strategy.md": "FasFire",
+  "Patterns": "FasDiagramProject"
 }

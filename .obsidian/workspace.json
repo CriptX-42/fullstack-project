@@ -25,56 +25,28 @@
             "id": "21c7ddd7a758870d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Funções/Funções em js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funções em js"
-            }
-          },
-          {
-            "id": "b8247a6e48541d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Generators e Iterators/Generator e Iterators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generator e Iterators"
-            }
-          },
-          {
-            "id": "4092fbf50d37ce51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devops/Devops.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Devops"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "2eff1b5a5b2d483e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Patterns/Algumas soluções/Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strategy"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,9 +190,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Patterns/Algumas soluções/Strategy.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Strategy"
             }
           },
           {
@@ -267,15 +241,20 @@
   },
   "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Devops/CI e CD.md",
-    "Devops/Devops.md",
+    "Patterns/Algumas soluções/Strategy.md",
+    "Patterns/Patterns.md",
+    "Javascript/Funções/Funções em js.md",
     "Javascript/Generators e Iterators/Generator e Iterators.md",
+    "Devops/Devops.md",
+    "Patterns/Algumas soluções",
+    "Patterns/Untitled Diagram.svg",
+    "Patterns",
+    "Devops/CI e CD.md",
     "Javascript/Javascript.md",
     "Javascript/Generators e Iterators/Generators.md",
     "Javascript/RaoadMap.canvas",
     "Javascript/Generators e Iterators",
     "Javascript/Funções/Outros/Closure.md",
-    "Javascript/Funções/Funções em js.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
@@ -293,8 +272,6 @@
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
     "Java/Orientação a Objetos/OO/Getter and Setter.md",
     "Java/Orientação a Objetos/Orientação a objetos.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
-    "Javascript/Variaveis/Let.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/MFE",
@@ -305,8 +282,6 @@
     "Frontend/Frameworks - Lib/Angular/Testes no angular",
     "Frontend/Frameworks - Lib/Angular/Tópicos avançados",
     "Pasted image 20250503155856.png",
-    "react.pdf",
-    "javascript.pdf",
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
     "Pasted image 20250427191501.png",
@@ -318,7 +293,6 @@
     "Javascript/Imags/Pasted image 20250222231546.png",
     "Javascript/Imags/Pasted image 20250317213724.png",
     "Javascript/Imags/Pasted image 20250317213754.png",
-    "Frontend/Frameworks/React/Untitled Diagram.svg",
     "Untitled 1.canvas"
   ]
 }
