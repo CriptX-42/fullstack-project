@@ -16,3 +16,4 @@ tags:
 6. [[Estrutura de dados]]
 7. [[Funções em js]]
 8. [[Generator e Iterators]]
+9. [[Modulos]]
