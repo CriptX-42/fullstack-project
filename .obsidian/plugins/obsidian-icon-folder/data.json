@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFaceGrinBeam",
       "FasDiagramProject",
       "FasFire",
       "🦮",
-      "LiTestTubeDiagonal",
-      "LiRocket"
+      "LiTestTubeDiagonal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -265,5 +265,6 @@
   "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md": "LiRocket",
   "Frontend/Frameworks - Lib/Angular/MFE": "🦮",
   "Patterns/Algumas soluções/Strategy.md": "FasFire",
-  "Patterns": "FasDiagramProject"
+  "Patterns": "FasDiagramProject",
+  "Patterns/Algumas soluções/BFF.md": "FasFaceGrinBeam"
 }

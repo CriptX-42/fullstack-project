@@ -4,3 +4,4 @@ tags:
   - Dicionário
 ---
 [[Strategy]]
+[[BFF]]

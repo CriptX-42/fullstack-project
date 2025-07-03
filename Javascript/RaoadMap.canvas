@@ -17,7 +17,7 @@
 		{"id":"4a9fdeed078aa5bb","type":"text","text":"###  Classes\n\n- [x] Definição de Classes\n- [x] Herança","x":3040,"y":1413,"width":300,"height":207,"color":"4"},
 		{"id":"a6523ee8503444b8","type":"text","text":"### Avançado","x":2330,"y":240,"width":260,"height":80},
 		{"id":"f57e3b9e2a542e0d","type":"text","text":"### **Iteradores e Geradores**\n\n- `Iterator`\n- `Generator`","x":3440,"y":1407,"width":304,"height":219,"color":"1"},
-		{"id":"4b90ed2206f63174","type":"text","text":"### **Módulos**\n\n- [ ] CommonJS\n- [ ] ECMAScript Modules","x":3880,"y":1442,"width":385,"height":149,"color":"1"},
+		{"id":"4b90ed2206f63174","type":"text","text":"### **Módulos**\n\n- [x] CommonJS\n- [ ] ECMAScript Modules","x":3880,"y":1442,"width":385,"height":149,"color":"5"},
 		{"id":"5926140feada08c4","type":"text","text":"### Depuração (Debugging)\n\n- [ ] Uso do Chrome DevTools\n- [ ] Debugging de problemas de desempenho\n- [ ] Debugging de vazamento de memória","x":4720,"y":1447,"width":440,"height":258,"color":"1"},
 		{"id":"34b6afe8deb68486","type":"text","text":"###  Gerenciamento de Memória\n\n- [ ] Ciclo de Vida da Memória\n- [ ] Garbage Collection","x":4320,"y":1442,"width":360,"height":263,"color":"1"},
 		{"id":"322b81c50ebd0133","type":"text","text":"###  Funções\n\n- [ ] Definição e chamada de funções\n- [ ] Parâmetros:\n    - [ ] Default Params\n    - [ ] Rest Params\n- [ ] Arrow Functions\n- [x] IIFEs (Immediately Invoked Function Expressions)\n- [ ] Stack e Escopo de Funções\n- [ ] Recursão\n- [x] Escopo Léxico\n- [x] Closures\n- [ ] `arguments` object\n- [x] Funções embutidas (`built-in functions`)","x":480,"y":1141,"width":522,"height":460,"color":"5"}
