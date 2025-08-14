@@ -22,27 +22,17 @@
             }
           },
           {
-            "id": "21c7ddd7a758870d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "2eff1b5a5b2d483e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "Guia de como montar um MFE simples"
             }
           },
           {
@@ -51,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patterns/Patterns.md",
+                "file": "IA/Introdução/Introdução a IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patterns"
-            }
-          },
-          {
-            "id": "73e803b3b6097829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Patterns/Algumas soluções/BFF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BFF"
+              "title": "Introdução a IA"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Patterns/Algumas soluções/Strategy.md"
+                "file": "IA/Introdução/Introdução a IA.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Strategy"
+              "title": "File properties for Introdução a IA"
             }
           },
           {
@@ -267,18 +243,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6247633dea350fb",
+  "active": "0d23f9a6ea87bd6e",
   "lastOpenFiles": [
-    "Patterns/Algumas soluções/BFF.md",
+    "IA/RoadMap.md",
+    "IA/Introdução/Introdução a IA.md",
     "Patterns/Patterns.md",
+    "IA/Introdução",
+    "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
+    "Javascript/Funções/Funções em js.md",
+    "IA",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Javascript/RaoadMap.canvas",
+    "Java/Orientação a Objetos/OO/Interfaces/Interface.md",
+    "Javascript/Javascript.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/O que é padrão observable?.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Patterns/Algumas soluções/BFF.md",
     "Javascript/Módulos/Conceitos/CommonJs.md",
     "Javascript/Módulos/Modulos.md",
     "Javascript/Módulos/Conceitos",
-    "Javascript/Javascript.md",
     "Javascript/Módulos",
     "Patterns/Algumas soluções/Strategy.md",
-    "Javascript/Funções/Funções em js.md",
     "Javascript/Generators e Iterators/Generator e Iterators.md",
     "Devops/Devops.md",
     "Patterns/Algumas soluções",
@@ -288,7 +274,6 @@
     "Javascript/Generators e Iterators/Generators.md",
     "Javascript/Generators e Iterators",
     "Javascript/Funções/Outros/Closure.md",
-    "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Type em Typescript.md",
     "Frontend/Frameworks - Lib/Typescript/Conceitos/Tipos Built-in - Mutável e imutável.md",
@@ -296,25 +281,15 @@
     "Javascript/Conceitos/Tipo de dados/Null.md",
     "Javascript/Conceitos/Tipo de dados/Undefined.md",
     "Javascript/Assíncronos/Assíncronos.md",
-    "Javascript/Assíncronos/Promise/Promise.md",
-    "Javascript/Assíncronos/Async - await/Async - await.md",
-    "Javascript/Assíncronos/EventLoops/Event Loops.md",
-    "Javascript/Variaveis/Hoising/Hoisting.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Templates/Diretivas Estruturais em Templates.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
     "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "Frontend/Frameworks - Lib/Angular/Untitled",
     "Frontend/Frameworks - Lib/Angular/MFE",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
-    "Frontend/Frameworks - Lib/Angular/Testes no angular/exemplos",
     "WIP - Migrar MIRO.canvas",
-    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências",
     "Pasted image 20250503155856.png",
     "Pasted image 20250404132730.png",
     "Pasted image 20250405180203.png",
     "Pasted image 20250427191501.png",
     "Untitled.canvas",
-    "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
     "Pasted image 20250405175906.png",
     "Java/Java Roadmap.canvas",
     "Pasted image 20250319121905.png",

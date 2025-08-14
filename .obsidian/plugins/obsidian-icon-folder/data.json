@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasIndianRupeeSign",
       "FasFaceGrinBeam",
       "FasDiagramProject",
       "FasFire",
-      "🦮",
-      "LiTestTubeDiagonal"
+      "🦮"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -266,5 +266,6 @@
   "Frontend/Frameworks - Lib/Angular/MFE": "🦮",
   "Patterns/Algumas soluções/Strategy.md": "FasFire",
   "Patterns": "FasDiagramProject",
-  "Patterns/Algumas soluções/BFF.md": "FasFaceGrinBeam"
+  "Patterns/Algumas soluções/BFF.md": "FasFaceGrinBeam",
+  "IA": "FasIndianRupeeSign"
 }
