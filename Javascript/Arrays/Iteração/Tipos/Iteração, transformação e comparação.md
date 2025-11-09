@@ -15,7 +15,8 @@ tags:
 >- [[Some]]
 >- [[FlatMap em Js]]
 
+### Comparação
 
-
-
+> [!tip] Sumário
+> [[Includes]]
 

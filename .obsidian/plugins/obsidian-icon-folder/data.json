@@ -163,7 +163,6 @@
   "Java/Coleção/Coleção.md": "LiPanelsTopBottom",
   "Git": "FabGitAlt",
   "Git/Git.md": "FabGitAlt",
-  "Javascript/Arrays/Iteração/Iteração e transformação.md": "LiIterationCw",
   "Java/Coleção/Definições/Hash Code.md": "FasHashtag",
   "Java/Coleção/Definições/Equals.md": "FasEquals",
   "Java/Coleção/Definições/Complexidade Big-O.md": "LiChartLine",
@@ -267,5 +266,6 @@
   "Patterns/Algumas soluções/Strategy.md": "FasFire",
   "Patterns": "FasDiagramProject",
   "Patterns/Algumas soluções/BFF.md": "FasFaceGrinBeam",
-  "IA": "FasIndianRupeeSign"
+  "IA": "FasIndianRupeeSign",
+  "Javascript/Arrays/Iteração/Tipos/Iteração, transformação e comparação.md": "LiIterationCw"
 }
