@@ -26,3 +26,6 @@ tags:
 ### Outros 
 1.  [[Hoisting]]
 2. [[Use strict]]
+
+### Conversão de tipos
+[[Coerção implícita e explícita]]

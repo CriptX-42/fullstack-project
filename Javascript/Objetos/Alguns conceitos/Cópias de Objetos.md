@@ -20,7 +20,7 @@ Created: 2025-03-06
 
 É muito comum se pensar que intuitivamente quando estamos lidando com objetos em memoria, podemos criar cópias com referencia deles, o que é errado. Um bom exemplo disso:
 
-```
+``` js
 const obj1 = { nome: "João", idade: 30 };
 const obj2 = obj1; // Apenas referência, NÃO é uma cópia
 
@@ -32,7 +32,7 @@ console.log(obj1.nome); // "Maria" (obj1 também foi alterado!)
 
 - Usando spread Operator é a forma mais correta de se criar uma cópia segura:
 
-```
+``` js
 const obj1 = { nome: "João", idade: 30 };
 const obj2 = { ...obj1 };
 
@@ -45,7 +45,7 @@ console.log(obj2.nome); // "Maria"
 
 #### Object Assign
 
-```
+``` js
 const obj1 = { nome: "João", idade: 30 };
 const obj2 = Object.assign({}, obj1);
 
@@ -63,7 +63,7 @@ console.log(obj1.nome); // "João" (obj1 não foi alterado!)
 
 #### JSON 
 
-```
+``` js
 const obj1 = { nome: "João", endereco: { cidade: "São Paulo" } };
 const obj2 = JSON.parse(JSON.stringify(obj1));
 
@@ -82,7 +82,7 @@ console.log(obj1.endereco.cidade); // "São Paulo" (Agora está seguro!)
 
 ##### `structuredClone()` (Nova solução moderna)
 
-```
+``` js
 const obj1 = { nome: "João", endereco: { cidade: "São Paulo" } };
 const obj2 = structuredClone(obj1);
 

@@ -19,7 +19,7 @@ Em Javascript, um objeto nada mais é do que uma estrutura de dados que armazena
 ### Brincando com isso
 
  - Imagine que temos esse objeto
-```
+``` js
 const pessoa = {
   nome: "João",
   idade: 30,
@@ -30,7 +30,7 @@ const pessoa = {
 
 Sabemos que para acessar o valor `nome`, basta chamar ´pessoa.nome´. Mas quando isso é algo dinâmico, podemos fazer:
 
-```
+``` js
 console.log(pessoa["profissao"]); // "Desenvolvedor"
 
 const chave = "idade";

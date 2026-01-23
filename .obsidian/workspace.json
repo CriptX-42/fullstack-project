@@ -4,39 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "03969838cbc5387a",
+        "id": "adb3b99d6df7dd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "327c5ce6eed51a21",
+            "id": "b242b2c735e81cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Arrays/Iteração/Tipos/Iteração, transformação e comparação.md",
+                "file": "Javascript/Arrays/Iteração/Tipos/Reduce (JS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iteração, transformação e comparação"
+              "title": "Reduce (JS)"
             }
           },
           {
-            "id": "6d003e575ab35f00",
+            "id": "a7a352c00ea896e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "07eb181a577ad09c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Arrays/Iteração/Includes.md",
+                "file": "Javascript/Conceitos/Dicionário de conceitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Includes"
+              "title": "Dicionário de conceitos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Created\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Arrays/Iteração/Includes.md"
+                "file": "Javascript/Conceitos/Dicionário de conceitos.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Includes"
+              "title": "File properties for Dicionário de conceitos"
             }
           },
           {
@@ -212,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -230,49 +240,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d003e575ab35f00",
+  "active": "07eb181a577ad09c",
   "lastOpenFiles": [
-    "Javascript/Arrays/Iteração/Tipos/Iteração, transformação e comparação.md",
-    "Javascript/Arrays/Iteração/Includes.md",
-    "Javascript/Arrays/Array e Typed Arrays.md",
-    "Javascript/Estrutura de dados/Estrutura de dados.md",
-    "Javascript/Assíncronos/EventLoops/Event Loops.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/ngClass.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/ngStyle.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Gerenciamento de estado/Gerenciamento de Estado no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Lifecycle Hooks Angular/Lifecycle Hooks Angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Templates/Diretivas Estruturais em Templates.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Visão arquitetural/Visão Arquitetural.md",
-    "Frontend/Frameworks - Lib/Angular/MFE/Module Federation/Module Federation.md",
+    "Javascript/Conceitos/Comparação/Igualdade.md",
+    "Javascript/Conceitos/Coerção implícita e explícita.md",
+    "Javascript/Conceitos/Dicionário de conceitos.md",
+    "Javascript/RaoadMap.canvas",
+    "Javascript/Arrays/Iteração/Tipos/Reduce (JS).md",
+    "Javascript/Javascript.md",
+    "Javascript/Estrutura de dados/Coleções/Baseada em chave e valor/WeakMap.md",
+    "Javascript/Arrays/Iteração/Tipos/map(callBack).md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Filtragem Rxjs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Transformação Rxjs.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/O que é padrão observable?.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/RxJs.md",
+    "Frontend/Frameworks - Lib/Angular/Testes no angular/Tipos de teste.md",
+    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Injeção de dependências/Injeção de dependências - Angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Interpolação angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos Simples/Property Binding.md",
     "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Event Binding e Ref variables/Event Binding e Ref variables.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Formulários, Inputs e Validação no angular/Formulários, Inputs e Validação no angular.md",
-    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Serviços e HTTP no angular/Serviços e HTTP no angular.md",
-    "Frontend/Frameworks - Lib/Angular/MFE/Guia de como montar um MFE simples.md",
-    "Frontend/Frameworks - Lib/Angular/Renderização/Renderização no angular.md",
-    "Javascript/Assíncronos/Async - await/Async - await.md",
-    "Javascript/Assíncronos/Promise/Promise.md",
-    "Javascript/Assíncronos/Assíncronos.md",
-    "Arquiteturas/Ports and Adapters.md",
-    "Javascript/Variaveis/Hoising/Hoisting.md",
-    "Arquiteturas/Arquiteturas.md",
-    "Java/Java.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Gerenciamento de estado/Gerenciamento de Estado no angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos básicos angular.md",
+    "Frontend/Frameworks - Lib/Angular/Conceitos Básicos/Conceitos de renderização/ngClass.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Operadores/Criação RxJs.md",
+    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Interface em Typescript.md",
+    "Frontend/Frameworks - Lib/Typescript/Conceitos/Tipos Built-in - Mutável e imutável.md",
+    "Frontend/Frameworks - Lib/Typescript/Typescript.md",
+    "Frontend/Frameworks - Lib/Angular/Tópicos avançados/Tópicos avançados - Angular.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Observable vs Promise.md",
+    "Frontend/Frameworks - Lib/Angular/RxJs/Definições/Combinação Rxjs.md",
+    "Javascript/Assíncronos/AbortController",
     "Pasted image 20250920200237.png",
     "Arquiteturas/Untitled",
     "Arquiteturas",
-    "Patterns/Patterns.md",
-    "Frontend/Frameworks - Lib/Typescript/Conceitos/Tipos Built-in - Mutável e imutável.md",
     "IA/Introdução",
     "IA",
-    "Frontend/Frameworks - Lib/Angular/Angular Roadmap.canvas",
     "Frontend/Frameworks - Lib/React/Roadmap React.canvas",
-    "Javascript/RaoadMap.canvas",
     "Javascript/Módulos/Conceitos",
     "Javascript/Módulos",
     "Patterns/Algumas soluções",
     "Patterns/Untitled Diagram.svg",
     "Patterns",
     "Javascript/Generators e Iterators",
-    "Frontend/Frameworks - Lib/Angular/MFE/Module Federation",
     "WIP - Migrar MIRO.canvas",
     "Pasted image 20250503155856.png",
     "Pasted image 20250404132730.png",

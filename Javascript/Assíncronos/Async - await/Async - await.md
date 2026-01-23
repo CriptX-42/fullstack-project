@@ -7,7 +7,7 @@
 > 	Aguarda a promise e retorna o valor.
 > 	Se for rejeitada o código ==pause== aparece, até que a promise seja resolvida. Sem bloquear o código
 
-````
+```` js
 const fetchData = () => {
     return new Promise((resolve, reject) => {
       setTimeout(() => {

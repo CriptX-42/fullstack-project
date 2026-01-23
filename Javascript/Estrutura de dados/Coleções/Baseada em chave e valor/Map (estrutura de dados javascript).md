@@ -17,7 +17,7 @@ Map é uma estrutura de dados que armazena chave/valor, permitindo qualquer tipo
 > - Possui métodos especificos para manipulação
 
 
-```
+``` js
 const map = new Map();
 
 map.set('nome', 'Alice');

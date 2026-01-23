@@ -65,4 +65,4 @@ console.log(typedArray); // Int16Array(3) [10, 20, 30]
 
 
 > [!Danger] Pra que usar isso?
-> Quando estivermos lidando com manipulação de arquivos, graficos ou comunicação binaria, Tuped Arrays são a melhor escolha
+> Quando estivermos lidando com manipulação de arquivos, graficos ou comunicação binaria, Typed Arrays são a melhor escolha

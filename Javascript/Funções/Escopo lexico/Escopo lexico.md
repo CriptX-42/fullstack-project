@@ -8,7 +8,7 @@ Um conceito simples em JS, basicamente define **as varaveis e funções** são a
 
 Quando o javascript interpreta nosso código, ele lê toda a estrutura, associa blocos de escopo com base na disposição em que as variaveis foram declaradas no código.
 
-```
+``` js
 function fora() {
   const mensagem = "Olá do escopo externo!";
 

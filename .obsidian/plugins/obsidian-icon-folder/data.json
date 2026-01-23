@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFunctionSquare",
+      "🧊",
       "FasIndianRupeeSign",
       "FasFaceGrinBeam",
-      "FasDiagramProject",
-      "FasFire",
-      "🦮"
+      "FasDiagramProject"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -267,5 +267,7 @@
   "Patterns": "FasDiagramProject",
   "Patterns/Algumas soluções/BFF.md": "FasFaceGrinBeam",
   "IA": "FasIndianRupeeSign",
-  "Javascript/Arrays/Iteração/Tipos/Iteração, transformação e comparação.md": "LiIterationCw"
+  "Javascript/Arrays/Iteração/Iteração, transformação e comparação.md": "LiIterationCw",
+  "Javascript/Objetos/Alguns conceitos/Imutabilidade.md": "🧊",
+  "Javascript/Funções": "LiFunctionSquare"
 }

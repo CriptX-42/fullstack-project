@@ -1,3 +1,6 @@
+---
+Created: 2025-11-09
+---
 - Um objeto que representa a conclusão ou falha de uma operação assíncrona, podendo ter como status: 
 
 | Pending  | Fulled    | Rejected  |
@@ -5,7 +8,7 @@
 | Pendente | Concluida | Rejeitada |
 Para lidar com os resultados é comum usar o then e catch 
 
-```
+``` js
 const fetchData = new Promise((resolve, reject) => {
   setTimeout(() => {
     const testeDeErro = true
